@@ -1,0 +1,26 @@
+42 M. Ghosh and A. Thirugnanam
+to be designed. This type of job was performed by the company Tessella. AI can
+also help in differentiating the non-suitable compounds for the drug design which
+are not suitable for the patient body. It also takes the help of computer-aided designtechniques to design the drugs for speciﬁc requirements [ 26].
+4.4 Digital Consultation
+AI provides digital consultation to the whole world in the form of healthcare chatbots.
+These are AI-based software solution which provides customized service in form of
+messages to the patients or the users without making them realize that they aretalking to any person or any device [ 27]. These basically make use of the natural
+language processing methods and help the healthcare industry to provide digitizedservice. They also provide consultation regarding food habits, exercise, and othertips to stay healthy. It helps to take necessary preventive measures by the users in
+order to protect themselves from getting affected with any disease and keep track of
+their health. Many services companies like Sensely, Y our.MD, Babylon HealthTap+
+, Pact., Woebot, and others provide a platform for digital consultation to the patients
+with the help of AI and related technologies like ML, NLP , and DL.
+4.5 Genome Editing
+This is totally a different aspect of AI application in which the focus is on thefeatures of genetic composition of a person. They try to get the relationship between
+the occurrence of the disease and the changes it made to the genes. Using the AI and
+ML techniques, scientists are now able to know the genomic data using gene editingand sequencing techniques. Gene editing can be described as the technique involved
+in DNA mutations with some alterations in the target sequence such as insertion,
+deletion, and substitutions [ 28]. It is known that the gene sequence consists of base
+pairs made up of (A, T, C, G); general DNA sequencing took much time but after the
+invent of a technology called as high throughput sequencing (HTS) which helps to
+perform the DNA sequencing in less than a day. The alterations done in that sequenceis termed as gene editing. Many AI platforms have been developed to enhance the
+HTS for a better representation of genome such as DeepV ariant. Overall, AI has
+efﬁciently aided the healthcare system and expected to do more in near future related
+to genome editing and more advancements including the genetic screening tools for
+the infants.

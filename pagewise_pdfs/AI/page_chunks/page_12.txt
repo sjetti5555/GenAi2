@@ -1,0 +1,32 @@
+Introduction to Artiﬁcial Intelligence 33
+moving forward in the pest/weed control methods and lastly to the crop harvesting
+and supply of produce to the right place and at justiﬁable rate [ 15,16]. With the
+advent of AI, sensor technology and Internet this industry has beneﬁtted to a large
+extent. In soil analysis and monitoring, AI can help us to know about the soil and seed
+relationship. In this regard, it tells which seed should be opted for speciﬁc type of
+soil. It predicts in reducing the use of harmful chemical fertilizers used to enhance theplant growth and monitors the irrigation method thereby saving water. According to
+a study done in Alfalfa, California, the use of Geographic Information System (GIS),
+in the irrigation method has helped to enhance the crop output by 35% and reductionin the amount of water used for irrigation. AI-based apps, basically with the help of
+sensors, pictures, and infrared rays help to determine the quality and properties of
+soil. Hence it helps in improving the agriculture process assuring better yield andproﬁt for the concerned farmers.
+Moving to the next application is the sowing process enhancement by the use of
+AI sowing app. According to a study in 2016, pilot project with 175 farmers wasinitiated by ICRISA T (The International Crop Research Institute for the Semi-Arid
+Tropics) with partnership of Microsoft in Kurnool district of Andhra Pradesh, India
+whose objective was to increase the level of output (about 30%) with decrease in
+the investment done prior to the farming. It was equipped with the alert messages
+provided to the farmers regarding the most suitable dates for cropping, land prepara-tion, and usage of fertilizer using this app which works and gives required results by
+taking the images uploaded by the farmers from the user end. In another study, the
+development of machine learning technology along with integrated computer visionapplications by Blue River Technologies aimed to optimize the herbicide and pest
+control. This technology helps to distinguish between the affected and normal parts
+of the plant. The “see and spray” project of Arkansas, USA, using this technology,got reduction in the required amount of expenses for weedicides per acre of land.
+In a different study done on the crop harvesting, it was found that the time taken by
+AI-based robots in tomato farms in Japan, is lesser than the time taken by the human.
+3.2 Business, Banking, and Finance
+This industry or sector is very important and delicate to protect the data and recordsof millions of customers. The prime factor is the trust, data transparency, and security
+of the customers. But unfortunately, till date, AI is unable to stop any fraud cases.
+However, with the help of AI many fraud detection methods and technologies are now
+offered to make the system more robust. Similarly, the business and retail market are
+also getting beneﬁted by improvised methods of customer handling and providingfaster and safer services. The world of e-commerce is highly affected by its high-level
+of customer interaction.
+In the ﬁnance and banking sector, AI has come up with many technological aids
+either in form of apps or methods to prevent from frauds, enhance better customer datastorage/retrieval, and many more. A study by a bank helped online fraud detection

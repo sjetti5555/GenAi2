@@ -1,0 +1,40 @@
+44 M. Ghosh and A. Thirugnanam
+10. Lobo, J.L., Del Ser, J., Bifet, A., Kasabov, N.: Spiking Neural Networks and online learning:
+an overview and perspectives. Neural Netw. 121, 88–100 (2020)
+11. Schmidhuber, J.: Deep Learning in neural networks: an overview. Neural Netw. 61, 85–117
+(2015)
+12. Kiryu, S., Akai, H., Yasaka, K.: Deep learning application in the oesophageal endoscopy. J.
+Med. Artif. Intell. 2, 22–22 (2019)
+13. Yamashita, R., Nishio, M., Do, R.K.G., Togashi, K.: Convolutional neural networks: an
+overview and application in radiology. Insights Imaging 9(4), 611–629 (2018)
+14. Tian, C., Xu, Y ., Zuo, W.: Image denoising using deep CNN with batch renormalization. Neural
+Netw. 121, 461–473 (2020)
+15. Barbedo, J.G.A: Detecting and Classifying Pests in Crops Using Proximal Images and Machine
+Learning: A Review. Artif.Intell. 1(2), 312 - 328 (2020).
+16. Talaviya, T., Shah, D., Patel, N., Yagnik, H., Shah, M.: Artiﬁcial Intelligence in Agricul-
+ture Implementation of artiﬁcial intelligence in agriculture for optimisation of irrigation and
+application of pesticides and herbicides. Artif. Intell. Agric. 4, 58–73 (2020)
+17. Hernández-Blanco, A., Herrera-Flores, B., Tomás, D., Navarro-Colorado, B.: A Systematic
+Review of Deep Learning Approaches to Educational Data Mining. Complexity, 2019, (2019).
+18. Dickmanns, E.D.: V ehicles capable of dynamic vision. IJCAI Int. Jt. Conf. Artif. Intell. 2,
+1577–1592 (1997)
+19. Hamet, P ., Tremblay, J.: Artiﬁcial intelligence in medicine. Metabolism 69, S36–S40 (2017)
+20. Mani Sekhar, S.R., Siddesh, G.M., Tiwari, A., Anand, A.: Bioinspired Techniques for Data
+Security in IoT. In: Alam M., Shakil K., K. S. (eds) Internet of Things (IoT):Concept andApplications(2020). pp. 167 - 187, Springer, Cham (2020).
+21. Xu, Q., Wang, L., Sansgiry, S.S.: A systematic literature review of predicting diabetic
+retinopathy, nephropathy and neuropathy in patients with type 1 diabetes using machinelearning. J. Med. Artif. Intell. 3, 1–13 (2020)
+22. Riihimaa, P .: Impact of machine learning and feature selection on type 2 diabetes risk prediction.
+J. Med. Artif. Intell. 3, 1–6 (2020)
+23. Shah, F., Kendall, P ., Khozin, N., Goosen, S., Hu, R., Laramie, J., Ringel, J., Schork, M.:
+Artiﬁcial intelligence and machine learning in clinical development: a translational perspective.npj Digit. Med. 2, 69 (2019)
+24. Abbod, M.F., Linkens, D.A., Mahfouf, M., Dounias, G.: Survey on the use of smart and adaptive
+engineering systems in medicine. Artif. Intell. Med. 26(3), 179–209 (2002)
+25. Mak, K.K., Pichika, M.R.: Artiﬁcial intelligence in drug development: present status and future
+prospects. Drug Discov. Today. 24(3), 773–780 (2019)
+26. Tang, C., Ji, J., Tang, Y ., Gao, S., Tang, Z., Todo, Y .: A novel machine learning technique for
+computer-aided diagnosis. Eng. Appl. Artif. Intell. 92(February), 103627 (2020)
+27. Colace, F., De Santo, M., Lombardi, M., Pascale, F., Pietrosanto, A., Lemma, S.: Chatbot for
+e-learning: a case of study. Int. J. Mech. Eng. Robot. Res. 7(5), 528–533 (2018)
+28. Manghwar, H., Lindsey, K., Zhang, X., Jin, S.: CRISPR/Cas system: recent advances and future
+prospects for genome editing. Trends Plant Sci. 24(12), 1102–1125 (2019)
+View publication stats
