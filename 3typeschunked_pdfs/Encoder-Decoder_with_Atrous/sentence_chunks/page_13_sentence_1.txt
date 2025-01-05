@@ -1,0 +1,7 @@
+DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 13
+Method mIOU
+Deep Layer Cascade (LC) [ 82]82.7
+TuSimple [ 77] 83.1
+LargeKernelMatters [ 60] 83.6
+Multipath-ReﬁneNet [ 58] 84.2
+ResNet-38 MSCOCO

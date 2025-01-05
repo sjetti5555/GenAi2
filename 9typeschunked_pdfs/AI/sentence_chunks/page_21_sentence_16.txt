@@ -1,0 +1,2 @@
+Many AI platforms have been developed to enhance the
+HTS for a better representation of genome such as DeepV ariant.

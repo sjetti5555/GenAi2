@@ -1,0 +1,2 @@
+Note the en-
+coder output feature map contains 256 channels and rich semantic informat ion.

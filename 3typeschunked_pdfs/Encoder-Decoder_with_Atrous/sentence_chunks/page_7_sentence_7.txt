@@ -1,0 +1,4 @@
+Stride 2
++
+Sep Conv 1536, 3x3
+Sep Conv 1536, 3x3

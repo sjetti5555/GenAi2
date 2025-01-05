@@ -1,0 +1,3 @@
+We
+use asynchronous training with 50 GPUs and each GPU has batch size 32 with
+image size 299 ×299.

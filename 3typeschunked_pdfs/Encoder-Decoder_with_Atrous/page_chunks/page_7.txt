@@ -1,0 +1,49 @@
+DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 7
+Conv 32, 3x3, stride 2
+Conv 64, 3x3
+Sep Conv 128, 3x3
+Sep Conv 128, 3x3
+Sep Conv 128, 3x3, stride 2Conv 128, 1x1
+Stride 2
++
+Sep Conv 256, 3x3
+Sep Conv 256, 3x3
+Sep Conv 256, 3x3, stride 2Conv 256, 1x1
+Stride 2
++
+Sep Conv 728, 3x3
+Sep Conv 728, 3x3
+Sep Conv 728, 3x3, stride 2Conv 728, 1x1
+Stride 2
++ImagesEntry  flow
+Sep Conv 728, 3x3
+Sep Conv 728, 3x3
+Sep Conv 728, 3x3
++Middle  flow
+Repeat 16 times
+Sep Conv 728, 3x3
+Sep Conv 1024, 3x3
+Sep Conv 1024, 3x3, stride 2Conv 1024, 1x1
+Stride 2
++
+Sep Conv 1536, 3x3
+Sep Conv 1536, 3x3
+Sep Conv 2048, 3x3Exit  flow
+Fig.4.We modify the Xception as follows: (1) more layers (same as MSRA’s modiﬁca-
+tion except the changes in Entry ﬂow), (2) all the max pooling o perations are replaced
+by depthwise separable convolutions with striding, and (3) ex tra batch normalization
+and ReLU are added after each 3 ×3 depthwise convolution, similar to MobileNet.
+The proposed models are evaluated on the PASCAL VOC 2012 semantic
+segmentation benchmark [ 1] which contains 20 foreground object classes and one
+background class. The original dataset contains 1 ,464 (train), 1,449 (val), and
+1,456 (test) pixel-level annotated images. We augment the dataset by the extra
+annotations provided by [ 76], resulting in 10 ,582 (trainaug) training images.
+The performance is measured in terms of pixel intersection-over- union averaged
+across the 21 classes (mIOU).
+Wefollowthesametrainingprotocolasin[ 23]andrefertheinterestedreaders
+to [23] for details. In short, we employ the same learning rate schedule ( i.e.,
+“poly” policy [ 52] and same initial learning rate 0 .007), crop size 513 ×513,
+ﬁne-tuning batch normalization parameters [ 75] whenoutput stride = 16, and
+randomscaledataaugmentationduringtraining.Notethatwealsoincludebat ch
+normalization parameters in the proposed decoder module. Our propose d model
+is trained end-to-end without piecewise pretraining of each compone nt.

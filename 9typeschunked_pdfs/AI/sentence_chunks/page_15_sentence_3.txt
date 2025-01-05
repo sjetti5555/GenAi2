@@ -1,0 +1,3 @@
+(iii) Quick diagnosis : it is true that AI alone cannot treat patients but has assisted
+a lot for the quick diagnosis in terms of image analysis of the lungs (CT scan)
+of suspected and positive cases.

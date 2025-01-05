@@ -1,0 +1,20 @@
+ to Artiﬁcial Intelligence 31
+the system, learn from the data and produce results. Some of the major appli-
+cations of the RNN are the Chatbots, fraud detection algorithms in monetary
+transaction, providing caption for images, and many more [ 11].
+(c) Convolutional neural networks : the Convolutional Neural Networks (CNN)
+are the most widely used neural networks which have multi-layered neuralnetwork. The CNN is considered to be the most efﬁcient form of neural networkwhich is basically used for feature extraction of images and pattern recognition.
+It has a wide range of application in the ﬁeld of medical diagnosis and has
+helped in medical image analysis. Deep CNN has its great usage in radiologyand pathology as well. For instance, it can help in esophageal endoscopy for
+detecting esophageal cancer [ 12]. The schematic diagram (Fig. 4) describes
+how the image recognized by the network [ 13,14]. The CNN network is widely
+used method and algorithm in the application of deep learning and is basicallyused for image identiﬁcation and classiﬁcation. The algorithms are developed
+in a manner to deal with the pixel data. The basic CNN network consists oftwo parts, i.e., feature extractor and classiﬁer. The feature extractor contains the
+convolutional and pooling layers whose purpose is to extract the minute features
+from the image in terms of pixel data. The convolutional layer deals with the
+feature extraction of the image and preserving the relevant data about the
+pixels. It reveals the information like edge, boundaries of a image. The poolinglayers reduce the dimensionality of an image while retaining the important
+information. As CNN is a multilayer neuron network, the role classiﬁer part
+of the network is to classify the information obtained from convolution andpooling layers. This role is played by the fully connective layer whose motive
+is to connect each node of a layer with other nodes. As a result, whatever image
+Fig. 4 Schematic diagram depicting the image recognition of the input image using CNN

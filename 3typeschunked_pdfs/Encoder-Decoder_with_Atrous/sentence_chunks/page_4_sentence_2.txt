@@ -1,0 +1,9 @@
+Conv
+3x3 Conv
+rate 6
+3x3 Conv
+rate 12
+3x3 Conv
+rate 18
+Image
+Pooling1x1

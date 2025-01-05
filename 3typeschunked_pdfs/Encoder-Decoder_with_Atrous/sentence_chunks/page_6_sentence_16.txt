@@ -1,0 +1,3 @@
+3.2 Modiﬁed Aligned Xception
+The Xception model [ 26] has shown promising image classiﬁcation results on Im-
+ageNet

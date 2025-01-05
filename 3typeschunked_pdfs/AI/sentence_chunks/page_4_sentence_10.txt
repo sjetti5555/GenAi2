@@ -1,0 +1,6 @@
+1.2 Types of AI (Based on Functionality)
+Based on the functionality, artiﬁcial intelligence can be classiﬁed as per the followingtypes:
+(i) Reactive machines
+(ii) Limited memory
+(iii) Theory of mind
+(iv) Self-awareness.

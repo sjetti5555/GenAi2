@@ -1,0 +1,2 @@
+Note that our proposed DeepLabv3+ model has
+output stride = 4.

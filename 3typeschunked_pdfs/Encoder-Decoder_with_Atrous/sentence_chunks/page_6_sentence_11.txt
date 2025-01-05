@@ -1,0 +1,5 @@
+We apply another 1 ×1 convolution on the
+low-level features to reduce the number of channels, since the c orresponding low-
+level features usually contain a large number of channels ( e.g., 256 or 512) which
+may outweigh the importance of the rich encoder features (only 256 chann els in
+our model) and make the training harder.

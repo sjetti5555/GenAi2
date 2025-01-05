@@ -1,0 +1,4 @@
+The encoder features are ﬁrst bilinearly upsampled by a
+factor of 4 and then concatenated with the corresponding low-level feat ures [73]
+from the network backbone that have the same spatial resolution ( e.g., Conv2
+before striding in ResNet-101 [ 25]).

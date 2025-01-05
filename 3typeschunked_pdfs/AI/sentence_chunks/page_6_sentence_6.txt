@@ -1,0 +1,1 @@
+ML is considered as thesubset of AI and DL is considered as the subset of ML.

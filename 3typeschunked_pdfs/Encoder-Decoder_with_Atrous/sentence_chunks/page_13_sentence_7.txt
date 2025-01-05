@@ -1,0 +1,2 @@
+In the examples, we adopt Xception
+as feature extractor and train output stride =eval output stride = 16.

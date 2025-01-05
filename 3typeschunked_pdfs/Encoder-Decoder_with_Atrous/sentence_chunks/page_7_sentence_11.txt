@@ -1,0 +1,2 @@
+We augment the dataset by the extra
+annotations provided by [ 76], resulting in 10 ,582 (trainaug) training images.

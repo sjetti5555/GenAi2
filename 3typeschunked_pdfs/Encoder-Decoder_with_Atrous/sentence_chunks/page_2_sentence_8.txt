@@ -1,0 +1,3 @@
+Taking ResNet-101 [ 25] for example, when applying atrous convolu-
+tion to extract output features that are 16 times smaller than input res olution,
+features within the last 3 residual blocks (9 layers) have to be d ilated.

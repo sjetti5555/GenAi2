@@ -1,0 +1,3 @@
+One such
+development is IntelliVue Guardian Solution, which was done by Philips Healthcares
+which uses the concept of artiﬁcial intelligent and makes appropriate predictions foreffective and early managing of health status of a patient.

@@ -1,0 +1,6 @@
+In particular, we make a few more changes on top of MSRA’s
+modiﬁcations, namely (1) deeper Xception same as in [ 31] except that we do
+not modify the entry ﬂow network structure for fast computation and me mory
+eﬃciency, (2) all max pooling operations are replaced by depthwise sep arable
+convolution with striding, which enables us to apply atrous separable convolu-
+tionto

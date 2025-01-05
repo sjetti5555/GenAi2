@@ -1,0 +1,2 @@
+Neural networks : these can be described as the representation of human neural
+system, i.e., neurons and dendrites in the form of layers and nodes representing data.

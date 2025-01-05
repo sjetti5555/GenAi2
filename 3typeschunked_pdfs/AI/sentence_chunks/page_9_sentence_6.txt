@@ -1,0 +1,3 @@
+It does not contain any recurrent movement of information.
+(b) Recurrent neural networks : in Recurrent Neural Networks (RNN), there is a
+recurrent ﬂow of data from the output to the input to generate the memory for

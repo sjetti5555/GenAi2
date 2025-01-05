@@ -1,0 +1,3 @@
+IBM’s chess
+program which defeated famous champion Garry Kasparov and the deep blue system,
+Google’s AlphaGo are some of the examples for reactive machines [ 3].

@@ -1,0 +1,3 @@
+Speciﬁcally, the depthwise convolution performs a spati al convolution
+independently for each input channel, while the pointwise convolu tion is em-
+ployedtocombinetheoutputfromthedepthwiseconvolution.

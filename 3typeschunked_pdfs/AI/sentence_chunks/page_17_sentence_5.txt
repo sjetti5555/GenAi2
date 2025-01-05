@@ -1,0 +1,3 @@
+Eventually the combination of AI, Robotics, Internet of Things
+(IoT), and Internet of Medical Things (IoMT) is the new era of healthcare solution
+system and an important milestone in the process of fourth industrial revolution.

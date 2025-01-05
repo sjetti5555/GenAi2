@@ -1,0 +1,2 @@
+Robotics : it is the domain of AI which is mostly associated with the development of
+intelligent machines in the form of robot which obeys human instructions.

@@ -1,0 +1,2 @@
+In thisprocess of computing the machine receives data as input and provides result using
+an appropriate algorithm.

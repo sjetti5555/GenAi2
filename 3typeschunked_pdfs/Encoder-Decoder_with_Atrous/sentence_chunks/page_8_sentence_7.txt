@@ -1,0 +1,4 @@
+To evaluate the eﬀect of the 1 ×1 convolution in the decoder module, we
+employ [3 ×3,256] and the Conv2 features from ResNet-101 network backbone,
+i.e., the last feature map in res2x residual block (to be concrete, we us e the
+feature map before striding).

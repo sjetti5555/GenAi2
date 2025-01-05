@@ -1,0 +1,4 @@
+4.4 Improvement along Object Boundaries
+Inthissubsection,weevaluatethesegmentationaccuracywiththetr imapexper-
+iment [14,40,39] to quantify the accuracy of the proposed decoder module near
+object boundaries.

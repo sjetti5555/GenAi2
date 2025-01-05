@@ -1,0 +1,3 @@
+The encoder module encodes multi-scale co ntextual information by
+applying atrous convolution at multiple scales, while the si mple yet eﬀective decoder
+module reﬁnes the segmentation results along object boundaries .

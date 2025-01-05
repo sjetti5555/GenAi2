@@ -1,0 +1,1 @@
+For drug design, AI is usedto determine the proper candidate molecules from the reduced graph of the drug

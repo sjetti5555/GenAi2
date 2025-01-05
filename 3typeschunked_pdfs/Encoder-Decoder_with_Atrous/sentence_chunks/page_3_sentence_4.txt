@@ -1,0 +1,3 @@
+–In our structure, one can arbitrarily control the resolution of extracte d en-
+coder features by atrous convolution to trade-oﬀ precision and runtime ,
+which is not possible with existing encoder-decoder models.

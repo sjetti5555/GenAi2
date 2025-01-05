@@ -1,0 +1,29 @@
+28 M. Ghosh and A. Thirugnanam
+more and more data. It can learn from the data and improve automatically. This
+is very much helpful for dealing with huge data of complex problems, which are
+difﬁcult for humans to deal with and they also consume more time in solving. In thisprocess of computing the machine receives data as input and provides result using
+an appropriate algorithm.
+Classiﬁcation of Machine Learning
+Based on the nature of the learning signal or response that the machine gets; machine
+learning can be classiﬁed into following categories:
+(i) Supervised learning
+(ii) Unsupervised learning
+(iii) Reinforcement learning.
+Supervised learning : according to the literal meaning, this method correlates with
+the method of learning of student under the supervision of a teacher. As a teacher
+illustrates the student with many good examples to help in grasping the concept
+perfectly, the machine is provided with many labeled data to help in obtaining theperfect output from the given input. The algorithms under this method are classiﬁed
+into two categories, i.e., regression and classiﬁcation. One example of this method
+is spam ﬁltering [ 5,6].
+Unsupervised learning : in this method the machine has to train itself without any
+supervisor, i.e., the data provided at the input are not labeled or classiﬁed. Thealgorithm has to train itself by searching the degree of similarities among the given
+data and ﬁgure out the appropriate output for the given problem. The algorithm helps
+to reﬁne the data which can be correlated with the desired output. The algorithmsare classiﬁed into clustering and association types [ 6,7].
+Reinforcement learning : this method is typically a feedback-based learning method.
+In this method the machine is given a reward for every right action taken by it and
+a penalty for any wrong action, so it is a self-learning method done by analyzing its
+past performances. The objective of the algorithm is to achieve maximum rewardpoints. Examples for reinforcement learning is a robotic dog learning by its own
+mistakes and performances, computer playing video games by their own.
+The machine learning algorithm is widely being used in multiple ﬁelds such as
+medical diagnosis, image processing, web search engines, photo tagging applica-tions, ﬁnance and marketing sector, fraud detection, weather forecasting, and many
+more. The main advantage is the repetitive process and self-learning methods that itapplies to ﬁnd the output.

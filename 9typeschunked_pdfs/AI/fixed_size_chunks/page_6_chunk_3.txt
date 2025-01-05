@@ -1,0 +1,1 @@
+as training data and with the help of the algorithms predict thepossible output over the given input. More the data (information) is provided, moreperfect is the performance or prediction. In other words, the relationship between the data and efﬁciency is that the machine can improve its efﬁciency by gaining Fig. 2 Relationship between AI, ML, and DL

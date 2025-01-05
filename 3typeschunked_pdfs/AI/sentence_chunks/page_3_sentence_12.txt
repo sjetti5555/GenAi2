@@ -1,0 +1,2 @@
+The basic aim of AI is to provide more transparent,
+interpretable, and explainable systems which can help to establish a better-equippedsystem used as an intelligent agent.

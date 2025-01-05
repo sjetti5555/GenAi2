@@ -1,0 +1,2 @@
+After ﬁnding the best model variant on valset, we then further ﬁne-tune
+the model on the coarse annotations in order to compete with other state-of -art

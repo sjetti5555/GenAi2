@@ -1,0 +1,37 @@
+DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 9
+Channels 8 16 32 48 64
+mIOU 77.61% 77.92% 78.16% 78.21% 77.94%
+Table 1. PASCAL VOC 2012 valset. Eﬀect of decoder 1 ×1 convolution used to
+reduce the channels of low-level feature map from the encoder mod ule. We ﬁx the
+other components in the decoder structure as using [3 ×3,256] and Conv2.
+Features 3 ×3 ConvmIOUConv2 Conv3 Structure
+/check [3×3,256]78.21%
+/check [3×3,256]×278.85%
+/check [3×3,256]×378.02%
+/check [3×3,128]77.25%
+/check [1×1,256]78.07%
+/check /check [3×3,256]78.61%
+Table 2. Eﬀect of decoder structure when ﬁxing [1 ×1,48] to reduce the encoder
+feature channels. We found that it is most eﬀective to use the Con v2 (before striding)
+feature map and two extra [3 ×3,256] operations. Performance on VOC 2012 valset.
+EncoderDecoder MS Flip mIOU Multiply-Addstrain OS eval OS
+16 16 77.21% 81.02B
+16 8 78.51% 276.18B
+16 8 /check79.45% 2435.37B
+16 8 /check /check79.77% 4870.59B
+16 16 /check 78.85% 101.28B
+16 16 /check /check 80.09% 898.69B
+16 16 /check /check /check 80.22% 1797.23B
+16 8 /check 79.35% 297.92B
+16 8 /check /check 80.43% 2623.61B
+16 8 /check /check /check 80.57% 5247.07B
+32 32 75.43% 52.43B
+32 32 /check 77.37% 74.20B
+32 16 /check 77.80% 101.28B
+32 8 /check 77.92% 297.92B
+Table 3. Inference strategy on the PASCAL VOC 2012 valset using ResNet-101 .
+train OS : Theoutput stride used during training. eval OS : Theoutput stride used
+during evaluation. Decoder : Employing the proposed decoder structure. MS: Multi-
+scale inputs during evaluation. Flip: Adding left-right ﬂipped inputs.
+are able to obtain features at diﬀerent resolutions during training and evaluation
+using a single model.

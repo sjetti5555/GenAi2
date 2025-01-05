@@ -1,0 +1,3 @@
+34 M. Ghosh and A. Thirugnanam
+solution provider, i.e., Teradata which helps to manage the false positive cases and
+detection of real frauds.

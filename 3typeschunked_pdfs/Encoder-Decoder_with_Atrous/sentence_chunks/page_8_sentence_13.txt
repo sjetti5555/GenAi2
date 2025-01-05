@@ -1,0 +1,2 @@
+We also experiment with the case where both C onv2
+and Conv3 feature maps are exploited in the decoder module.

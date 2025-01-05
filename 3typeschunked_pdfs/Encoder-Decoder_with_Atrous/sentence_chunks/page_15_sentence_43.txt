@@ -1,0 +1,2 @@
+Ladicky, L., Russell, C., Kohli, P., Torr, P.H.: Associati ve hierarchical crfs for
+object class image segmentation.

@@ -1,0 +1,2 @@
+For instance, the AI and ML approaches have been used to ﬁnd usefulinformation from the “data lakes” which are large data sets of information extracted
+from Electronic health records [ 23].

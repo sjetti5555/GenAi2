@@ -1,0 +1,2 @@
+The poolinglayers reduce the dimensionality of an image while retaining the important
+information.

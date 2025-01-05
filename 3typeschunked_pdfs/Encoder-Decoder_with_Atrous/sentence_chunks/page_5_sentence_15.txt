@@ -1,0 +1,3 @@
+Here, we denote output stride as the ratio of input image
+spatial resolution to the ﬁnal output resolution (before global pooling or f ully-
+connected layer).

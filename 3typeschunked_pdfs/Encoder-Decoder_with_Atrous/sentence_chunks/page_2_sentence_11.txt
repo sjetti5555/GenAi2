@@ -1,0 +1,4 @@
+On the other hand,
+encoder-decoder models [ 21,22] lend themselves to faster computation (since no
+features are dilated) in the encoder path and gradually recover sharp ob ject
+boundaries in the decoder path.

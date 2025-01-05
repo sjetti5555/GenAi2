@@ -1,0 +1,3 @@
+In
+a recent study, the Andhra Pradesh government (India) was aided by a predictive
+analysis done with the assistance of Microsoft using some Azure machine learningprocess to ﬁnd the dropouts of students in an academic institution.

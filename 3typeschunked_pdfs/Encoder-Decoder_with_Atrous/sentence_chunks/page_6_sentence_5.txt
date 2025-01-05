@@ -1,0 +1,2 @@
+Proposed decoder: The encoder features from DeepLabv3 are usually com-
+puted with output stride = 16.

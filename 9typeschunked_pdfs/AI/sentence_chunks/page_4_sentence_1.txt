@@ -1,0 +1,3 @@
+Introduction to Artiﬁcial Intelligence 25
+W eak or narrow AI : it is a type of AI which can perform a predeﬁned narrow set of
+instructions without exhibiting any thinking capability.

@@ -1,0 +1,2 @@
+3when using ResNet-101 [ 25] as network
+backbone in the proposed DeepLabv3+ model.

@@ -1,0 +1,2 @@
+Besides, one could extract features at an arbitrary resolution by applyi ng the
+atrous convolution, depending on the computation budget.

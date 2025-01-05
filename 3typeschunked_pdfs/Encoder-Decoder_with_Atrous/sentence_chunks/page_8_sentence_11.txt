@@ -1,0 +1,3 @@
+2. We ﬁnd that after concatenating the Conv2 feature
+map(beforestriding)withDeepLabv3featuremap,itismoreeﬀective toemploy
+two3×3convolutionwith256ﬁltersthanusingsimplyoneorthreeconvolutions .

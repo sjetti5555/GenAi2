@@ -1,0 +1,1 @@
+It can learn from the data and improve automatically.

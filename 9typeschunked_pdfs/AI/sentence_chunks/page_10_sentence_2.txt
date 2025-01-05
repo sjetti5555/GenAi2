@@ -1,0 +1,5 @@
+Some of the major appli-
+cations of the RNN are the Chatbots, fraud detection algorithms in monetary
+transaction, providing caption for images, and many more [ 11].
+(c) Convolutional neural networks : the Convolutional Neural Networks (CNN)
+are the most widely used neural networks which have multi-layered neuralnetwork.

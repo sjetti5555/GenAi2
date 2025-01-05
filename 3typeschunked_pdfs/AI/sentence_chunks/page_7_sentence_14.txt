@@ -1,0 +1,2 @@
+The algorithm helps
+to reﬁne the data which can be correlated with the desired output.

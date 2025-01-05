@@ -1,0 +1,590 @@
+ne t/public ation/351758474
+Introduction to Artiﬁcial Intelligence
+Chapt er · May 2021
+DOI: 10
+Introduction to Artiﬁcial Intelligence
+Moumita Ghosh and A
+ Thirugnanam
+Abstract Artiﬁcial Intelligence (AI) is the branch of computer science, which makes
+the computers to mimic the human behavior to assist humans for better perfor-
+mance in the ﬁeld of science and technology
+ Replicating human intelligence, solving
+knowledge-intensive tasks, building machines, which can perform tasks, that require
+human intelligence, creating some system which can learn by itself are the few
+speciﬁc goals of AI
+ Machine learning and deep learning are two subsets of AI which
+are used to solve problems using high performance algorithms and multilayer neuralnetworks, respectively
+ With the help of machine learning process, structured data
+like genetic data, electrophysical data, and imaging data are properly investigated
+in medical diagnosis
+ AI provides advanced devices, advanced drug designing tech-niques, tele-treatment, physician–patient communication using Chatbots and intel-
+ligent machines used for analyzing the cause and the chances of occurrence of any
+disease in the ﬁeld of health care
+
+Keywords Artiﬁcial intelligence
+·Machine learning ·Deep learning ·Drug
+development ·Healthcare systems
+1 Introduction
+Artiﬁcial Intelligence (AI) is a domain of computer science which deals with the
+development of intelligent computer systems, which are capable to perceive, analyze,
+and react accordingly to the inputs [ 1,2]
+ It is well-known fact that humans are consid-
+ered as the most intelligent and smart species on earth
+ The features which have helped
+them to bag this title include the ability to think, apply logic, do reasoning, under-
+stand the complexity, and make decisions on their own
+), Artiﬁcial Intelligence for Information
+Management: A Healthcare Perspective , Studies in Big Data 88,
+https://doi
+ Thirugnanam
+invention is the computer, which plays a signiﬁcant role in reducing the workload of
+humans and solving many complex mathematical and logical problems
+ So,they tried to create a “man-made homosapien” species, which can be related to the
+world of computers in the form of AI (which are Artiﬁcial, i
+, manmade, and Intel-
+ligence, i
+ If a system can have the basic skills like learning,
+reasoning, self-improvement (by learning from experience), language understanding,and solving problems, then it can be assumed that there is the existence of AI
+ The AI
+has been used and implemented in many ﬁelds especially in technological domainand is expected to provide 2
+ It can also be denoted as the method of simulation of human intelli-gence designed or programmed by humans
+ With the help of AI, a well-equipped
+life is generated where the automated machines work for humans, saving their time
+and energy
+ Basically, two types of assistants are considered for humans, manual(in the form of robots), and digital (Chatbots) which can perform risky, repetitive,
+and troublesome tasks
+ The task of developing such machines is accomplished by
+minutely studying the human behavior and implementing the logic in the form of
+algorithms resulting in inventions of software, devices, robots, etc
+, making human
+race smarter
+
+There are many areas which contribute to artiﬁcial intelligence which includes
+mathematics (used for developing algorithms), biology, philosophy, psychology,neuroscience (for studying human mind and its behavior), statistics (for handlinghuge data), and last but not the least, computer science (to run the algorithm for
+implementing the concepts)
+ The basic aim of AI is to provide more transparent,
+interpretable, and explainable systems which can help to establish a better-equippedsystem used as an intelligent agent
+ The concept of trusting machine as a replica of
+human started with the invent of turing test in which the machine is tested irrespective
+of the knowledge of examiner upon the instructions given considering it as humanand if it passes the test, the machine is considered as intelligent
+ No wonder AI has
+affected many aspects of the society and presented a new modern era in this digital
+revolution
+1 Types of AI (Based on Capabilities)
+The various types of artiﬁcial intelligence based on the capabilities can be classiﬁed
+as
+– Weak or narrow AI
+– General AI
+– Strong AI
+Introduction to Artiﬁcial Intelligence 25
+W eak or narrow AI : it is a type of AI which can perform a predeﬁned narrow set of
+instructions without exhibiting any thinking capability
+ It is the most widely used type
+of AI in this world
+ Some famous examples are Apples’s Siri, Alexa, Alpha Go, IBM’sWatson supercomputer, Sophia (the humanoid) all belong to the weak AI type [ 3]
+
+General AI : it is the type of AI which can perform the tasks like what human can
+do
+ Till now it is not achieved, there are no such machines which works like humanor can think as perfectly as human, but it may happen in near future
+
+Strong AI : it is the type of AI in which it is expected that the machine will surpass
+the capacity of human
+ It will perform better than humans, though it is tough, but it
+is not impossible
+ It may be the situation when it can be said that the machines will
+be the master and overtake humans
+2 Types of AI (Based on Functionality)
+Based on the functionality, artiﬁcial intelligence can be classiﬁed as per the followingtypes:
+(i) Reactive machines
+(ii) Limited memory
+(iii) Theory of mind
+(iv) Self-awareness
+
+Reactive machines : these are the machines which works on the data available in the
+form of predeﬁned dataset
+ IBM’s chess
+program which defeated famous champion Garry Kasparov and the deep blue system,
+Google’s AlphaGo are some of the examples for reactive machines [ 3]
+ An example for limited memory AI isthe self-driving cars (it can store the information like speed, distance, speed limit
+required for the navigation of the car)
+
+Theory of mind : these are types of machines, which are expected to understand the
+psychological and emotional aspects of human mind and work accordingly
+ So far
+such machines are a dream but scientists are working to develop such machines in
+near future
+
+Self-awareness : these machines belong to a hypothetical concept that will be consid-
+ered as super-intelligent machines, which can think, act, and will be self-aware as
+they will have consciousness and sentiments like humans
+ Research is carried out todevelop such machines and considered as future AI
+3 Domains of AI
+The major domains of AI (Fig
+ 1) are neural network, robotics, expert systems, fuzzy
+logic systems, natural language processing (NLP)
+
+Neural networks : these can be described as the representation of human neural
+system, i
+, neurons and dendrites in the form of layers and nodes representing data
+
+It comprises algorithms that understand the relationships between the data while
+mimicking the human brain
+ These are widely used in AI in the form of machine
+learning and deep learning
+ Some of the typical examples are pattern recognition offace and image recognition in medical diagnosis
+
+Robotics : it is the domain of AI which is mostly associated with the development of
+intelligent machines in the form of robot which obeys human instructions
+ The use of
+robots or humanoids is a new trend and is being appreciated and adopted worldwide
+
+Robots used in industry, medical surgery, restaurants, etc
+
+Expert system : these are systems which make decisions with the help of data present
+in the knowledge base and getting guidance by an expert
+ These are basically
+computer applications developed to solve complex problems with intelligence and
+expertise
+
+Fuzzy logic system : this domain is considered as resembling the human thinking
+method and decision-making
+ It is quite similar to the way humans decide between 0
+and 1, but it also deals with all the possibilities between 0 and 1
+
+Neural network 
+NLP Fuzzy logicRobotics Expert system
+Artificial 
+Intelligence 
+Fig
+ 1 V arious domains of Artiﬁcial Intelligence
+
+Introduction to Artiﬁcial Intelligence 27
+Natural language processing (NLP) : this domain deals with bridging the gap of
+communication between the computer and human languages
+ It is basically the inter-
+action between computer and human in a smart way
+
+2 Subsets of Artiﬁcial Intelligence
+Artiﬁcial intelligence has emerged as a boon for the society for the furtherance of
+advanced techniques to deal with the real-life problems
+ The major two subsets of
+AI are Machine Learning (ML) and Deep Learning (DL)
+ ML is considered as thesubset of AI and DL is considered as the subset of ML
+ The pictorial representation
+of the relationship between AI, ML, and DL is shown in Fig
+1 Machine Learning
+As humans can think, improve by self-improvement cycle, and learn from the past
+experiences, AI machines can also learn from the past experiences with the help of
+the concept known as Machine Learning (ML)
+ The machine learning deals with the
+development of algorithms that enables the computer to learn from its data and pastexperiences on their own [ 4]
+ In this method, the machine analyzes the available data
+set which is also known as training data and with the help of the algorithms predict thepossible output over the given input
+ In other words, the relationship between
+the data and efﬁciency is that the machine can improve its efﬁciency by gaining
+Fig
+ 2 Relationship between
+AI, ML, and DL
+
+ It can learn from the data and improve automatically
+ This
+is very much helpful for dealing with huge data of complex problems, which are
+difﬁcult for humans to deal with and they also consume more time in solving
+ In thisprocess of computing the machine receives data as input and provides result using
+an appropriate algorithm
+
+Classiﬁcation of Machine Learning
+Based on the nature of the learning signal or response that the machine gets; machine
+learning can be classiﬁed into following categories:
+(i) Supervised learning
+(ii) Unsupervised learning
+(iii) Reinforcement learning
+
+Supervised learning : according to the literal meaning, this method correlates with
+the method of learning of student under the supervision of a teacher
+ As a teacher
+illustrates the student with many good examples to help in grasping the concept
+perfectly, the machine is provided with many labeled data to help in obtaining theperfect output from the given input
+ The algorithms under this method are classiﬁed
+into two categories, i
+, regression and classiﬁcation
+
+Unsupervised learning : in this method the machine has to train itself without any
+supervisor, i
+, the data provided at the input are not labeled or classiﬁed
+ Thealgorithm has to train itself by searching the degree of similarities among the given
+data and ﬁgure out the appropriate output for the given problem
+ The algorithm helps
+to reﬁne the data which can be correlated with the desired output
+
+Reinforcement learning : this method is typically a feedback-based learning method
+
+In this method the machine is given a reward for every right action taken by it and
+a penalty for any wrong action, so it is a self-learning method done by analyzing its
+past performances
+ The objective of the algorithm is to achieve maximum rewardpoints
+ Examples for reinforcement learning is a robotic dog learning by its own
+mistakes and performances, computer playing video games by their own
+
+The machine learning algorithm is widely being used in multiple ﬁelds such as
+medical diagnosis, image processing, web search engines, photo tagging applica-tions, ﬁnance and marketing sector, fraud detection, weather forecasting, and many
+more
+ The main advantage is the repetitive process and self-learning methods that itapplies to ﬁnd the output
+Introduction to Artiﬁcial Intelligence 29
+2
+2 Challenges and limitation of ML
+The basic challenge and limitation for ML are that it requires huge amount of data
+
+Without quality data, ML algorithm cannot provide accurate results for further anal-ysis
+ With wide
+range of inputs or datasets, the efﬁciency of the algorithm will be enhanced withappropriate output
+ It is similar to that of a new entrant in an organization making
+mistakes as junior and eventually improves by self-learning and provides output with
+required accuracy and efﬁciency
+3 Deep Learning
+Deep Learning (DL) is considered as the subdomain of ML and thereby the subset
+of AI
+ In ML, the system is provided with given input data sets and subjected to
+self-learning from the past experiences and give predictions as output
+ Deep learningcan be denoted as the next level of machine learning where the system is similar to
+human nervous system and mimic the working of the neurons
+ In ML the system is
+mostly put either in supervised or unsupervised learning method with multilayers ofalgorithms undergoing such learning methods
+ As the number of layers increases, it
+is called as deep learning or Deep Neural Network (DNN) [ 8]
+ The initial layer is
+denoted as the input layer, the last layer is called the output layer and the intermediate
+layers are termed as the hidden layer, where all the layers are interconnected [ 9]
+ The
+amount of the depth of the network in terms of layers decides how efﬁcient thealgorithm can do the dense representation of any data (for example, in an image, theedge, boundaries, etc
+ It helps in enhanced feature
+extraction, pattern recognition of complex dataset and high-level data extraction
+ The process of deep learning
+begins with the understanding the problem given, identifying the data, selecting theproper algorithm followed by training and testing the model
+1 Types of Neural Networks
+Basically neural networks can be classiﬁed into two categories, namely,
+I
+ Shallow neural network (in which there is only one single hidden layer
+between the input and output layer) as shown in Fig
+ 3 Schematic diagram of asimple and bdeep learning neural network
+II
+ Deep neural network (in which there are multiple hidden layers between the
+input and output layer and it is the most widely used network) as shown in
+Fig
+
+The deep neural networks are further broadly classiﬁed into three categories:
+(a) F eed-forward neural networks : it is the single way data transmission type of
+network in which the data moves towards the output layer through the inputlayer
+
+(b) Recurrent neural networks : in Recurrent Neural Networks (RNN), there is a
+recurrent ﬂow of data from the output to the input to generate the memory for
+
+Introduction to Artiﬁcial Intelligence 31
+the system, learn from the data and produce results
+ Some of the major appli-
+cations of the RNN are the Chatbots, fraud detection algorithms in monetary
+transaction, providing caption for images, and many more [ 11]
+
+(c) Convolutional neural networks : the Convolutional Neural Networks (CNN)
+are the most widely used neural networks which have multi-layered neuralnetwork
+ The CNN is considered to be the most efﬁcient form of neural networkwhich is basically used for feature extraction of images and pattern recognition
+ The CNN network is widely
+used method and algorithm in the application of deep learning and is basicallyused for image identiﬁcation and classiﬁcation
+ The basic CNN network consists oftwo parts, i
+, feature extractor and classiﬁer
+ The feature extractor contains the
+convolutional and pooling layers whose purpose is to extract the minute features
+from the image in terms of pixel data
+ The convolutional layer deals with the
+feature extraction of the image and preserving the relevant data about the
+pixels
+ The poolinglayers reduce the dimensionality of an image while retaining the important
+information
+ As CNN is a multilayer neuron network, the role classiﬁer part
+of the network is to classify the information obtained from convolution andpooling layers
+ This role is played by the fully connective layer whose motive
+is to connect each node of a layer with other nodes
+ 4 Schematic diagram depicting the image recognition of the input image using CNN
+
+ Thirugnanam
+is placed in the input layer is produced in the output layer if passed through a
+simple image detection CNN network
+
+The biggest challenge and limitation of DL is to acquire large amount of data and
+label it accurately to help the machine while learning the data
+ Another challengethat could arise is the degree of interpretability which should be high and accurate
+
+3 Applications of Artiﬁcial Intelligence in Modern World
+Artiﬁcial intelligence has been evolved as one of the most important technology in
+this world, with its impact on almost every ﬁeld of human endeavor
+ It was all started
+in the year 1950s, after its invention by John McCarthy (the father of AI)
+ The 24 ×7 Internet
+facility, the invention of cloud technology, the concept of big data, sensors, and other
+technological advancements have turned up as a boon for the development of AI
+
+Although AI has not yet replaced humans completely, it has assisted humans to a
+great extend in solving and handling the problems which are difﬁcult and risky
+ Inthe form of intelligent machines, it has played the role of representative of human
+beings
+ Today, AI has found wide applications in agriculture, business, education,
+entertainment industry, medical, defense, and space technology where it has crucialand admirable effects
+ It hasalso many amazing applications of robotics in the form of robots performing surgery
+or assisting in diagnosis
+ Basically, AI deals with large amount of data to obtain the
+required results, and accordingly the algorithms are designed to reduce the chances
+of error and provide accurate results
+ Following are few of the application areas of AI and
+data based on some case studies
+
+The implementation of AI and its technologies has signiﬁcantly played its role in
+improving the situation of agriculture industry
+Introduction to Artiﬁcial Intelligence 33
+moving forward in the pest/weed control methods and lastly to the crop harvesting
+and supply of produce to the right place and at justiﬁable rate [ 15,16]
+ With the
+advent of AI, sensor technology and Internet this industry has beneﬁtted to a large
+extent
+ In soil analysis and monitoring, AI can help us to know about the soil and seed
+relationship
+ AI-based apps, basically with the help of
+sensors, pictures, and infrared rays help to determine the quality and properties of
+soil
+
+Moving to the next application is the sowing process enhancement by the use of
+AI sowing app
+ In another study, the
+development of machine learning technology along with integrated computer visionapplications by Blue River Technologies aimed to optimize the herbicide and pest
+control
+
+In a different study done on the crop harvesting, it was found that the time taken by
+AI-based robots in tomato farms in Japan, is lesser than the time taken by the human
+ But unfortunately, till date, AI is unable to stop any fraud cases
+
+However, with the help of AI many fraud detection methods and technologies are now
+offered to make the system more robust
+
+In the ﬁnance and banking sector, AI has come up with many technological aids
+either in form of apps or methods to prevent from frauds, enhance better customer datastorage/retrieval, and many more
+ Similarly, in business sector, AI has helped many IT ﬁrms like Deloitte, IBM,Infosys to bloom in the market as a better technological service provider
+ AI has helped the students worldwide to get access to the
+huge amount of data in the forms of syllabus, curriculum, textbooks, research articlesand papers, and e-learning to a greater extent [ 17]
+, which is an AI research and development
+company, smart, and customized educational content can be created and developedwhich help the students to get access of the customized study materials
+ It basically
+uses the concept of deep learning
+ In a hackathon (organized by NITI Ayog), ReadEx
+was featured which helped to generate real-time questions using natural languageprocessing and also provided content recommendations and ﬂashcard creation
+ In
+a recent study, the Andhra Pradesh government (India) was aided by a predictive
+analysis done with the assistance of Microsoft using some Azure machine learningprocess to ﬁnd the dropouts of students in an academic institution
+ Inanother study, AI has put the fact of how Wikipedia handled the situation of decreased
+level of content writers by 40% and the problem of controlling abusive comments
+by the users
+ It uses AI and associate technology to deal with it and now its AI whowrites for Wikipedia which has really changed the world
+Introduction to Artiﬁcial Intelligence 35
+3
+4 Entertainment and Gaming
+This industry does not need much introduction and effect of AI in this
+ The famous Netﬂix uses AI and big data to manage the search
+and provides the better content recommendation and many more ways to help users
+for better access of data
+ Gaming industry also uses AI to improve the quality of thegame and secure the data provided by the users
+5 Health Care
+Artiﬁcial intelligence has its maximum effect in this sector and has totally trans-
+formed the way of treatment and diagnosis
+ The goal of having a very effective
+healthcare system of a nation can now be achieved in many way by difﬁcult taskaccomplishments with the help of technology and AI
+ The three basic steps of treat-
+ment which are detection, diagnosis and analysis, and treatment are now improvised
+and enhanced with the advent of artiﬁcial intelligence in this sector
+ Since the broad discussion has been done later in this chapter here the focus
+is on the role of AI in COVID-19 pandemic in India and worldwide
+
+Role of AI in Handling COVID-19 Pandemic
+The role of AI in medical ﬁeld is tremendous as the planet witnessed a pandemic
+due to Corona outbreak, which has affected the entire human population with huge
+number of death cases
+ In this scenario, AI has come with its technologies to helpthe people from getting infected with the virus
+ Thirugnanam
+with help of AI and ML
+
+(iii) Quick diagnosis : it is true that AI alone cannot treat patients but has assisted
+a lot for the quick diagnosis in terms of image analysis of the lungs (CT scan)
+of suspected and positive cases
+6 Smart Cities and Transportation
+This is the area in which the application of AI has its speciﬁc and unique role
+ Be it smart homes, parks, roboticequipped restaurants, or the home delivery of food, it is all because of AI
+
+Considering smart mobility and transportation, AI has given autonomous vehicles
+the power to detect the chances of accidents and protect the person
+ So, the Ministry of Railways,
+India used AI technology to help in detecting the problems in the track and avoided
+many such accidents
+Introduction to Artiﬁcial Intelligence 37
+3
+7 Space Exploration
+In the present scenario it has become almost impossible to imagine the world without
+technology and the effects of AI in space exploration
+ The world is aware of the spacemission of Chandrayan-2 and the mission to Mars of ISRO which is not possible
+without the help of AI and its application
+ Be it NASA or ISRO
+or any other space organization, no one can deny the use of AI in space exploration
+and how it has enhanced the quality of space exploration
+ The satellites sending theimages from space are decoded and extraction of useful information from the images
+is done with the help of machine and deep learning
+ As per a study in 2015, it has been
+known that the space mission of SpaceX Falcon 9 was accomplished with the help
+of machine learning which helped it for successful landing at the Cape Canaveral
+Air Force Station
+ Application of deep learning has assured the automatic landing ofmany aircrafts, accurate data collection and transmission without minimum chances
+of human error
+
+With the help of AI, NASA and Google discovered two obscure planets in 2017[Kepler-90i and Kepler-90 g]
+ From these studies, it can be assumed how strongly
+AI and its subset-based technologies have changed the world in the space exploration
+and deﬁnitely, many more to come with the strengths of AI technology in creating aworld of intelligent machines
+
+4 Artiﬁcial Intelligence for Advanced Medical Diagnosis
+Medical ﬁeld is the area where the AI has put its most important impact which haschanged the way of medical diagnosis
+ The role of AI in medical diagnosis is classiﬁed into two types, i
+ All this
+has been possible due to the introduction of AI, cloud technology (for data storage
+and fast retrieval), the concept of big data, and the use of mobile computing in thehealthcare system
+ Eventually the combination of AI, Robotics, Internet of Things
+(IoT), and Internet of Medical Things (IoMT) is the new era of healthcare solution
+system and an important milestone in the process of fourth industrial revolution
+ 5) depicts the most important use cases of AI and robotics as
+a whole in the healthcare system [ 20]
+
+As per the data from a case study a project named as the project DeepDream which
+was developed by Google in 2015 helped to create images of given input and also
+imagine all possible features that the image should have
+ This method includes the
+training of the neural network-based software with millions of images as an input andthen asked to produce images from the selected
+ 5 Use cases of AI for healthcare system
+
+Introduction to Artiﬁcial Intelligence 39
+mode of treatment required for them based on their symptoms and health conditions
+
+A similar project for fastening the cancer therapy process is the AI developed by NITI
+Ayog organization of Indian government which is named as Digital Pathology whichcontained the images of annotated and curated pathology images
+ In a case study, it explains how the
+nurse robot Molly which helps the physician in organizing the patients’ symptomsand follow up the treatment process
+ An app developed by National Institutes of
+Health named as AI AiCure to manage the patient’s prescriptions and manage the
+health condition of patient
+
+The basic things on which any AI developer put focus are the data generation,
+data management, and disease detection and management
+
+There are also many cases where the drug discovery is done with the help of AI,machine learning, and deep learning technologies and help to ﬁnd the best solutionfor a disease
+ But there are few challenges that AI must face in the ﬁeld of medicine
+and health care such as the data accuracy, security, integrity, and the interpretability
+Still, with all these challenges AI has been working with much accuracy in health
+care and not only diagnosis or treatment it has gone beyond that and provided with
+some advanced level of medical applications which are being discussed later in thischapter
+1 Database Management
+In healthcare system, the application of AI, ML, DL, cloud computing, and IoMThas created excellent technologies for the development and services to the healthcaresystem
+ In such cases, an advanced level of algorithms by AI and ML
+are required to handle big data efﬁciently ensuring no loss of security and integrity
+of the data
+ For instance, the AI and ML approaches have been used to ﬁnd usefulinformation from the “data lakes” which are large data sets of information extracted
+from Electronic health records [ 23]
+ With proper data management and data analysis, AI helpsto manage the analytics of the huge data and provides better access to patients and
+doctors
+2 Advanced Medical Devices
+In medical and healthcare services, AI and its related technology has spelled its
+magic in the development of medical devices used for treatment
+
+In 2016, Medtronic a leading medical device company, in collaboration with IBM
+Watson developed the SugarIQ App including the AI technology
+Introduction to Artiﬁcial Intelligence 41
+Fig
+3 Drug Design
+Artiﬁcial intelligence has already marked its signiﬁcance in drug discovery and nowdrug design is also becoming a chief application of AI in drug development process
+ AI has also successfully helped in the drug discovery
+method by determining the correct drug molecule and the information about thereaction of proteins in the body before going for design
+ For drug design, AI is usedto determine the proper candidate molecules from the reduced graph of the drug
+
+ AI can
+also help in differentiating the non-suitable compounds for the drug design which
+are not suitable for the patient body
+4 Digital Consultation
+AI provides digital consultation to the whole world in the form of healthcare chatbots
+
+These are AI-based software solution which provides customized service in form of
+messages to the patients or the users without making them realize that they aretalking to any person or any device [ 27]
+, Woebot, and others provide a platform for digital consultation to the patients
+with the help of AI and related technologies like ML, NLP , and DL
+5 Genome Editing
+This is totally a different aspect of AI application in which the focus is on thefeatures of genetic composition of a person
+ Using the AI and
+ML techniques, scientists are now able to know the genomic data using gene editingand sequencing techniques
+ Many AI platforms have been developed to enhance the
+HTS for a better representation of genome such as DeepV ariant
+ Overall, AI has
+efﬁciently aided the healthcare system and expected to do more in near future related
+to genome editing and more advancements including the genetic screening tools for
+the infants
+Introduction to Artiﬁcial Intelligence 43
+5 Conclusion
+Artiﬁcial intelligence and its related technology like machine learning, deep learning,
+natural language processing has invaded the world undergoing fourth phase of indus-trial revolution in a very strong manner
+
+The use of machine learning in health care has really modiﬁed the scenario in the
+healthcare system and still there is more scope for research and development
+ Thevarious application of deep learning and machine learning has helped in better disease
+detection and diagnosis process
+ Furthermore, the use of deep learning in image anal-
+ysis and data extraction from medical images has helped in detecting some deadly
+diseases
+ Artiﬁcial intelligence has also spread its spectrumto advance level of medical application and many more research results are leading
+to a new venture of application in health sciences
+ The common advantages of AI include reducing the workload of humans and
+making it easier for them to get much lesser error-prone results for any given set of
+problems
+ But considering the assumption of AI creating new employment opportu-nities it also predicts the risk of increase in unemployment
+ In conclusion, it can be said that AI is the newway of living with and making it the assistance of human
+: Evolution of artiﬁcial intelligence
+: Applications of artiﬁcial intelligence in human life
+: Artiﬁcial intelligence revolution and India’s AI development: challenges and scope
+: A brief introduction to machine learning for engineers
+: Supervised learning in spiking neural networks: a review of
+algorithms and evaluations
+ Neural Netw
+: Artiﬁcial intelligence in healthcare: Past, present and future
+ Stroke V asc
+: A very brief introduction to machine learning with applications to communication
+systems
+: Evolving artiﬁcial neural networks with feedback
+ Neural
+Netw
+: Neural computation in medicine
+: Spiking Neural Networks and online learning:
+an overview and perspectives
+ Neural Netw
+: Deep Learning in neural networks: an overview
+ Neural Netw
+: Convolutional neural networks: an
+overview and application in radiology
+ Neural
+Netw
+A: Detecting and Classifying Pests in Crops Using Proximal Images and Machine
+Learning: A Review
+: Artiﬁcial Intelligence in Agricul-
+ture Implementation of artiﬁcial intelligence in agriculture for optimisation of irrigation and
+application of pesticides and herbicides
+: A Systematic
+Review of Deep Learning Approaches to Educational Data Mining
+: V ehicles capable of dynamic vision
+: Artiﬁcial intelligence in medicine
+:
+Artiﬁcial intelligence and machine learning in clinical development: a translational perspective
+: Artiﬁcial intelligence in drug development: present status and future
+prospects
+: A novel machine learning technique for
+computer-aided diagnosis
+: Chatbot for
+e-learning: a case of study
+ Robot

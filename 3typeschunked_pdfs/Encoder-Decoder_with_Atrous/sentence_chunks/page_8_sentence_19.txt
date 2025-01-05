@@ -1,0 +1,2 @@
+We do not pursue further denser output feature map ( i.e.,
+output stride <4) given the limited GPU resources.

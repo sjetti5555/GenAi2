@@ -1,0 +1,4 @@
+Replicating human intelligence, solving
+knowledge-intensive tasks, building machines, which can perform tasks, that require
+human intelligence, creating some system which can learn by itself are the few
+speciﬁc goals of AI.

@@ -1,0 +1,2 @@
+ImageNet pretraining: The proposed Xception network is pretrained on
+ImageNet-1k dataset [ 74] with similar training protocol in [ 26].

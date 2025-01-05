@@ -1,0 +1,1 @@
+biomedicine conformation, and ﬁnally theclinical trials on patients [ 25]. AI has also successfully helped in the drug discovery method by determining the correct drug molecule and the information about thereaction of proteins in the body before going for design. For drug design, AI is usedto determine the proper candidate molecules from the reduced graph of the drug

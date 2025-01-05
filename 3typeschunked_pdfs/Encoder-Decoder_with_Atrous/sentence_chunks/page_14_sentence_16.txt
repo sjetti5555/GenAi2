@@ -1,0 +1,3 @@
+We also explore
+the Xception model and atrous separable convolution to make the proposed
+model faster and stronger.

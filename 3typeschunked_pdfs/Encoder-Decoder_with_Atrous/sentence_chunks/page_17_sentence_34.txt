@@ -1,0 +1,2 @@
+Reﬁnenet: Multi-p ath reﬁnement networks
+with identity mappings for high-resolution semantic segment ation.

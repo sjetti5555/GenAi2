@@ -1,0 +1,4 @@
+26 M. Ghosh and A. Thirugnanam
+1.3 Domains of AI
+The major domains of AI (Fig. 1) are neural network, robotics, expert systems, fuzzy
+logic systems, natural language processing (NLP).

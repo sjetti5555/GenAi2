@@ -1,0 +1,3 @@
+Further im-
+provement can also be obtained by using eval output stride = 8, multi-scale
+inputs during inference and adding left-right ﬂipped inputs.

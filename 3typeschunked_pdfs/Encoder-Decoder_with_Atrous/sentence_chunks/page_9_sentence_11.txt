@@ -1,0 +1,2 @@
+Eﬀect of decoder structure when ﬁxing [1 ×1,48] to reduce the encoder
+feature channels.

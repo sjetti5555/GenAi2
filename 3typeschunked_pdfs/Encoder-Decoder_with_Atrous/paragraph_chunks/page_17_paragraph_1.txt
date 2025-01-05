@@ -1,0 +1,52 @@
+DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 17
+47. Schwing, A.G., Urtasun, R.: Fully connected deep structure d networks.
+arXiv:1503.02351 (2015)
+48. Jampani, V., Kiefel, M., Gehler, P.V.: Learning sparse high d imensional ﬁlters:
+Image ﬁltering, dense crfs and bilateral neural networks. In: CVP R. (2016)
+49. Vemulapalli, R., Tuzel, O., Liu, M.Y., Chellappa, R.: Ga ussian conditional random
+ﬁeld network for semantic segmentation. In: CVPR. (2016)
+50. Chandra, S., Kokkinos, I.: Fast, exact and multi-scale in ference for semantic image
+segmentation with deep Gaussian CRFs. In: ECCV. (2016)
+51. Chandra, S., Usunier, N., Kokkinos, I.: Dense and low-rank ga ussian crfs using
+deep embeddings. In: ICCV. (2017)
+52. Liu, W., Rabinovich, A., Berg, A.C.: Parsenet: Looking wid er to see better.
+arXiv:1506.04579 (2015)
+53. Newell, A., Yang, K., Deng, J.: Stacked hourglass networks fo r human pose esti-
+mation. In: ECCV. (2016)
+54. Lin, T.Y., Doll´ ar, P., Girshick, R., He, K., Hariharan, B., Be longie, S.: Feature
+pyramid networks for object detection. In: CVPR. (2017)
+55. Shrivastava, A., Sukthankar, R., Malik, J., Gupta, A.: Bey ond skip connections:
+Top-down modulation for object detection. arXiv:1612.06851 ( 2016)
+56. Fu, C.Y., Liu, W., Ranga, A., Tyagi, A., Berg, A.C.: Dssd: Dec onvolutional single
+shot detector. arXiv:1701.06659 (2017)
+57. Noh, H., Hong, S., Han, B.: Learning deconvolution network for semantic segmen-
+tation. In: ICCV. (2015)
+58. Lin, G., Milan, A., Shen, C., Reid, I.: Reﬁnenet: Multi-p ath reﬁnement networks
+with identity mappings for high-resolution semantic segment ation. In: CVPR.
+(2017)
+59. Pohlen, T., Hermans, A., Mathias, M., Leibe, B.: Full-reso lution residual networks
+for semantic segmentation in street scenes. In: CVPR. (2017)
+60. Peng, C., Zhang, X., Yu, G., Luo, G., Sun, J.: Large kernel ma tters–improve
+semantic segmentation by global convolutional network. In: CVPR. (2017)
+61. Islam, M.A., Rochan, M., Bruce, N.D., Wang, Y.: Gated feedba ck reﬁnement
+network for dense image labeling. In: CVPR. (2017)
+62. Wojna, Z., Ferrari, V., Guadarrama, S., Silberman, N., Chen, L.C ., Fathi, A.,
+Uijlings, J.: The devil is in the decoder. In: BMVC. (2017)
+63. Fu, J., Liu, J., Wang, Y., Lu, H.: Stacked deconvolutiona l network for semantic
+segmentation. arXiv:1708.04943 (2017)
+64. Zhang, Z., Zhang, X., Peng, C., Cheng, D., Sun, J.: Exfuse: E nhancing feature
+fusion for semantic segmentation. arXiv:1804.03821 (2018)
+65. Xie, S., Girshick, R., Dollr, P., Tu, Z., He, K.: Aggregated res idual transformations
+for deep neural networks. In: CVPR. (2017)
+66. Jin, J., Dundar, A., Culurciello, E.: Flattened convolutio nal neural networks for
+feedforward acceleration. arXiv:1412.5474 (2014)
+67. Wang, M., Liu, B., Foroosh, H.: Design of eﬃcient convoluti onal layers using sin-
+gle intra-channel convolution, topological subdivisionin g and spatial ”bottleneck”
+structure. arXiv:1608.04337 (2016)
+68. Zoph, B., Vasudevan, V., Shlens, J., Le, Q.V.: Learning tra nsferable architectures
+for scalable image recognition. In: CVPR. (2018)
+69. Holschneider,M.,Kronland-Martinet,R.,Morlet,J.,Tcham itchian,P.: Areal-time
+algorithm for signal analysis with the help of the wavelet trans form. In: Wavelets:
+Time-Frequency Methods and Phase Space. (1989) 289–297
+70. Giusti, A., Ciresan, D., Masci, J., Gambardella, L., Schmid huber, J.: Fast image
+scanning with deep max-pooling convolutional neural network s. In: ICIP. (2013)

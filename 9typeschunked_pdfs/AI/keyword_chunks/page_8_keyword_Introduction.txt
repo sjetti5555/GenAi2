@@ -1,0 +1,29 @@
+ to Artiﬁcial Intelligence 29
+2.2 Challenges and limitation of ML
+The basic challenge and limitation for ML are that it requires huge amount of data.
+Without quality data, ML algorithm cannot provide accurate results for further anal-ysis. The prediction can be considered best if the analysis is done over a large amount
+of data. Another point is that the data need to be heterogeneous as well. With wide
+range of inputs or datasets, the efﬁciency of the algorithm will be enhanced withappropriate output. It is similar to that of a new entrant in an organization making
+mistakes as junior and eventually improves by self-learning and provides output with
+required accuracy and efﬁciency.
+2.3 Deep Learning
+Deep Learning (DL) is considered as the subdomain of ML and thereby the subset
+of AI. In ML, the system is provided with given input data sets and subjected to
+self-learning from the past experiences and give predictions as output. Deep learningcan be denoted as the next level of machine learning where the system is similar to
+human nervous system and mimic the working of the neurons. In ML the system is
+mostly put either in supervised or unsupervised learning method with multilayers ofalgorithms undergoing such learning methods. As the number of layers increases, it
+is called as deep learning or Deep Neural Network (DNN) [ 8]. The initial layer is
+denoted as the input layer, the last layer is called the output layer and the intermediate
+layers are termed as the hidden layer, where all the layers are interconnected [ 9]. The
+amount of the depth of the network in terms of layers decides how efﬁcient thealgorithm can do the dense representation of any data (for example, in an image, theedge, boundaries, etc., are the required data needed for representation). This method
+has the capability of working upon unstructured data and provides efﬁcient results.
+This includes intake of large amount of data known as bigdata and assures better
+performance with respect to the complex data [ 10]. It helps in enhanced feature
+extraction, pattern recognition of complex dataset and high-level data extraction.
+The main advantage is that it can learn without any predeﬁned data and does not
+require explicit programming by the programmers. The process of deep learning
+begins with the understanding the problem given, identifying the data, selecting theproper algorithm followed by training and testing the model.
+2.3.1 Types of Neural Networks
+Basically neural networks can be classiﬁed into two categories, namely,
+I. Shallow neural network (in which there is only one single hidden layer
+between the input and output layer) as shown in Fig. 3a[11].

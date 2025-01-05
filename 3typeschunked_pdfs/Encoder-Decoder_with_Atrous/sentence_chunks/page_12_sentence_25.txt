@@ -1,0 +1,2 @@
+As shown in Tab. 7(a), employing the proposed Xception model as network
+backbone (denoted as X-65) on top of DeepLabv3 [ 23], which includes the ASPP

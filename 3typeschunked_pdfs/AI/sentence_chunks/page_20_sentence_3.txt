@@ -1,0 +1,4 @@
+It
+enhanced the medical imaging process and ensures the capture of minute details of
+affected body parts which is not possible to get by physically looking at the scan
+data.

@@ -1,0 +1,4 @@
+Sep Conv 728, 3x3
+Sep Conv 728, 3x3
++Middle  flow
+Repeat 16 times

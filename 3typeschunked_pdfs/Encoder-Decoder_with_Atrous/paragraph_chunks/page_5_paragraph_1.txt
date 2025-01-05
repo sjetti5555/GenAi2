@@ -1,0 +1,38 @@
+DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 5
+(a) Depthwise conv. (b) Pointwise conv. (c) Atrous depthwise co nv.
+Fig.3.3×3 Depthwise separable convolution decomposes a standard convo lution into
+(a) a depthwise convolution (applying a single ﬁlter for each input channel) and (b) a
+pointwise convolution (combining the outputs from depthwise convolution across chan-
+nels). In this work, we explore atrous separable convolution where atrous convolution
+is adopted in the depthwise convolution, as shown in (c) with rate= 2.
+y[i] =/summationdisplay
+kx[i+r·k]w[k] (1)
+where the atrous rate rdetermines the stride with which we sample the input
+signal. We refer interested readers to [ 39] for more details. Note that standard
+convolution is a special case in which rate r= 1. The ﬁlter’s ﬁeld-of-view is
+adaptively modiﬁed by changing the rate value.
+Depthwise separable convolution: Depthwise separable convolution, fac-
+torizing a standard convolution into a depthwise convolution followed by a point-
+wise convolution (i.e., 1×1 convolution), drastically reduces computation com-
+plexity. Speciﬁcally, the depthwise convolution performs a spati al convolution
+independently for each input channel, while the pointwise convolu tion is em-
+ployedtocombinetheoutputfromthedepthwiseconvolution.Inthe TensorFlow
+[72] implementation of depthwise separable convolution, atrous convolution has
+been supported in the depthwise convolution ( i.e., the spatial convolution), as
+illustrated in Fig. 3. In this work, we refer the resulting convolution as atrous
+separable convolution , and found that atrous separable convolution signiﬁcantly
+reduces the computation complexity of proposed model while maintaini ng simi-
+lar (or better) performance.
+DeepLabv3 as encoder: DeepLabv3[ 23]employsatrousconvolution[ 69,70,8,71]
+to extract the features computed by deep convolutional neural network s at an
+arbitrary resolution. Here, we denote output stride as the ratio of input image
+spatial resolution to the ﬁnal output resolution (before global pooling or f ully-
+connected layer). For the task of image classiﬁcation, the spatial resolu tion of the
+ﬁnalfeaturemapsisusually32timessmallerthantheinputimageresolu tionand
+thusoutput stride = 32. For the task of semantic segmentation, one can adopt
+output stride = 16 (or 8) for denser feature extraction by removing the striding
+in the last one (or two) block(s) and applying the atrous convolution corre spond-
+ingly (e.g., we apply rate= 2 and rate= 4 to the last two blocks respectively
+foroutput stride = 8). Additionally, DeepLabv3 augments the Atrous Spatial
+Pyramid Pooling module, which probes convolutional features at multi ple scales
+by applying atrous convolution with diﬀerent rates, with the image-le vel fea-

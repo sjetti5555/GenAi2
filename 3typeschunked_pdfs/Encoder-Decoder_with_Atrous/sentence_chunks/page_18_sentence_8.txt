@@ -1,0 +1,2 @@
+Hariharan, B., Arbel´ aez, P., Girshick, R., Malik, J.: Hyperc olumns for object
+segmentation and ﬁne-grained localization.

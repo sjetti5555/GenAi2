@@ -1,0 +1,2 @@
+As the number of layers increases, it
+is called as deep learning or Deep Neural Network (DNN) [ 8].

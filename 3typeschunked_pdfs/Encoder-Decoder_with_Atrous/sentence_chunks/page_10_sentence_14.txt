@@ -1,0 +1,3 @@
+We
+thus prefer using output stride = 16 or 8 during training or evaluation depending
+on the complexity budget.

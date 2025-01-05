@@ -1,0 +1,3 @@
+Adding left-right ﬂipped inputs.
+SC: Adopting depthwise separable convolution for both ASPP and d ecoder modules.
+COCO:

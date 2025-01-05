@@ -1,0 +1,1 @@
+We thus adopt [1 ×1,48] for channel reduction.

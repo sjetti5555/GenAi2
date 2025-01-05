@@ -1,0 +1,2 @@
+This app provides tips, hints, and personalized
+feedbacks to improve the writing skills of the learner be it student or any teacher.

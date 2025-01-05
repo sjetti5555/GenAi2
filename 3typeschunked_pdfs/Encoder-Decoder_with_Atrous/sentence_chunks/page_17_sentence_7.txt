@@ -1,0 +1,2 @@
+Vemulapalli, R., Tuzel, O., Liu, M.Y., Chellappa, R.: Ga ussian conditional random
+ﬁeld network for semantic segmentation.

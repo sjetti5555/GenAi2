@@ -1,0 +1,2 @@
+Jin, J., Dundar, A., Culurciello, E.: Flattened convolutio nal neural networks for
+feedforward acceleration.

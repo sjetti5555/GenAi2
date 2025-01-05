@@ -1,0 +1,3 @@
+Gene editing can be described as the technique involved
+in DNA mutations with some alterations in the target sequence such as insertion,
+deletion, and substitutions [ 28].

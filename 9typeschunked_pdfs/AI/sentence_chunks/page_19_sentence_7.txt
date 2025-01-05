@@ -1,0 +1,3 @@
+One of the important features of the healthcare big data is that it is unstructured
+and heterogeneous type which again becomes more challenging in terms of proper
+management.

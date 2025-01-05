@@ -1,0 +1,3 @@
+An app developed by National Institutes of
+Health named as AI AiCure to manage the patient’s prescriptions and manage the
+health condition of patient.

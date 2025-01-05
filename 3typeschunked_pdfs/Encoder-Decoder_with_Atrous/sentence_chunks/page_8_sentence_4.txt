@@ -1,0 +1,3 @@
+To improve over this naive baseline , our proposed
+model “DeepLabv3+” adds the decoder module on top of the encoder output , as
+shown in Fig.

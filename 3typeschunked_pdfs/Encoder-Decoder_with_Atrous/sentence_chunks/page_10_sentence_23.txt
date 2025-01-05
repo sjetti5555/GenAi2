@@ -1,0 +1,4 @@
+We have observed
+0.75% and 0.29% performance degradation for Top1 and Top5 accuracy when
+not adding the extra batch normalization and ReLU after each 3 ×3 depthwise
+convolution in the modiﬁed Xception.

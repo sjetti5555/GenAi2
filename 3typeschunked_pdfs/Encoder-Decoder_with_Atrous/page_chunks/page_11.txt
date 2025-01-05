@@ -1,0 +1,44 @@
+DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 11
+backbone improves the performance by about 2% when train output stride =
+eval output stride = 16 over the case where ResNet-101 is used. Further im-
+provement can also be obtained by using eval output stride = 8, multi-scale
+inputs during inference and adding left-right ﬂipped inputs. Not e that we do not
+employ the multi-grid method [ 77,78,23], which we found does not improve the
+performance.
+Adding decoder: As shown in the second row block in Tab. 5, adding
+decoder brings about 0.8% improvement when using eval output stride = 16 for
+all the diﬀerent inference strategies. The improvement becomes less when using
+eval output stride = 8.
+Using depthwise separable convolution: Motivated by the eﬃcient com-
+putation of depthwise separable convolution, we further adopt it in the ASPP
+and the decoder modules. As shown in the third row block in Tab. 5, the com-
+putation complexity in terms of Multiply-Adds is signiﬁcantly redu ced by 33%
+to 41%, while similar mIOU performance is obtained.
+Pretraining on COCO: For comparison with other state-of-art models, we
+further pretrain our proposed DeepLabv3+ model on MS-COCO dataset [ 79],
+which yields about extra 2% improvement for all diﬀerent inferenc e strategies.
+Pretraining on JFT: Similarto[ 23],wealsoemploytheproposedXception
+modelthathasbeenpretrainedonbothImageNet-1k[ 74]andJFT-300Mdataset
+[80,26,81], which brings extra 0.8% to 1% improvement.
+Test set results: Since the computation complexity is not considered in the
+benchmark evaluation, we thus opt for the best performance model and tr ain it
+withoutput stride = 8 and frozen batch normalization parameters. In the end,
+our ‘DeepLabv3+’ achieves the performance of 87.8% and 89.0% without and
+with JFT dataset pretraining.
+Qualitative results: We provide visual results of our best model in Fig. 6.
+As shown in the ﬁgure, our model is able to segment objects very well w ithout
+any post-processing.
+Failure mode: As shown in the last row of Fig. 6, our model has diﬃculty
+in segmenting (a) sofa vs. chair, (b) heavily occluded objects, and (c) objects
+with rare view.
+4.4 Improvement along Object Boundaries
+Inthissubsection,weevaluatethesegmentationaccuracywiththetr imapexper-
+iment [14,40,39] to quantify the accuracy of the proposed decoder module near
+object boundaries. Speciﬁcally, we apply the morphological dilation on ‘v oid’ la-
+bel annotations on valset, which typically occurs around object boundaries. We
+then compute the mean IOU for those pixels that are within the dilated band
+(called trimap) of ‘void’ labels. As shown in Fig. 5(a), employing the proposed
+decoder for both ResNet-101 [ 25] and Xception [ 26] network backbones improves
+the performance compared to the naive bilinear upsampling. The impro vement
+is more signiﬁcant when the dilated band is narrow. We have observed 4. 8%
+and 5.4% mIOU improvement for ResNet-101 and Xception respectively at th e

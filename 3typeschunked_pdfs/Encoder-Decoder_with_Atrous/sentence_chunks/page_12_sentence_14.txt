@@ -1,0 +1,2 @@
+eval OS : The
+output stride usedduringevaluation.

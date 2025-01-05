@@ -1,0 +1,2 @@
+Limited memory : these are the machines which can store the past experience or
+store the memory for limited period of time.

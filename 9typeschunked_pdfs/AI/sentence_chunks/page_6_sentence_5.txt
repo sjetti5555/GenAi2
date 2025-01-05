@@ -1,0 +1,2 @@
+The major two subsets of
+AI are Machine Learning (ML) and Deep Learning (DL).

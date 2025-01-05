@@ -1,0 +1,3 @@
+Furthermore, the use of deep learning in image anal-
+ysis and data extraction from medical images has helped in detecting some deadly
+diseases.

@@ -1,0 +1,2 @@
+[ 74] pretrained ResNet-101 [ 25] or modiﬁed aligned
+Xception [ 26,31] to extract dense feature maps by atrous convolution.

@@ -1,0 +1,3 @@
+Furthermore, the cost of
+implementation and the complexity of the used algorithms if can be reduced will be
+of much use in health care systems.

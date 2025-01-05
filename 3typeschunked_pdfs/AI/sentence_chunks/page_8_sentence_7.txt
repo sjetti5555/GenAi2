@@ -1,0 +1,3 @@
+2.3 Deep Learning
+Deep Learning (DL) is considered as the subdomain of ML and thereby the subset
+of AI.

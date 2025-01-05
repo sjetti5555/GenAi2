@@ -1,0 +1,3 @@
+DeepLabv3 as encoder: DeepLabv3[ 23]employsatrousconvolution[ 69,70,8,71]
+to extract the features computed by deep convolutional neural network s at an
+arbitrary resolution.

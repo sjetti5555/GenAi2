@@ -1,0 +1,2 @@
+Holschneider,M.,Kronland-Martinet,R.,Morlet,J.,Tcham itchian,P.: Areal-time
+algorithm for signal analysis with the help of the wavelet trans form.

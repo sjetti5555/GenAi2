@@ -1,0 +1,4 @@
+Spatial pyramid pooling: Models,suchasPSPNet[ 24]orDeepLab[ 39,23],
+perform spatial pyramid pooling [ 18,19] at several grid scales (including image-
+level pooling [ 52]) or apply several parallel atrous convolution with diﬀerent
+rates (called Atrous Spatial Pyramid Pooling, or ASPP).

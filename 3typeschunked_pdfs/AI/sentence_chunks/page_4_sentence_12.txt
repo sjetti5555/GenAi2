@@ -1,0 +1,2 @@
+It does not have the facility of data storage for storing
+the past and future data.

@@ -1,0 +1,2 @@
+An example for limited memory AI isthe self-driving cars (it can store the information like speed, distance, speed limit
+required for the navigation of the car).

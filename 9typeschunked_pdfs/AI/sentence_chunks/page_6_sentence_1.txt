@@ -1,0 +1,3 @@
+Introduction to Artiﬁcial Intelligence 27
+Natural language processing (NLP) : this domain deals with bridging the gap of
+communication between the computer and human languages.

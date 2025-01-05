@@ -1,0 +1,3 @@
+–We make our Tensorﬂow-based implementation of the proposed model pub-
+licly available at https://github.com/tensorflow/models/tree/master/
+research/deeplab .

@@ -1,0 +1,2 @@
+We then design the 3 ×3 convolution structure for the decoder module and
+report the ﬁndings in Tab.

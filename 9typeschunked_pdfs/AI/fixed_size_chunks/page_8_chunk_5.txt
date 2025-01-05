@@ -1,0 +1,1 @@
+Basically neural networks can be classiﬁed into two categories, namely, I. Shallow neural network (in which there is only one single hidden layer between the input and output layer) as shown in Fig. 3a[11].

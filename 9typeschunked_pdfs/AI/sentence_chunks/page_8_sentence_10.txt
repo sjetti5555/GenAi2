@@ -1,0 +1,2 @@
+In ML the system is
+mostly put either in supervised or unsupervised learning method with multilayers ofalgorithms undergoing such learning methods.

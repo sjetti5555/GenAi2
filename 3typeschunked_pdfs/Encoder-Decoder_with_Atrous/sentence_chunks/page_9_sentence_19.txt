@@ -1,0 +1,1 @@
+Decoder : Employing the proposed decoder structure.

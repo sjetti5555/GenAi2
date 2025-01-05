@@ -1,0 +1,5 @@
+This
+simplebilinearupsamplingcouldbeconsideredasanaivedecoderd esign,attain-
+ing the performance of 77 .21% [23] on PASCAL VOC 2012 valset and is 1 .2%
+better than not using this naive decoder during training ( i.e., downsampling
+groundtruth during training).

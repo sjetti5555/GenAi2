@@ -1,0 +1,2 @@
+Basically, two types of assistants are considered for humans, manual(in the form of robots), and digital (Chatbots) which can perform risky, repetitive,
+and troublesome tasks.

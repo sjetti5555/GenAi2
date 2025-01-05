@@ -1,0 +1,2 @@
+Giusti, A., Ciresan, D., Masci, J., Gambardella, L., Schmid huber, J.: Fast image
+scanning with deep max-pooling convolutional neural network s. In: ICIP.

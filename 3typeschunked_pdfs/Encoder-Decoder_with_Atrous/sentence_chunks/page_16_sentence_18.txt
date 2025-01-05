@@ -1,0 +1,2 @@
+Zhang, X., Zhou, X., Lin, M., Sun, J.: Shuﬄenet: An extreme ly eﬃcient convolu-
+tional neural network for mobile devices.

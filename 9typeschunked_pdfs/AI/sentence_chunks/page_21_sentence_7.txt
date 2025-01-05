@@ -1,0 +1,2 @@
+These basically make use of the natural
+language processing methods and help the healthcare industry to provide digitizedservice.

@@ -1,0 +1,2 @@
+Xie, S., Girshick, R., Dollr, P., Tu, Z., He, K.: Aggregated res idual transformations
+for deep neural networks.

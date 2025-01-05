@@ -1,0 +1,28 @@
+Introduction to Artiﬁcial Intelligence 39
+mode of treatment required for them based on their symptoms and health conditions.
+A similar project for fastening the cancer therapy process is the AI developed by NITI
+Ayog organization of Indian government which is named as Digital Pathology whichcontained the images of annotated and curated pathology images. Another ongoing
+project is the Biobank for cancer patients which helped to bridge the gap between
+the imaging done by radiologists and by the machine and ﬁnd out some very minutedetails. One more case study talks about the e-healthcare and consultation service
+provided by the UK-based AI Babylon in 2018. In a case study, it explains how the
+nurse robot Molly which helps the physician in organizing the patients’ symptomsand follow up the treatment process. An app developed by National Institutes of
+Health named as AI AiCure to manage the patient’s prescriptions and manage the
+health condition of patient.
+The basic things on which any AI developer put focus are the data generation,
+data management, and disease detection and management. There are many exam-ples of medical imaging being improved by the implementation of deep learningalgorithms be it in detecting the correct disease at the right time or throughout the
+diagnosis process like eye diseases such as diabetic retinopathy, diabetes detection,
+risk prediction and control, and also the heart disease monitoring systems [ 21,22].
+There are also many cases where the drug discovery is done with the help of AI,machine learning, and deep learning technologies and help to ﬁnd the best solutionfor a disease. There is no limit to its application under proper implementation and
+ideologies. But there are few challenges that AI must face in the ﬁeld of medicine
+and health care such as the data accuracy, security, integrity, and the interpretability.These factors are very much important for any technology to be trusted and used by
+the general public. Another factors includes the rate of availability of the services
+to the people in need at correct time which aims at the digitizing the nation totallybecause it is known that the rural areas lack the facilities and also the doctors move
+to town and cities for their improvement. So, the rural remains the same in most of
+the cases, thereby the prime job is to provide the service where it is much needed.Still, with all these challenges AI has been working with much accuracy in health
+care and not only diagnosis or treatment it has gone beyond that and provided with
+some advanced level of medical applications which are being discussed later in thischapter.
+4.1 Database Management
+In healthcare system, the application of AI, ML, DL, cloud computing, and IoMThas created excellent technologies for the development and services to the healthcaresystem. Currently, the whole world is going digitized at a higher rate and is in the grip
+of technology assisted services. With the help of technologies, such as cloud storage
+and devices based on mobile computing methods, the digital universe is existing andworking efﬁciently. It provides lots of data to store, keep track of and retrieve at a
+higher speed. Based on a report by the International Data Corporation (IDC), the

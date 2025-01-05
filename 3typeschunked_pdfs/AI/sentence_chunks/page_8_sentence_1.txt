@@ -1,0 +1,3 @@
+Introduction to Artiﬁcial Intelligence 29
+2.2 Challenges and limitation of ML
+The basic challenge and limitation for ML are that it requires huge amount of data.

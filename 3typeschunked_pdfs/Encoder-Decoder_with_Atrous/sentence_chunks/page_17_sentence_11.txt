@@ -1,0 +1,2 @@
+Fast, exact and multi-scale in ference for semantic image
+segmentation with deep Gaussian CRFs.

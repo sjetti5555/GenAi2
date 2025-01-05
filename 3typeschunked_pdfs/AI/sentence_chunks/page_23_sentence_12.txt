@@ -1,0 +1,2 @@
+Yamashita, R., Nishio, M., Do, R.K.G., Togashi, K.: Convolutional neural networks: an
+overview and application in radiology.

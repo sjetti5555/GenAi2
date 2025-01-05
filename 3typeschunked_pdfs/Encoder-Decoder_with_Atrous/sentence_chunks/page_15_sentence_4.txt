@@ -1,0 +1,3 @@
+Mottaghi, R., Chen, X., Liu, X., Cho, N.G., Lee, S.W., Fidl er, S., Urtasun, R.,
+Yuille, A.: The role of context for object detection and semant ic segmentation in
+the wild.

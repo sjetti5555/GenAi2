@@ -1,0 +1,43 @@
+4 L.-C Chen, Y. Zhu, G. Papandreou, F. Schroﬀ, and H. Adam
+1x1 Conv
+3x3 Conv
+rate 6
+3x3 Conv
+rate 12
+3x3 Conv
+rate 18
+Image
+Pooling1x1 Conv
+1x1 ConvLow-Level
+FeaturesUpsample
+by 4
+Concat 3x3 ConvEncoder
+DecoderAtrous Conv
+DCNN Image
+Prediction
+Upsample
+by 4
+Fig.2.Our proposed DeepLabv3+ extends DeepLabv3 by employing a encod er-
+decoder structure. The encoder module encodes multi-scale co ntextual information by
+applying atrous convolution at multiple scales, while the si mple yet eﬀective decoder
+module reﬁnes the segmentation results along object boundaries .
+Depthwise separable convolution: Depthwiseseparableconvolution[ 27,28]
+or group convolution [ 7,65], a powerful operation to reduce the computation cost
+and number of parameters while maintaining similar (or slightly bette r) perfor-
+mance. This operation has been adopted in many recent neural network des igns
+[66,67,26,29,30,31,68]. In particular, we explore the Xception model [ 26], similar
+to [31] for their COCO 2017 detection challenge submission, and show improve -
+ment in terms of both accuracy and speed for the task of semantic segmentat ion.
+3 Methods
+In this section, we brieﬂy introduce atrous convolution [ 69,70,8,71,42] and depth-
+wise separable convolution [ 27,28,67,26,29]. We then review DeepLabv3 [ 23]
+which is used as our encoder module before discussing the proposed decoder
+module appended to the encoder output. We also present a modiﬁed Xception
+model [26,31] which further improves the performance with faster computation.
+3.1 Encoder-Decoder with Atrous Convolution
+Atrous convolution: Atrous convolution, a powerful tool that allows us to ex-
+plicitly control the resolution of features computed by deep convolut ional neural
+networks and adjust ﬁlter’s ﬁeld-of-view in order to capture multi -scale informa-
+tion, generalizes standard convolution operation. In the case of two-dimen sional
+signals, for each location ion the output feature map yand a convolution ﬁlter
+w, atrous convolution is applied over the input feature map xas follows:

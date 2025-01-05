@@ -1,0 +1,3 @@
+For comparison with other state-of-art models, we
+further pretrain our proposed DeepLabv3+ model on MS-COCO dataset [ 79],
+which yields about extra 2% improvement for all diﬀerent inferenc e strategies.

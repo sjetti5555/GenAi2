@@ -1,0 +1,41 @@
+DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 13
+Method mIOU
+Deep Layer Cascade (LC) [ 82]82.7
+TuSimple [ 77] 83.1
+LargeKernelMatters [ 60] 83.6
+Multipath-ReﬁneNet [ 58] 84.2
+ResNet-38 MSCOCO [83]84.9
+PSPNet [ 24] 85.4
+IDW-CNN [ 84] 86.3
+CASIAIVASDN [63] 86.6
+DIS [85] 86.8
+DeepLabv3 [ 23] 85.7
+DeepLabv3-JFT [ 23] 86.9
+DeepLabv3+ (Xception) 87.8
+DeepLabv3+ (Xception-JFT) 89.0
+Table 6. PASCAL VOC 2012 testset results with top-performing models.
+0 10 20 30 4050607080mean IOU (%)
+Trimap Width (pixels)  
+Xception w/ Decoder
+ResNet−101 w/ Decoder
+Xception w/ BU
+ResNet−101 w/ BU
+Image w/ BU w/ Decoder
+(a) mIOU vs. Trimap width (b) Decoder eﬀect
+Fig.5.(a) mIOU as a function of trimap band width around the object bound aries
+when employing train output stride =eval output stride = 16.BU: Bilinear upsam-
+pling. (b) Qualitative eﬀect of employing the proposed decod er module compared with
+the naive bilinear upsampling (denoted as BU). In the examples, we adopt Xception
+as feature extractor and train output stride =eval output stride = 16.
+module and image-level features [ 52], attains the performance of 77.33% on the
+validation set. Adding the proposed decoder module signiﬁcantly imp roves the
+performance to 78.79% (1.46% improvement). We notice that removing the au g-
+mented image-level feature improves the performance to 79.14%, showi ng that
+in DeepLab model, the image-level features are more eﬀective on the P ASCAL
+VOC 2012 dataset. We also discover that on the Cityscapes dataset, it is eﬀ ec-
+tive to increase more layers in the entry ﬂow in the Xception [ 26], the same as
+what [31] did for the object detection task. The resulting model building on top
+of the deeper network backbone (denoted as X-71 in the table), attains the best
+performance of 79.55% on the validation set.
+After ﬁnding the best model variant on valset, we then further ﬁne-tune
+the model on the coarse annotations in order to compete with other state-of -art

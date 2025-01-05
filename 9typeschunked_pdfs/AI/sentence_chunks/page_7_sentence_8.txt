@@ -1,0 +1,2 @@
+Supervised learning : according to the literal meaning, this method correlates with
+the method of learning of student under the supervision of a teacher.

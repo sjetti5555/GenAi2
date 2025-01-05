@@ -1,0 +1,16 @@
+2 L.-C Chen, Y. Zhu, G. Papandreou, F. Schroﬀ, and H. Adam
+ImageSpatial Pyramid Pooling
+0.5x0.5x0.5x
+Prediction8x
+Image2x
+0.5x0.5x0.5x0.5x0.5x 2x
+2x
+2x
+2x
+Prediction
+ImageSpatial Pyramid Pooling
+0.5x0.5x0.5x0.5x4x
+Prediction4x
+(a) Spatial Pyramid Pooling (b) Encoder-Decoder (c) Encoder-Decoder with Atrous Conv
+Fig.1.WeimproveDeepLabv3,whichemploysthespatialpyramidpoolin gmodule(a),
+with the encoder-decoder structure (b).

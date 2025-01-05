@@ -1,0 +1,2 @@
+module and image-level features [ 52], attains the performance of 77.33% on the
+validation set.

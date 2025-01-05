@@ -1,0 +1,2 @@
+Examples for reinforcement learning is a robotic dog learning by its own
+mistakes and performances, computer playing video games by their own.

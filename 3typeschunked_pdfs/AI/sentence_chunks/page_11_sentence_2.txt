@@ -1,0 +1,2 @@
+The biggest challenge and limitation of DL is to acquire large amount of data and
+label it accurately to help the machine while learning the data.

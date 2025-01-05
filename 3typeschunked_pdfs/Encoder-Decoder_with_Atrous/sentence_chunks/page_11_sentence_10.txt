@@ -1,0 +1,3 @@
+Pretraining on JFT: Similarto[ 23],wealsoemploytheproposedXception
+modelthathasbeenpretrainedonbothImageNet-1k[ 74]andJFT-300Mdataset
+[80,26,81], which brings extra 0.8% to 1% improvement.

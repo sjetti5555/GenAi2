@@ -1,0 +1,4 @@
+Depthwise separable convolution: Depthwise separable convolution, fac-
+torizing a standard convolution into a depthwise convolution followed by a point-
+wise convolution (i.e., 1×1 convolution), drastically reduces computation com-
+plexity.

@@ -1,0 +1,2 @@
+The algorithms are developed
+in a manner to deal with the pixel data.

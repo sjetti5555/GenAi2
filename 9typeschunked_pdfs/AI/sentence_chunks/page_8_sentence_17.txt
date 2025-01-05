@@ -1,0 +1,2 @@
+The main advantage is that it can learn without any predeﬁned data and does not
+require explicit programming by the programmers.

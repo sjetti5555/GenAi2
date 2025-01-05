@@ -1,0 +1,2 @@
+Thealgorithm has to train itself by searching the degree of similarities among the given
+data and ﬁgure out the appropriate output for the given problem.

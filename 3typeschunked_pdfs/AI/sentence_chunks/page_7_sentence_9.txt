@@ -1,0 +1,3 @@
+As a teacher
+illustrates the student with many good examples to help in grasping the concept
+perfectly, the machine is provided with many labeled data to help in obtaining theperfect output from the given input.

@@ -1,0 +1,2 @@
+Expert system : these are systems which make decisions with the help of data present
+in the knowledge base and getting guidance by an expert.

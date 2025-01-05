@@ -1,0 +1,3 @@
+Adding left-right ﬂipped inputs.
+are able to obtain features at diﬀerent resolutions during training and evaluation
+using a single model.

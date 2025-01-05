@@ -1,0 +1,4 @@
+The task of developing such machines is accomplished by
+minutely studying the human behavior and implementing the logic in the form of
+algorithms resulting in inventions of software, devices, robots, etc., making human
+race smarter.

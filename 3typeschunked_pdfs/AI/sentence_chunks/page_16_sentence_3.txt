@@ -1,0 +1,2 @@
+Starting from the satellite communication
+to the rovers moving around the Mars surface many activities needs to be performedby its own or without any instruction from the space station.

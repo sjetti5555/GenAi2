@@ -1,0 +1,3 @@
+Whether it is the dataextraction from various medical images (CT, MRI, X-ray, ECG, EMG, PET, and
+EEG) or to manage the medical records; is very easy with use of advanced level
+of algorithms [ 24].

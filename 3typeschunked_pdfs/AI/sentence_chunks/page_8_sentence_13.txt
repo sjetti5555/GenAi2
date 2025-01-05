@@ -1,0 +1,2 @@
+The
+amount of the depth of the network in terms of layers decides how efﬁcient thealgorithm can do the dense representation of any data (for example, in an image, theedge, boundaries, etc., are the required data needed for representation).

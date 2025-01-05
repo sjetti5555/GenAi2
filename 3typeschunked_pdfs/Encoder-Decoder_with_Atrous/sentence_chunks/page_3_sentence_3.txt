@@ -1,0 +1,3 @@
+In summary, our contributions are:
+–We propose a novel encoder-decoder structure which employs De epLabv3 as
+a powerful encoder module and a simple yet eﬀective decoder mo dule.

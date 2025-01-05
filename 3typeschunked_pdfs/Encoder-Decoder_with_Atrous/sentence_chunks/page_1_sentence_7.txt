@@ -1,0 +1,4 @@
+We fu rther ex-
+plore the Xception model and apply the depthwise separable con volution
+to both Atrous Spatial Pyramid Pooling and decoder modules, res ulting
+inafasterandstrongerencoder-decodernetwork.

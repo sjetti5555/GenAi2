@@ -1,0 +1,5 @@
+2.
+2.1 Machine Learning
+As humans can think, improve by self-improvement cycle, and learn from the past
+experiences, AI machines can also learn from the past experiences with the help of
+the concept known as Machine Learning (ML).

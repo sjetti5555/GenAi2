@@ -1,0 +1,12 @@
+Conv
+1x1 ConvLow-Level
+FeaturesUpsample
+by 4
+Concat 3x3 ConvEncoder
+DecoderAtrous Conv
+DCNN Image
+Prediction
+Upsample
+by 4
+Fig.2.Our proposed DeepLabv3+ extends DeepLabv3 by employing a encod er-
+decoder structure.

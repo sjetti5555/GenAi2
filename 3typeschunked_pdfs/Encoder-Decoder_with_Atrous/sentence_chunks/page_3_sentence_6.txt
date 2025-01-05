@@ -1,0 +1,2 @@
+–Our proposed model attains a new state-of-art performance on PASCAL
+VOC 2012 and Cityscapes datasets.

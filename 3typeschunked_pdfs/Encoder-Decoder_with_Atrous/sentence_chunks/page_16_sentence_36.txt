@@ -1,0 +1,2 @@
+Eﬃcient pi ecewise training of deep
+structured models for semantic segmentation.

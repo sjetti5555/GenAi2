@@ -1,0 +1,2 @@
+From another study it was reported that SKICA T (Sky Image Cataloging and
+Analysis Tool) performed beyond the expectations of human and was able to classifymany images having lower resolution during the span of second Palomer Sky Survey.

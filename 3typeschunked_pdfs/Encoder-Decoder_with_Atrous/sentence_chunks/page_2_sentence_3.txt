@@ -1,0 +1,2 @@
+Th e encoder module
+allows us to extract features at an arbitrary resolution by applying atrous convolution.

@@ -1,0 +1,4 @@
+In short, we employ the same learning rate schedule ( i.e.,
+“poly” policy [ 52] and same initial learning rate 0 .007), crop size 513 ×513,
+ﬁne-tuning batch normalization parameters [ 75] whenoutput stride = 16, and
+randomscaledataaugmentationduringtraining.

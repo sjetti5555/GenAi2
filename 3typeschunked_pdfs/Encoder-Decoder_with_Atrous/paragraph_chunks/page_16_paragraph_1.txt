@@ -1,0 +1,52 @@
+16 L.-C Chen, Y. Zhu, G. Papandreou, F. Schroﬀ, and H. Adam
+23. Chen, L.C., Papandreou, G., Schroﬀ, F., Adam, H.: Rethinki ng atrous convolution
+for semantic image segmentation. arXiv:1706.05587 (2017)
+24. Zhao, H., Shi, J., Qi, X., Wang, X., Jia, J.: Pyramid scene p arsing network. In:
+CVPR. (2017)
+25. He, K., Zhang, X., Ren, S., Sun, J.: Deep residual learning for image recognition.
+In: CVPR. (2016)
+26. Chollet, F.: Xception: Deep learning with depthwise separa ble convolutions. In:
+CVPR. (2017)
+27. Sifre, L.: Rigid-motion scattering for image classiﬁcation . PhD thesis (2014)
+28. Vanhoucke, V.: Learning visual representations at scale. I CLR invited talk (2014)
+29. Howard, A.G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W. , Weyand, T., An-
+dreetto, M., Adam, H.: Mobilenets: Eﬃcient convolutional ne ural networks for
+mobile vision applications. arXiv:1704.04861 (2017)
+30. Zhang, X., Zhou, X., Lin, M., Sun, J.: Shuﬄenet: An extreme ly eﬃcient convolu-
+tional neural network for mobile devices. In: CVPR. (2018)
+31. Qi, H., Zhang, Z., Xiao, B., Hu, H., Cheng, B., Wei, Y., Dai, J.: Deformable
+convolutional networks – coco detection and segmentation ch allenge 2017 entry.
+ICCV COCO Challenge Workshop (2017)
+32. Mostajabi, M., Yadollahpour, P., Shakhnarovich, G.: Feed forward semantic seg-
+mentation with zoom-out features. In: CVPR. (2015)
+33. Dai, J., He, K., Sun, J.: Convolutional feature masking for joi nt object and stuﬀ
+segmentation. In: CVPR. (2015)
+34. Farabet, C., Couprie, C., Najman, L., LeCun, Y.: Learning hie rarchical features
+for scene labeling. PAMI (2013)
+35. Eigen, D., Fergus, R.: Predicting depth, surface normals and se mantic labels with
+a common multi-scale convolutional architecture. In: ICCV. ( 2015)
+36. Pinheiro, P., Collobert, R.: Recurrent convolutional neural networks for scene
+labeling. In: ICML. (2014)
+37. Lin, G., Shen, C., van den Hengel, A., Reid, I.: Eﬃcient pi ecewise training of deep
+structured models for semantic segmentation. In: CVPR. (2016)
+38. Chen, L.C., Yang, Y., Wang, J., Xu, W., Yuille, A.L.: Atte ntion to scale: Scale-
+aware semantic image segmentation. In: CVPR. (2016)
+39. Chen, L.C., Papandreou, G., Kokkinos, I., Murphy, K., Yuil le, A.L.: Deeplab:
+Semantic image segmentation with deep convolutional nets, atrous convolution,
+and fully connected crfs. TPAMI (2017)
+40. Kr¨ ahenb¨ uhl, P., Koltun, V.: Eﬃcient inference in fully con nected crfs with gaussian
+edge potentials. In: NIPS. (2011)
+41. Adams, A., Baek, J., Davis, M.A.: Fast high-dimensional ﬁ ltering using the per-
+mutohedral lattice. In: Eurographics. (2010)
+42. Chen, L.C., Papandreou, G., Kokkinos, I., Murphy, K., Yuil le, A.L.: Semantic
+image segmentation with deep convolutional nets and fully co nnected crfs. In:
+ICLR. (2015)
+43. Bell, S., Upchurch, P., Snavely, N., Bala, K.: Material reco gnition in the wild with
+the materials in context database. In: CVPR. (2015)
+44. Zheng, S., Jayasumana, S., Romera-Paredes, B., Vineet, V. , Su, Z., Du, D., Huang,
+C., Torr, P.: Conditional random ﬁelds as recurrent neural networks. In: ICCV.
+(2015)
+45. Liu, Z., Li, X., Luo, P., Loy, C.C., Tang, X.: Semantic ima ge segmentation via
+deep parsing network. In: ICCV. (2015)
+46. Papandreou, G., Chen, L.C., Murphy, K., Yuille, A.L.: Weak ly- and semi-
+supervised learning of a dcnn for semantic image segmentation. In: ICCV. (2015)

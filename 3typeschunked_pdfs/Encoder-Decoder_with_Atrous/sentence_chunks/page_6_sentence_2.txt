@@ -1,0 +1,2 @@
+We use the last feature map before logits in the original DeepLabv3
+as the encoder output in our proposed encoder-decoder structure.

@@ -1,0 +1,3 @@
+Speciﬁcally, we
+adopt Nesterov momentum optimizer with momentum = 0.9, initial learnin g
+rate = 0.05, rate decay = 0.94 every 2 epochs, and weight decay 4 e−5.

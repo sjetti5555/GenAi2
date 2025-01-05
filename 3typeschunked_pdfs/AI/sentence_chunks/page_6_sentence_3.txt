@@ -1,0 +1,1 @@
+Google translator and spell checkare some of the examples under NLP domain.

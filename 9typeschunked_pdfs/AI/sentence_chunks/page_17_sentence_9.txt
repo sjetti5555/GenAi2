@@ -1,0 +1,4 @@
+Based on some case studies on the
+combating technologies for the most common deadly disease which is cancer a soft-
+ware was introduced by the IBM, namely, Watson for oncology, including both ML
+and NLP technologies, in 2016.

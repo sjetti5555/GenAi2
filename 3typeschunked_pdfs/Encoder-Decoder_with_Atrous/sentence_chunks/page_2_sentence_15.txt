@@ -1,0 +1,3 @@
+The rich semantic information is encoded in the
+output of DeepLabv3, with atrous convolution allowing one to control the den -
+sity of the encoder features, depending on the budget of computation r esources.

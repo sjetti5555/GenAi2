@@ -1,0 +1,3 @@
+Adding decoder: As shown in the second row block in Tab. 5, adding
+decoder brings about 0.8% improvement when using eval output stride = 16 for
+all the diﬀerent inference strategies.

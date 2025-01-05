@@ -1,0 +1,3 @@
+AI can
+also help in differentiating the non-suitable compounds for the drug design which
+are not suitable for the patient body.

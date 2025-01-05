@@ -1,0 +1,4 @@
+Shotton,J.,Winn,J.,Rother,C.,Criminisi,A.: Textonbo ostforimageunderstand-
+ing: Multi-class object recognition and segmentation by joint ly modeling texture,
+layout, and context. IJCV (2009)
+14.

@@ -1,0 +1,3 @@
+More recently, the MSRA team [ 31] modiﬁes
+the Xception model (called Aligned Xception) and further pushes the p erfor-
+mance in the task of object detection.

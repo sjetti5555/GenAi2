@@ -1,0 +1,3 @@
+2 Related Work
+ModelsbasedonFullyConvolutionalNetworks(FCNs)[ 8,11]havedemonstrated
+signiﬁcant improvement on several segmentation benchmarks [ 1,2,3,4,5].

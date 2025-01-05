@@ -1,0 +1,3 @@
+Papandreou, G., Kokkinos, I., Savalle, P.A.: Modeling lo cal and global deforma-
+tionsindeeplearning:Epitomicconvolution,multipleinst ancelearning,andsliding
+window detection.

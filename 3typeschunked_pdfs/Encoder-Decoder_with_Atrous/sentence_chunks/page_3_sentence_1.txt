@@ -1,0 +1,3 @@
+DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 3
+semantic segmentation, and applying the atrous separable convolution to b oth
+the ASPP and decoder modules.

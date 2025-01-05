@@ -1,0 +1,5 @@
+8 L.-C Chen, Y. Zhu, G. Papandreou, F. Schroﬀ, and H. Adam
+4.1 Decoder Design Choices
+We deﬁne “DeepLabv3 feature map” as the last feature map computed by
+DeepLabv3 ( i.e., the features containing ASPP features and image-level fea-
+tures), and [ k×k,f] as a convolution operation with kernel k×kandfﬁlters.

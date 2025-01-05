@@ -1,0 +1,18 @@
+ to Artiﬁcial Intelligence 27
+Natural language processing (NLP) : this domain deals with bridging the gap of
+communication between the computer and human languages. It is basically the inter-
+action between computer and human in a smart way. Google translator and spell checkare some of the examples under NLP domain.
+2 Subsets of Artiﬁcial Intelligence
+Artiﬁcial intelligence has emerged as a boon for the society for the furtherance of
+advanced techniques to deal with the real-life problems. The major two subsets of
+AI are Machine Learning (ML) and Deep Learning (DL). ML is considered as thesubset of AI and DL is considered as the subset of ML. The pictorial representation
+of the relationship between AI, ML, and DL is shown in Fig. 2.
+2.1 Machine Learning
+As humans can think, improve by self-improvement cycle, and learn from the past
+experiences, AI machines can also learn from the past experiences with the help of
+the concept known as Machine Learning (ML). The machine learning deals with the
+development of algorithms that enables the computer to learn from its data and pastexperiences on their own [ 4]. In this method, the machine analyzes the available data
+set which is also known as training data and with the help of the algorithms predict thepossible output over the given input. More the data (information) is provided, moreperfect is the performance or prediction. In other words, the relationship between
+the data and efﬁciency is that the machine can improve its efﬁciency by gaining
+Fig. 2 Relationship between
+AI, ML, and DL

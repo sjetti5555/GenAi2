@@ -1,0 +1,3 @@
+6, our model has diﬃculty
+in segmenting (a) sofa vs. chair, (b) heavily occluded objects, and (c) objects
+with rare view.

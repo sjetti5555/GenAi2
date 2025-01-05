@@ -1,0 +1,2 @@
+Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Angu elov, D., Erhan, D.,
+Vanhoucke, V., Rabinovich, A.: Going deeper with convoluti ons.

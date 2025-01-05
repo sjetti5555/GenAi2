@@ -1,0 +1,5 @@
+In this work, we consider two
+types of neural networks that use spatial pyramid pooling module [ 18,19,20] or
+encoder-decoder structure [ 21,22] for semantic segmentation, where the former
+one captures rich contextual information by pooling features at diﬀere nt resolu-
+tion while the latter one is able to obtain sharp object boundaries.

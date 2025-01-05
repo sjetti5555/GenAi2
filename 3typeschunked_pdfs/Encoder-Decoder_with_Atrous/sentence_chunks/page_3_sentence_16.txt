@@ -1,0 +1,3 @@
+Typically, the encoder-decoder networks contain (1) an encoder mo dule that
+gradually reduces the feature maps and captures higher semantic inform ation,
+and (2) a decoder module that gradually recovers the spatial information .

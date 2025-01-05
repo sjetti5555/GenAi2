@@ -1,0 +1,2 @@
+Pinheiro, P., Collobert, R.: Recurrent convolutional neural networks for scene
+labeling.

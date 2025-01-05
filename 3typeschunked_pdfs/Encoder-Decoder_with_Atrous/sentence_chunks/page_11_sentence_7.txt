@@ -1,0 +1,3 @@
+As shown in the third row block in Tab. 5, the com-
+putation complexity in terms of Multiply-Adds is signiﬁcantly redu ced by 33%
+to 41%, while similar mIOU performance is obtained.

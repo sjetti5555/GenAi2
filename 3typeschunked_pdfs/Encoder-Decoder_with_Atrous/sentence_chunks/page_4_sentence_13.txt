@@ -1,0 +1,3 @@
+In the case of two-dimen sional
+signals, for each location ion the output feature map yand a convolution ﬁlter
+w, atrous convolution is applied over the input feature map xas follows:

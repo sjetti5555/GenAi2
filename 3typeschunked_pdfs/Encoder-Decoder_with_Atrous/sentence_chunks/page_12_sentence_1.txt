@@ -1,0 +1,16 @@
+12 L.-C Chen, Y. Zhu, G. Papandreou, F. Schroﬀ, and H. Adam
+EncoderDecoder MS Flip SC COCO JFT mIOU Multiply-Addstrain OS eval OS
+16 16 79.17% 68.00B
+16 16 /check 80.57% 601.74B
+16 16 /check /check 80.79% 1203.34B
+16 8 79.64% 240.85B
+16 8 /check 81.15% 2149.91B
+16 8 /check /check 81.34% 4299.68B
+16 16 /check 79.93% 89.76B
+16 16 /check /check 81.38% 790.12B
+16 16 /check /check /check 81.44% 1580.10B
+16 8 /check 80.22% 262.59B
+16 8 /check /check 81.60% 2338.15B
+16 8 /check /check /check 81.63% 4676.16B
+16 16 /check /check 79.79% 54.17B
+16 16 /check /check /check /check
