@@ -1,1 +1,0 @@
-The algorithmsare classiﬁed into clustering and association types [ 6,7].

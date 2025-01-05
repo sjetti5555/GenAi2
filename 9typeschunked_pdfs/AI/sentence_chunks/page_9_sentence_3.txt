@@ -1,3 +1,0 @@
-Deep neural network (in which there are multiple hidden layers between the
-input and output layer and it is the most widely used network) as shown in
-Fig.

@@ -1,4 +1,0 @@
-Classiﬁcation of Machine Learning
-Based on the nature of the learning signal or response that the machine gets; machine
-learning can be classiﬁed into following categories:
-(i)

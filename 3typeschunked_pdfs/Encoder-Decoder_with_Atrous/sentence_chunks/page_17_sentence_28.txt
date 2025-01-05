@@ -1,2 +1,0 @@
-Dssd: Dec onvolutional single
-shot detector.

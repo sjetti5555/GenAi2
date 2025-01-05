@@ -1,3 +1,0 @@
-These models h ave
-shown promising results on several segmentation benchmarks by expl oiting the
-multi-scale information.

@@ -1,2 +1,0 @@
-The ﬁlter’s ﬁeld-of-view is
-adaptively modiﬁed by changing the rate value.

@@ -1,3 +1,0 @@
-The concept of trusting machine as a replica of
-human started with the invent of turing test in which the machine is tested irrespective
-of the knowledge of examiner upon the instructions given considering it as humanand if it passes the test, the machine is considered as intelligent.

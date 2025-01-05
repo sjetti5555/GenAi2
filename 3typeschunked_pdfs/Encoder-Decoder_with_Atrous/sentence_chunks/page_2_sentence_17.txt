@@ -1,3 +1,0 @@
-Motivatedbytherecentsuccessofdepthwiseseparableconvolution[ 27,28,26,29,30],
-we also explore this operation and show improvement in terms of both sp eed and
-accuracy by adapting the Xception model [ 26], similar to [ 31], for the task of

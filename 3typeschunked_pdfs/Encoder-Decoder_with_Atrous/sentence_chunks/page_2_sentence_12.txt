@@ -1,3 +1,0 @@
-Attempting to combine the advantages from
-both methods, we propose to enrich the encoder module in the enco der-decoder
-networks by incorporating the multi-scale contextual information.

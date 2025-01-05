@@ -1,1 +1,0 @@
-JFT: Models pretrained on JFT.

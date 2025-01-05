@@ -1,2 +1,0 @@
-A systematic literature review of predicting diabetic
-retinopathy, nephropathy and neuropathy in patients with type 1 diabetes using machinelearning.

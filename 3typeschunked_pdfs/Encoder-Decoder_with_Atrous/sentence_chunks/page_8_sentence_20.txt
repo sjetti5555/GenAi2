@@ -1,3 +1,0 @@
-4.2 ResNet-101 as Network Backbone
-To compare the model variants in terms of both accuracy and speed, we rep ort
-mIOU and Multiply-Adds in Tab.

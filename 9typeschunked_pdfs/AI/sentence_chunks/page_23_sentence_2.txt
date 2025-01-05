@@ -1,2 +1,0 @@
-Lobo, J.L., Del Ser, J., Bifet, A., Kasabov, N.: Spiking Neural Networks and online learning:
-an overview and perspectives.

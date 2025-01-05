@@ -1,2 +1,0 @@
-We ﬁx the
-other components in the decoder structure as using [3 ×3,256] and Conv2.

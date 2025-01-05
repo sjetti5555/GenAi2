@@ -1,2 +1,0 @@
-Machine learning and deep learning are two subsets of AI which
-are used to solve problems using high performance algorithms and multilayer neuralnetworks, respectively.

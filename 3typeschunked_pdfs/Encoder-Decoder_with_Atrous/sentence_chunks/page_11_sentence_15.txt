@@ -1,2 +1,0 @@
-As shown in the ﬁgure, our model is able to segment objects very well w ithout
-any post-processing.

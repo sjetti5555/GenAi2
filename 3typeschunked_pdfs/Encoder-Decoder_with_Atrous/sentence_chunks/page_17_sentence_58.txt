@@ -1,3 +1,0 @@
-Wang, M., Liu, B., Foroosh, H.: Design of eﬃcient convoluti onal layers using sin-
-gle intra-channel convolution, topological subdivisionin g and spatial ”bottleneck”
-structure.

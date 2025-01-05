@@ -1,1 +1,0 @@
-Herzog, S., Tetzlaff, C., Wörgötter, F.: Evolving artiﬁcial neural networks with feedback.

@@ -1,5 +1,0 @@
-(c) Atrous depthwise co nv.
-Fig.3.3×3 Depthwise separable convolution decomposes a standard convo lution into
-(a) a depthwise convolution (applying a single ﬁlter for each input channel) and (b) a
-pointwise convolution (combining the outputs from depthwise convolution across chan-
-nels).

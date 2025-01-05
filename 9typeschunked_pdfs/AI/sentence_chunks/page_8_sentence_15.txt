@@ -1,2 +1,0 @@
-This includes intake of large amount of data known as bigdata and assures better
-performance with respect to the complex data [ 10].

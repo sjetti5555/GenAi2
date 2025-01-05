@@ -1,2 +1,0 @@
-This method includes the
-training of the neural network-based software with millions of images as an input andthen asked to produce images from the selected.

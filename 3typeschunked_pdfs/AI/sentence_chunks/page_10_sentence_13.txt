@@ -1,1 +1,0 @@
-It reveals the information like edge, boundaries of a image.

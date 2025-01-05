@@ -1,1 +1,0 @@
-Inference strategy on the PASCAL VOC 2012 valset using ResNet-101 .

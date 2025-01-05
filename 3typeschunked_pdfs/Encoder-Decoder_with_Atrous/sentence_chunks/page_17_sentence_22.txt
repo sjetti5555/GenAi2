@@ -1,2 +1,0 @@
-Lin, T.Y., Doll´ ar, P., Girshick, R., He, K., Hariharan, B., Be longie, S.: Feature
-pyramid networks for object detection.

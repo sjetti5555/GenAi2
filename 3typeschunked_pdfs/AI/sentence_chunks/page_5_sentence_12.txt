@@ -1,2 +1,0 @@
-It is quite similar to the way humans decide between 0
-and 1, but it also deals with all the possibilities between 0 and 1.

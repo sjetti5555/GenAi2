@@ -1,2 +1,0 @@
-Luo, P., Wang, G., Lin, L., Wang, X.: Deep dual learning for se mantic image
-segmentation.

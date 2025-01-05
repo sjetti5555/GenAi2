@@ -1,5 +1,0 @@
-The various types of artiﬁcial intelligence based on the capabilities can be classiﬁed
-as
-– Weak or narrow AI
-– General AI
-– Strong AI.

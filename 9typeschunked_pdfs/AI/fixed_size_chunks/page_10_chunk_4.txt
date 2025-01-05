@@ -1,1 +1,0 @@
-node of a layer with other nodes. As a result, whatever image Fig. 4 Schematic diagram depicting the image recognition of the input image using CNN

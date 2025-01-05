@@ -1,3 +1,0 @@
-This
-is very much helpful for dealing with huge data of complex problems, which are
-difﬁcult for humans to deal with and they also consume more time in solving.

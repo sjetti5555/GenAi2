@@ -1,2 +1,0 @@
-Zheng, S., Jayasumana, S., Romera-Paredes, B., Vineet, V. , Su, Z., Du, D., Huang,
-C., Torr, P.: Conditional random ﬁelds as recurrent neural networks.

@@ -1,6 +1,0 @@
-In this work, we explore atrous separable convolution where atrous convolution
-is adopted in the depthwise convolution, as shown in (c) with rate= 2.
-y[i] =/summationdisplay
-kx[i+r·k]w[k] (1)
-where the atrous rate rdetermines the stride with which we sample the input
-signal.

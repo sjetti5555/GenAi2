@@ -1,2 +1,0 @@
-Badrinarayanan, V., Kendall, A., Cipolla, R.: Segnet: A de ep convolutional
-encoder-decoder architecture for image segmentation.

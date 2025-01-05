@@ -1,2 +1,0 @@
-The pictorial representation
-of the relationship between AI, ML, and DL is shown in Fig.

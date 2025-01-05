@@ -1,3 +1,0 @@
-We
-then compute the mean IOU for those pixels that are within the dilated band
-(called trimap) of ‘void’ labels.

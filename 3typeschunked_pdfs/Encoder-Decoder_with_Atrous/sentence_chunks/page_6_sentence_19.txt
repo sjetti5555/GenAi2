@@ -1,3 +1,0 @@
-Motivated by these ﬁndings, we w ork in
-the same direction to adapt the Xception model for the task of semantic im age
-segmentation.

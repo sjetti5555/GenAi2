@@ -1,5 +1,0 @@
-10 L.-C Chen, Y. Zhu, G. Papandreou, F. Schroﬀ, and H. Adam
-Model Top-1 Error Top-5 Error
-Reproduced ResNet-101 22.40% 6.02%
-Modiﬁed Xception 20.19% 5.17%
-Table 4.

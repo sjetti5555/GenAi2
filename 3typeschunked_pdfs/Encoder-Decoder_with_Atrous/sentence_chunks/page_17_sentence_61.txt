@@ -1,2 +1,0 @@
-Learning tra nsferable architectures
-for scalable image recognition.

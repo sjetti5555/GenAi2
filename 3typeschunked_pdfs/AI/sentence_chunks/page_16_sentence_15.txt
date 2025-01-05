@@ -1,1 +1,0 @@
-The role of AI in medical diagnosis is classiﬁed into two types, i.e.,virtual and physical.

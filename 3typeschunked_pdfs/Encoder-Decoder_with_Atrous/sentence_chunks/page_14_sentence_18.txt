@@ -1,3 +1,0 @@
-Acknowledgments We would like to acknowledge the valuable discussions
-with Haozhi Qi and Jifeng Dai about Aligned Xception, the feedback from Chen
-Sun, and the support from Google Mobile Vision team.

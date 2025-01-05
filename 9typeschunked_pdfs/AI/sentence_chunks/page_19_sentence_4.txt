@@ -1,3 +1,0 @@
-In such cases, an advanced level of algorithms by AI and ML
-are required to handle big data efﬁciently ensuring no loss of security and integrity
-of the data.

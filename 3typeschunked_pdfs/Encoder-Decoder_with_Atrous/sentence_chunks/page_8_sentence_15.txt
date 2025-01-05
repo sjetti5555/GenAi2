@@ -1,2 +1,0 @@
-The
-whole decoding procedure is then similar to the U-Net/SegNet design [ 21,22].

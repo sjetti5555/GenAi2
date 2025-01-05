@@ -1,1 +1,0 @@
-Reinforcement learning : this method is typically a feedback-based learning method.

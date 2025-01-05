@@ -1,2 +1,0 @@
-Barbedo, J.G.A: Detecting and Classifying Pests in Crops Using Proximal Images and Machine
-Learning: A Review.

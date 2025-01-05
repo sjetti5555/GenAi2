@@ -1,2 +1,0 @@
-Peng, C., Zhang, X., Yu, G., Luo, G., Sun, J.: Large kernel ma tters–improve
-semantic segmentation by global convolutional network.

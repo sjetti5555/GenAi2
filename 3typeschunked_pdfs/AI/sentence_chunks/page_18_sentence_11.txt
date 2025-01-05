@@ -1,2 +1,0 @@
-But there are few challenges that AI must face in the ﬁeld of medicine
-and health care such as the data accuracy, security, integrity, and the interpretability.

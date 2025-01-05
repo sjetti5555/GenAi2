@@ -1,2 +1,0 @@
-Eigen, D., Fergus, R.: Predicting depth, surface normals and se mantic labels with
-a common multi-scale convolutional architecture.

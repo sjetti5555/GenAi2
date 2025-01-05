@@ -1,3 +1,0 @@
-In particular, we explore the Xception model [ 26], similar
-to [31] for their COCO 2017 detection challenge submission, and show improve -
-ment in terms of both accuracy and speed for the task of semantic segmentat ion.

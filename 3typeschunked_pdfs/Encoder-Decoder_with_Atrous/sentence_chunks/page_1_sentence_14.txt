@@ -1,2 +1,0 @@
-In order to capture the contextual information at multiple scales, Dee pLabv3
-[23] applies several parallel atrous convolution with diﬀerent rates (call ed Atrous

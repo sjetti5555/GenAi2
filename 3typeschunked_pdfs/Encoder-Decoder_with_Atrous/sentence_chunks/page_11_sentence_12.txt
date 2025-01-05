@@ -1,3 +1,0 @@
-In the end,
-our ‘DeepLabv3+’ achieves the performance of 87.8% and 89.0% without and
-with JFT dataset pretraining.

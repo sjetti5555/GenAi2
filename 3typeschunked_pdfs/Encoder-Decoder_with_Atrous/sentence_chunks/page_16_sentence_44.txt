@@ -1,2 +1,0 @@
-Kr¨ ahenb¨ uhl, P., Koltun, V.: Eﬃcient inference in fully con nected crfs with gaussian
-edge potentials.

@@ -1,2 +1,0 @@
-The CNN network is widely
-used method and algorithm in the application of deep learning and is basicallyused for image identiﬁcation and classiﬁcation.

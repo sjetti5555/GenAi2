@@ -1,2 +1,0 @@
-It comprises algorithms that understand the relationships between the data while
-mimicking the human brain.

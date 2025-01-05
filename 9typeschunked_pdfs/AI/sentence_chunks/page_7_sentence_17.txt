@@ -1,3 +1,0 @@
-In this method the machine is given a reward for every right action taken by it and
-a penalty for any wrong action, so it is a self-learning method done by analyzing its
-past performances.

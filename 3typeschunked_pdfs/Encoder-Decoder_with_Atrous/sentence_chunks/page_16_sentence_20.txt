@@ -1,2 +1,0 @@
-Qi, H., Zhang, Z., Xiao, B., Hu, H., Cheng, B., Wei, Y., Dai, J.: Deformable
-convolutional networks – coco detection and segmentation ch allenge 2017 entry.

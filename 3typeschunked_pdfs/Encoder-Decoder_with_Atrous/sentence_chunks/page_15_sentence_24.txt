@@ -1,2 +1,0 @@
-Sermanet, P., Eigen, D., Zhang, X., Mathieu, M., Fergus, R., L eCun, Y.: Overfeat:
-Integrated recognition, localization and detection using co nvolutional networks.

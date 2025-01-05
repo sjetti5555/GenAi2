@@ -1,3 +1,0 @@
-We then review DeepLabv3 [ 23]
-which is used as our encoder module before discussing the proposed decoder
-module appended to the encoder output.

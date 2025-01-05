@@ -1,2 +1,0 @@
-Pohlen, T., Hermans, A., Mathias, M., Leibe, B.: Full-reso lution residual networks
-for semantic segmentation in street scenes.

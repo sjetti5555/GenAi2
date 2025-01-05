@@ -1,4 +1,0 @@
-However, given the design of state-of-art neural n etworks
-[7,9,10,25,26] and limited GPU memory, it is computationally prohibitive to ex-
-tract output feature maps that are 8, or even 4 times smaller than the inpu t
-resolution.

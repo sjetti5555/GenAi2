@@ -1,8 +1,0 @@
-79.55Method Coarse mIOU
-ResNet-38 [ 83]/check 80.6
-PSPNet [ 24]/check 81.2
-Mapillary [ 86]/check 82.0
-DeepLabv3 /check 81.3
-DeepLabv3+ /check 82.1
-(a)valset results (b) testset results
-Table 7. (a) DeepLabv3+ on the Cityscapes valset when trained with trainﬁneset.

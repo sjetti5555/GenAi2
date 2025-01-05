@@ -1,2 +1,0 @@
-Bell, S., Upchurch, P., Snavely, N., Bala, K.: Material reco gnition in the wild with
-the materials in context database.

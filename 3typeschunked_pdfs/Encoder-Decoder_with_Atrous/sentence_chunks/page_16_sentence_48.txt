@@ -1,2 +1,0 @@
-Fast high-dimensional ﬁ ltering using the per-
-mutohedral lattice.

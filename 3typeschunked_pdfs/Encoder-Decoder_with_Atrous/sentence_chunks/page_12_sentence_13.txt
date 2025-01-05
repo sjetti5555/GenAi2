@@ -1,2 +1,0 @@
-Inference strategy on the PASCAL VOC 2012 valset when using mod-
-iﬁedXception .train OS : Theoutput stride used during training.

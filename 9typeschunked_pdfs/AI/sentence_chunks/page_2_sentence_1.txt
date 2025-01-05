@@ -1,5 +1,0 @@
-Introduction to Artiﬁcial Intelligence
-Moumita Ghosh and A. Thirugnanam
-Abstract Artiﬁcial Intelligence (AI) is the branch of computer science, which makes
-the computers to mimic the human behavior to assist humans for better perfor-
-mance in the ﬁeld of science and technology.

@@ -1,3 +1,0 @@
-The
-former networks are able to encode multi-scale contextual informa tion by
-probing the incoming features with ﬁlters or pooling operations

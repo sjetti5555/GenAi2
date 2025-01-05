@@ -1,2 +1,0 @@
-However, this naive decoder module may not successfully recove r object seg-
-mentation details.

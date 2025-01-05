@@ -1,2 +1,0 @@
-Backbone Decoder ASPP Image-Level mIOU
-X-65 /check /check

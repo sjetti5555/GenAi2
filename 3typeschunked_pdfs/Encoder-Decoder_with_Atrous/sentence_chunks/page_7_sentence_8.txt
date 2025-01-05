@@ -1,5 +1,0 @@
-Sep Conv 2048, 3x3Exit  flow
-Fig.4.We modify the Xception as follows: (1) more layers (same as MSRA’s modiﬁca-
-tion except the changes in Entry ﬂow), (2) all the max pooling o perations are replaced
-by depthwise separable convolutions with striding, and (3) ex tra batch normalization
-and ReLU are added after each 3 ×3 depthwise convolution, similar to MobileNet.

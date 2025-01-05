@@ -1,2 +1,0 @@
-Lazebnik, S., Schmid, C., Ponce, J.: Beyond bags of feature s: Spatial pyramid
-matching for recognizing natural scene categories.

@@ -1,4 +1,0 @@
-Similarly, by the use of AI and relevant technologies in healthcare system, it
-is generating large amounts of data in the form of EHR (Electronic Health Record),EMR (Electronic Medical Record), PHR (Personal Health Record), MPM (Medical
-Practice Management software), and other digital records related to the patients and
-physicians.

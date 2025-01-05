@@ -1,3 +1,0 @@
-The proposed models are evaluated on the PASCAL VOC 2012 semantic
-segmentation benchmark [ 1] which contains 20 foreground object classes and one
-background class.

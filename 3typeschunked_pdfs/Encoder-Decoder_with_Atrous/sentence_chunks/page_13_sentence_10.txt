@@ -1,4 +1,0 @@
-We notice that removing the au g-
-mented image-level feature improves the performance to 79.14%, showi ng that
-in DeepLab model, the image-level features are more eﬀective on the P ASCAL
-VOC 2012 dataset.

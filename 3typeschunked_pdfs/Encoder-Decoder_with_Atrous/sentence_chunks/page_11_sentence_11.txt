@@ -1,3 +1,0 @@
-Test set results: Since the computation complexity is not considered in the
-benchmark evaluation, we thus opt for the best performance model and tr ain it
-withoutput stride = 8 and frozen batch normalization parameters.

@@ -1,4 +1,0 @@
-Eventhoughrichsemanticinformationis encodedin
-the last feature map, detailed information related to object boundaries is missing
-due to the pooling or convolutions with striding operations within th e network
-backbone.

@@ -1,2 +1,0 @@
-The process of deep learning
-begins with the understanding the problem given, identifying the data, selecting theproper algorithm followed by training and testing the model.

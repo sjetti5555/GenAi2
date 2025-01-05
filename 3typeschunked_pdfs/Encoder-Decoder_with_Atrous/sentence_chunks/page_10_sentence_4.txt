@@ -1,3 +1,0 @@
-3containstheresultsfrom[ 23]showing
-that extracting denser feature maps during evaluation ( i.e.,eval output stride =
-8) and adopting multi-scale inputs increases performance.

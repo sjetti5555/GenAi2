@@ -1,2 +1,0 @@
-The improvement becomes less when using
-eval output stride = 8.

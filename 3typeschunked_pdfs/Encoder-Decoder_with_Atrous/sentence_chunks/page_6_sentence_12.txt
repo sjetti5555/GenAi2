@@ -1,3 +1,0 @@
-After the concatenation, we appl y a
-few 3×3 convolutions to reﬁne the features followed by another simple bili near
-upsampling by a factor of 4.

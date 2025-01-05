@@ -1,2 +1,0 @@
-Simeone, O.: A very brief introduction to machine learning with applications to communication
-systems.

@@ -1,4 +1,0 @@
-It is known that the gene sequence consists of base
-pairs made up of (A, T, C, G); general DNA sequencing took much time but after the
-invent of a technology called as high throughput sequencing (HTS) which helps to
-perform the DNA sequencing in less than a day.

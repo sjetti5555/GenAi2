@@ -1,2 +1,0 @@
-This huge amount of data is stored in the data
-warehouse and then analysis is done to produce the effective and feasible outcomes.

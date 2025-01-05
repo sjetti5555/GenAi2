@@ -1,2 +1,0 @@
-Note that standard
-convolution is a special case in which rate r= 1.

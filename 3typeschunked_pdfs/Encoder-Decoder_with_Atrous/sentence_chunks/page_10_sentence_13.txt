@@ -1,2 +1,0 @@
-However, the performance is always about 1% to 1.5% below the case in whic h
-we employ train output stride = 16 and diﬀerent eval output stride values.

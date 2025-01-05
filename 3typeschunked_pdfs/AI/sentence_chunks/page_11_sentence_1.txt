@@ -1,3 +1,0 @@
-32 M. Ghosh and A. Thirugnanam
-is placed in the input layer is produced in the output layer if passed through a
-simple image detection CNN network.

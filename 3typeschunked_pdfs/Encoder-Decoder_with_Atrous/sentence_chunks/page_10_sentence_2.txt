@@ -1,1 +1,0 @@
-Single-model error rates on ImageNet-1K validation set.

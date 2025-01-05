@@ -1,2 +1,0 @@
-Dai, J., Qi, H., Xiong, Y., Li, Y., Zhang, G., Hu, H., Wei, Y. : Deformable convo-
-lutional networks.

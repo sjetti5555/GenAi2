@@ -1,2 +1,0 @@
-Changing the number of ﬁlters from 256 to 128 or the kernel size from 3 ×3 to
-1×1 degrades performance.

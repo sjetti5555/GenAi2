@@ -1,2 +1,0 @@
-Unsupervised learning : in this method the machine has to train itself without any
-supervisor, i.e., the data provided at the input are not labeled or classiﬁed.

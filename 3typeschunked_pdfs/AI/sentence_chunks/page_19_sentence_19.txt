@@ -1,3 +1,0 @@
-This app helps the
-diabetic patient to monitor the sugar levels along with the proper guidance for food
-habits and all the information regarding healthy eating habits.

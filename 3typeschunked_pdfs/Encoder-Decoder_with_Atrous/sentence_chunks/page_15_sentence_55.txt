@@ -1,2 +1,0 @@
-He, K., Zhang, X., Ren, S., Sun, J.: Spatial pyramid poolin g in deep convolutional
-networks for visual recognition.

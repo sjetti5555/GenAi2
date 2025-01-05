@@ -1,2 +1,0 @@
-3contains the results when
-adopting the proposed decoder structure.

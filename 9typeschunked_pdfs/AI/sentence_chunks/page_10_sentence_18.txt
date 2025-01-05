@@ -1,1 +1,0 @@
-4 Schematic diagram depicting the image recognition of the input image using CNN

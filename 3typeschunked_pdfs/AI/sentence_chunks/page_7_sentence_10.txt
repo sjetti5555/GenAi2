@@ -1,2 +1,0 @@
-The algorithms under this method are classiﬁed
-into two categories, i.e., regression and classiﬁcation.

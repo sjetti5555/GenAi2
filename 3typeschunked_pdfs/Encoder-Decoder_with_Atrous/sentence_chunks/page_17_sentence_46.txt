@@ -1,2 +1,0 @@
-Wojna, Z., Ferrari, V., Guadarrama, S., Silberman, N., Chen, L.C ., Fathi, A.,
-Uijlings, J.: The devil is in the decoder.

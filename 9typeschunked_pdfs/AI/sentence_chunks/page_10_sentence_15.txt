@@ -1,2 +1,0 @@
-As CNN is a multilayer neuron network, the role classiﬁer part
-of the network is to classify the information obtained from convolution andpooling layers.

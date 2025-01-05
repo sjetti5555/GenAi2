@@ -1,3 +1,0 @@
-Even
-worse,26residual blocks ( 78layers!) will be aﬀected if output features that are
-8 times smaller than input are desired.

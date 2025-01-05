@@ -1,2 +1,0 @@
-Chandra, S., Usunier, N., Kokkinos, I.: Dense and low-rank ga ussian crfs using
-deep embeddings.

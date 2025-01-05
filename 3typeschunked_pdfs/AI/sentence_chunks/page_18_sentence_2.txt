@@ -1,2 +1,0 @@
-A similar project for fastening the cancer therapy process is the AI developed by NITI
-Ayog organization of Indian government which is named as Digital Pathology whichcontained the images of annotated and curated pathology images.

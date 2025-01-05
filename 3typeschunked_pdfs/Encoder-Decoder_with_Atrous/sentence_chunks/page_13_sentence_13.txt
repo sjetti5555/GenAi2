@@ -1,3 +1,0 @@
-The resulting model building on top
-of the deeper network backbone (denoted as X-71 in the table), attains the best
-performance of 79.55% on the validation set.

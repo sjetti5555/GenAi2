@@ -1,3 +1,0 @@
-The convolutional layer deals with the
-feature extraction of the image and preserving the relevant data about the
-pixels.

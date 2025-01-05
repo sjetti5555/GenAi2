@@ -1,1 +1,0 @@
-[26,31] which further improves the performance with faster computation.

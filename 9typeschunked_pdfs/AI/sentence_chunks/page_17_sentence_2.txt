@@ -1,2 +1,0 @@
-The medical data and records maintenance, the payment facility, and
-many more applications are used in the healthcare system.

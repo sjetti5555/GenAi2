@@ -1,3 +1,0 @@
-DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 11
-backbone improves the performance by about 2% when train output stride =
-eval output stride = 16 over the case where ResNet-101 is used.

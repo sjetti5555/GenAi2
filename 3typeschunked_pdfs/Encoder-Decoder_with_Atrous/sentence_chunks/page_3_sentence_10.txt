@@ -1,5 +1,0 @@
-There
-are several model variants proposed to exploit the contextual informati on for
-segmentation [ 12,13,14,15,16,17,32,33], including those that employ multi-scale
-inputs (i.e., image pyramid) [ 34,35,36,37,38,39] or those that adopt probabilistic
-graphical models (such as DenseCRF [ 40] with eﬃcient inference algorithm [ 41])

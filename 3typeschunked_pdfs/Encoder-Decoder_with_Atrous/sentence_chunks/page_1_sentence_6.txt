@@ -1,3 +1,0 @@
-Speciﬁcally, our proposed model, DeepLabv3+, e xtends
-DeepLabv3 by adding a simple yet eﬀective decoder module to reﬁ ne the
-segmentation results especially along object boundaries.

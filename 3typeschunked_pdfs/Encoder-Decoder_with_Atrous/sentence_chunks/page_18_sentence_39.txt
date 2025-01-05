@@ -1,2 +1,0 @@
-Wang, G., Luo, P., Lin, L., Wang, X.: Learning object interac tions and descriptions
-for semantic image segmentation.

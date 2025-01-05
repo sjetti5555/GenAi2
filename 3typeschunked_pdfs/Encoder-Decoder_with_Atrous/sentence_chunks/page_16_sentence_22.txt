@@ -1,2 +1,0 @@
-Mostajabi, M., Yadollahpour, P., Shakhnarovich, G.: Feed forward semantic seg-
-mentation with zoom-out features.

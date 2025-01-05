@@ -1,2 +1,0 @@
-The performance is measured in terms of pixel intersection-over- union averaged
-across the 21 classes (mIOU).

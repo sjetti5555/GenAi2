@@ -1,3 +1,0 @@
-Our paper is accompanied with a publicl y available
-referenceimplementationoftheproposedmodelsinTensorﬂowat https:
-//github.com/tensorflow/models/tree/master/research/deeplab .

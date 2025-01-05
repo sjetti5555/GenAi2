@@ -1,3 +1,0 @@
-Sep Conv 728, 3x3
-Sep Conv 1024, 3x3
-Sep Conv 1024, 3x3, stride 2Conv 1024, 1x1

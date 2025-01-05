@@ -1,2 +1,0 @@
-Noh, H., Hong, S., Han, B.: Learning deconvolution network for semantic segmen-
-tation.

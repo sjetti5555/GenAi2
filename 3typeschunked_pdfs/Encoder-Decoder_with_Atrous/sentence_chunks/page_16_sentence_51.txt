@@ -1,2 +1,0 @@
-Chen, L.C., Papandreou, G., Kokkinos, I., Murphy, K., Yuil le, A.L.: Semantic
-image segmentation with deep convolutional nets and fully co nnected crfs.

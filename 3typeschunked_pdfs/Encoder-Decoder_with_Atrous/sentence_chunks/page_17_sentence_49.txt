@@ -1,2 +1,0 @@
-Fu, J., Liu, J., Wang, Y., Lu, H.: Stacked deconvolutiona l network for semantic
-segmentation.

@@ -1,3 +1,0 @@
-Chen, L.C., Papandreou, G., Schroﬀ, F., Adam, H.: Rethinki ng atrous convolution
-for semantic image segmentation. arXiv:1706.05587 (2017)
-24.

@@ -1,3 +1,0 @@
-Additionally, DeepLabv3 augments the Atrous Spatial
-Pyramid Pooling module, which probes convolutional features at multi ple scales
-by applying atrous convolution with diﬀerent rates, with the image-le vel fea-

@@ -1,2 +1,0 @@
-In a hackathon (organized by NITI Ayog), ReadEx
-was featured which helped to generate real-time questions using natural languageprocessing and also provided content recommendations and ﬂashcard creation.

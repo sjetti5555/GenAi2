@@ -1,3 +1,0 @@
-Finally, our experimental results show t hat the pro-
-posed model sets a new state-of-the-art performance on PASCAL VOC 2012 and
-Cityscapes datasets.

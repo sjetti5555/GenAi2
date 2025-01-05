@@ -1,3 +1,0 @@
-Build-
-ing on top of this idea, we propose to use DeepLabv3 [ 23] as the encoder module
-and add a simple yet eﬀective decoder module to obtain sharper segme ntations.

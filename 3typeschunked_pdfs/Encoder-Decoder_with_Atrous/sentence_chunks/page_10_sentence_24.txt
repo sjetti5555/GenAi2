@@ -1,2 +1,0 @@
-The results of using the proposed Xception as network backbone for semant ic
-segmentation are reported in Tab.

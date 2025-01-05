@@ -1,3 +1,0 @@
-As shown in Tab. 1, reducing the channels of the
-low-level feature map from the encoder module to either 48 or 32 leads to better
-performance.

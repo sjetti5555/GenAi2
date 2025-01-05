@@ -1,5 +1,0 @@
-3.1 Encoder-Decoder with Atrous Convolution
-Atrous convolution: Atrous convolution, a powerful tool that allows us to ex-
-plicitly control the resolution of features computed by deep convolut ional neural
-networks and adjust ﬁlter’s ﬁeld-of-view in order to capture multi -scale informa-
-tion, generalizes standard convolution operation.

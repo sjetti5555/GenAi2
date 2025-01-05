@@ -1,2 +1,0 @@
-Grauman, K., Darrell, T.: The pyramid match kernel: Discriminati ve classiﬁcation
-with sets of image features.

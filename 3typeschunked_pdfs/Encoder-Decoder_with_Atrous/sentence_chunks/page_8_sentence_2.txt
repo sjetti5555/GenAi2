@@ -1,2 +1,0 @@
-When employing output stride = 16, ResNet-101 based DeepLabv3 [ 23] bi-
-linearly upsamples the logits by 16 during both training and evaluation.

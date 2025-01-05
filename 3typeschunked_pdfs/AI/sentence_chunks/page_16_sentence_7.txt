@@ -1,2 +1,0 @@
-Application of deep learning has assured the automatic landing ofmany aircrafts, accurate data collection and transmission without minimum chances
-of human error.

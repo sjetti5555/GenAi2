@@ -1,2 +1,0 @@
-He, X., Zemel, R.S., Carreira-Perpindn, M.: Multiscale cond itional random ﬁelds
-for image labeling.

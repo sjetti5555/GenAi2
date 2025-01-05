@@ -1,2 +1,0 @@
-Ioﬀe, S., Szegedy, C.: Batch normalization: Accelerating deep network training by
-reducing internal covariate shift.

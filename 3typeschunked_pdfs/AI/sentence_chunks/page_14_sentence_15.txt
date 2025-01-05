@@ -1,3 +1,0 @@
-This includes
-development of different apps including data collection apps, digital Chatbots forconsultation on primary basis, image detection, and analysis using speciﬁc algo-
-rithms.

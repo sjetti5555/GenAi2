@@ -1,3 +1,0 @@
-The performance is impro ved from
-77.21% to 78 .85% or 78 .51% to 79 .35% when using eval output stride = 16 or 8,
-respectively, at the cost of about 20B extra computation overhead.

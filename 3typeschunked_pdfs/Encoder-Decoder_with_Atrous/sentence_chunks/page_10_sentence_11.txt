@@ -1,3 +1,0 @@
-Coarser feature maps: We also experiment with the case when using
-train output stride = 32 (i.e., no atrous convolution at all during training) for
-fast computation.

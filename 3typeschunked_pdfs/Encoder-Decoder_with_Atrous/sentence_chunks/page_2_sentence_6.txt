@@ -1,2 +1,0 @@
-This could be alleviated by applying the atrous convolution to extract
-denser feature maps.

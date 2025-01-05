@@ -1,4 +1,0 @@
-a t mul-
-tiple rates and multiple eﬀective ﬁelds-of-view, while the la tter networks
-cancapturesharperobjectboundariesbygraduallyrecoveringthes patial
-information.

@@ -1,1 +1,0 @@
-The CNN is considered to be the most efﬁcient form of neural networkwhich is basically used for feature extraction of images and pattern recognition.

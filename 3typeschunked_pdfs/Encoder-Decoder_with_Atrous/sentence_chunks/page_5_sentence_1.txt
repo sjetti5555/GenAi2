@@ -1,2 +1,0 @@
-DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 5
-(a) Depthwise conv.

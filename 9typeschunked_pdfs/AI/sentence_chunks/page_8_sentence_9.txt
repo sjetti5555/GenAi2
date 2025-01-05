@@ -1,2 +1,0 @@
-Deep learningcan be denoted as the next level of machine learning where the system is similar to
-human nervous system and mimic the working of the neurons.

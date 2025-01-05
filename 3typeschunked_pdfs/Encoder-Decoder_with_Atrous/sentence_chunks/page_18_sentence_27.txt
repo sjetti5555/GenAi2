@@ -1,1 +1,0 @@
-Hinton, G., Vinyals, O., Dean, J.: Distilling the knowledg e in a neural network.

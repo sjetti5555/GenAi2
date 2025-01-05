@@ -1,2 +1,0 @@
-It provides lots of data to store, keep track of and retrieve at a
-higher speed.

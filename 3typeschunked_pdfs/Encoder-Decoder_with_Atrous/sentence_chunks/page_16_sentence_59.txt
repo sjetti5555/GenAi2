@@ -1,2 +1,0 @@
-Liu, Z., Li, X., Luo, P., Loy, C.C., Tang, X.: Semantic ima ge segmentation via
-deep parsing network.

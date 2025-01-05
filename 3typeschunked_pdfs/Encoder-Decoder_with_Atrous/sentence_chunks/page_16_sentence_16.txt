@@ -1,3 +1,0 @@
-Howard, A.G., Zhu, M., Chen, B., Kalenichenko, D., Wang, W. , Weyand, T., An-
-dreetto, M., Adam, H.: Mobilenets: Eﬃcient convolutional ne ural networks for
-mobile vision applications.

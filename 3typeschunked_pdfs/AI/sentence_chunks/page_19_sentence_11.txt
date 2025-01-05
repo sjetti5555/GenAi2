@@ -1,3 +1,0 @@
-Some of the
-basic challenges are data storage, accuracy, availability, data cleaning, data integrity,
-data sharing, and security.

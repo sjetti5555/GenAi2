@@ -1,2 +1,0 @@
-Bul` o, S.R., Porzi, L., Kontschieder, P.: In-place activa ted batchnorm for memory-
-optimized training of dnns.

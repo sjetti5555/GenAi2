@@ -1,2 +1,0 @@
-In this method, the machine analyzes the available data
-set which is also known as training data and with the help of the algorithms predict thepossible output over the given input.

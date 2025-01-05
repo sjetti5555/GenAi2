@@ -1,2 +1,0 @@
-We found that it is most eﬀective to use the Con v2 (before striding)
-feature map and two extra [3 ×3,256] operations.

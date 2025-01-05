@@ -1,4 +1,0 @@
-DeepLabv3+: Encoder-Decoder with Atrous Separable Convolution 9
-Channels 8 16 32 48 64
-mIOU 77.61% 77.92% 78.16% 78.21% 77.94%
-Table 1. PASCAL VOC 2012 valset.

@@ -1,2 +1,0 @@
-We did not tune the hyper-parameters very hard as the goal
-is to pretrain the model on ImageNet for semantic segmentation.

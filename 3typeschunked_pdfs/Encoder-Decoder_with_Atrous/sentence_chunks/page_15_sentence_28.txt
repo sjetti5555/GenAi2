@@ -1,2 +1,0 @@
-Simonyan, K., Zisserman, A.: Very deep convolutional netwo rks for large-scale
-image recognition.

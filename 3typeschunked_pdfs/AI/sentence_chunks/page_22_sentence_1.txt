@@ -1,4 +1,0 @@
-Introduction to Artiﬁcial Intelligence 43
-5 Conclusion
-Artiﬁcial intelligence and its related technology like machine learning, deep learning,
-natural language processing has invaded the world undergoing fourth phase of indus-trial revolution in a very strong manner.

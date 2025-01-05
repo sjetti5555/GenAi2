@@ -1,2 +1,0 @@
-LeCun, Y., Bottou, L., Bengio, Y., Haﬀner, P.: Gradient-bas ed learning applied to
-document recognition.

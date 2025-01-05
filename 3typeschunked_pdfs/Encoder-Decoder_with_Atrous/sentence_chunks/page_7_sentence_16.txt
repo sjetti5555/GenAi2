@@ -1,2 +1,0 @@
-Our propose d model
-is trained end-to-end without piecewise pretraining of each compone nt.

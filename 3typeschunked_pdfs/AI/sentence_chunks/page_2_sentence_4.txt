@@ -1,3 +1,0 @@
-With the help of machine learning process, structured data
-like genetic data, electrophysical data, and imaging data are properly investigated
-in medical diagnosis.

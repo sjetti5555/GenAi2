@@ -1,3 +1,0 @@
-In this c ase, the
-decoder feature map are gradually upsampled by 2, concatenated with Conv3
-ﬁrst and then Conv2, and each will be reﬁned by the [3 ×3,256] operation.

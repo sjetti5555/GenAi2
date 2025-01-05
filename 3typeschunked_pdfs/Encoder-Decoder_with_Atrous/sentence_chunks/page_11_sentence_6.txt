@@ -1,3 +1,0 @@
-Using depthwise separable convolution: Motivated by the eﬃcient com-
-putation of depthwise separable convolution, we further adopt it in the ASPP
-and the decoder modules.

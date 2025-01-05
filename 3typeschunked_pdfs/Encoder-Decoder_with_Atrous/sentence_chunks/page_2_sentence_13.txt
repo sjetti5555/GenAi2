@@ -1,3 +1,0 @@
-In particular, our proposed model, called DeepLabv3+, extends DeepLabv 3
-[23] by adding a simple yet eﬀective decoder module to recover the object bound-
-aries, as illustrated in Fig.

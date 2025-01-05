@@ -1,2 +1,0 @@
-Microsoft developed aCorona online tracker to track the status of the virus and its possible predictions
-based on the present data.

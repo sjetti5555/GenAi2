@@ -1,3 +1,0 @@
-One could
-also apply the atrous convolution to extract the encoder features at an arb itrary
-resolution, depending on the available computation resources.

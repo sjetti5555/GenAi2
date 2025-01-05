@@ -1,2 +1,0 @@
-4.1 Database Management
-In healthcare system, the application of AI, ML, DL, cloud computing, and IoMThas created excellent technologies for the development and services to the healthcaresystem.

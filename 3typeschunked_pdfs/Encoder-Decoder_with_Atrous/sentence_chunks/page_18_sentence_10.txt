@@ -1,3 +1,0 @@
-Russakovsky, O., Deng, J., Su, H., Krause, J., Satheesh, S. , Ma, S., Huang, Z.,
-Karpathy, A., Khosla, A., Bernstein, M., Berg, A.C., Fei-Fei, L. : ImageNet Large
-Scale Visual Recognition Challenge.

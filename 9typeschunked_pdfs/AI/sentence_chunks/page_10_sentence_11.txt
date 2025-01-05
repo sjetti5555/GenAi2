@@ -1,3 +1,0 @@
-The feature extractor contains the
-convolutional and pooling layers whose purpose is to extract the minute features
-from the image in terms of pixel data.

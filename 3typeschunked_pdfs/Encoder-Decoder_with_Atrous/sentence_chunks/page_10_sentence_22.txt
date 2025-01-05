@@ -1,2 +1,0 @@
-4along with the baseline
-reproduced ResNet-101 [ 25] under the same training protocol.

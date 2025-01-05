@@ -1,2 +1,0 @@
-The performance is marginally improved when using output stride = 8 for the
-encoder module at the cost of extra computation complexity.

@@ -1,3 +1,0 @@
-We also discover that on the Cityscapes dataset, it is eﬀ ec-
-tive to increase more layers in the entry ﬂow in the Xception [ 26], the same as
-what

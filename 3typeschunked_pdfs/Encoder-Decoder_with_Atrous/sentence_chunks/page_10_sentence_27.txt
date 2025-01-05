@@ -1,2 +1,0 @@
-We ﬁrst report the results without using the proposed decoder in
-the ﬁrst row block in Tab. 5, which shows that employing Xception as network

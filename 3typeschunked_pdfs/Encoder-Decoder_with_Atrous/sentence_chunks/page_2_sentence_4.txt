@@ -1,2 +1,0 @@
-Spatial Pyramid Pooling, or ASPP), while PSPNet [ 24] performs pooling opera-
-tionsatdiﬀerentgridscales.

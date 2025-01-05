@@ -1,2 +1,0 @@
-The schematic diagram (Fig. 4) describes
-how the image recognized by the network [ 13,14].

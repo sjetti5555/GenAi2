@@ -1,3 +1,0 @@
-Encoder-decoder: The encoder-decoder networks have been successfully
-appliedtomanycomputervisiontasks,includinghumanposeestimati on[53],ob-
-jectdetection[ 54,55,56],andsemanticsegmentation[ 11,57,21,22,58,59,60,61,62,63,64].

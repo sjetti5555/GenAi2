@@ -1,4 +1,0 @@
-Depthwise separable convolution: Depthwiseseparableconvolution[ 27,28]
-or group convolution [ 7,65], a powerful operation to reduce the computation cost
-and number of parameters while maintaining similar (or slightly bette r) perfor-
-mance.

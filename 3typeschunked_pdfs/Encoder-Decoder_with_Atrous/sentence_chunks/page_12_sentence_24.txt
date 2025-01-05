@@ -1,5 +1,0 @@
-4.5 Experimental Results on Cityscapes
-In this section, we experiment DeepLabv3+ on the Cityscapes dataset [ 3], a
-large-scale dataset containing high quality pixel-level annotations of 5000 i mages
-(2975, 500, and 1525 for the training, validation, and test sets respectively) and
-about 20000 coarsely annotated images.

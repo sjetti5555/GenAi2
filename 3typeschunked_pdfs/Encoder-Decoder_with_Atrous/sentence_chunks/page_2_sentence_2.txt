@@ -1,3 +1,0 @@
-The proposed model, Deep Labv3+, contains
-rich semantic information from the encoder module, while the deta iled object bound-
-aries are recovered by the simple yet eﬀective decoder module.

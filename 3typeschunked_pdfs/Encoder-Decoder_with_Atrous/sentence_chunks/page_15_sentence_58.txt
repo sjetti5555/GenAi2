@@ -1,2 +1,0 @@
-Ronneberger, O., Fischer, P., Brox, T.: U-net: Convolutiona l networks for biomed-
-ical image segmentation.

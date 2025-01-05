@@ -1,4 +1,0 @@
-extract feature maps at an arbitrary resolution (another option is to
-extend the atrous algorithm to max pooling operations), and (3) extra batch
-normalization [ 75] and ReLU activation are added after each 3 ×3 depthwise
-convolution, similar to MobileNet design [ 29].

@@ -1,2 +1,0 @@
-As shown in the third row block in Tab. 3, adding the decoder
-brings about 2% improvement while only 74.20B Multiply-Adds are require d.

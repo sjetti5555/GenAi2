@@ -1,7 +1,0 @@
-Encoder-Decoder with Atrous Separable
-Convolution for Semantic Image Segmentation
-Liang-Chieh Chen, Yukun Zhu, George Papandreou, Florian Schroﬀ, and
-Hartwig Adam
-Google Inc.
-{lcchen, yukun, gpapan, fschroff, hadam }@google.com
-Abstract.

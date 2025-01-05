@@ -1,3 +1,0 @@
-There are many areas which contribute to artiﬁcial intelligence which includes
-mathematics (used for developing algorithms), biology, philosophy, psychology,neuroscience (for studying human mind and its behavior), statistics (for handlinghuge data), and last but not the least, computer science (to run the algorithm for
-implementing the concepts).

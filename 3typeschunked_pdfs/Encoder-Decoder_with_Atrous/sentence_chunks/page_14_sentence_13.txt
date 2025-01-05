@@ -1,2 +1,0 @@
-7(b),ourproposedDeepLabv3+attainsaperformance
-of 82.1% on the test set, setting a new state-of-art performance on Citysc apes.

@@ -1,2 +1,0 @@
-Notethatwealsoincludebat ch
-normalization parameters in the proposed decoder module.

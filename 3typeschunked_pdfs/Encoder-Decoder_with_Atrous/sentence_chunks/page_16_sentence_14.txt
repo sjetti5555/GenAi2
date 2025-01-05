@@ -1,1 +1,0 @@
-Vanhoucke, V.: Learning visual representations at scale.

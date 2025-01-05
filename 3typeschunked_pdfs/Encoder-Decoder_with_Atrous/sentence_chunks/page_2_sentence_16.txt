@@ -1,1 +1,0 @@
-Furthermore, the decoder module allows detailed object boundary r ecovery.

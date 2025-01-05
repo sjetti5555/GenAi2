@@ -1,3 +1,0 @@
-The machine learning algorithm is widely being used in multiple ﬁelds such as
-medical diagnosis, image processing, web search engines, photo tagging applica-tions, ﬁnance and marketing sector, fraud detection, weather forecasting, and many
-more.

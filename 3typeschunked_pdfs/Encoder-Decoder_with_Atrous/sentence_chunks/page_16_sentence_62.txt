@@ -1,2 +1,0 @@
-Papandreou, G., Chen, L.C., Murphy, K., Yuille, A.L.: Weak ly- and semi-
-supervised learning of a dcnn for semantic image segmentation.

@@ -1,2 +1,0 @@
-The basic things on which any AI developer put focus are the data generation,
-data management, and disease detection and management.

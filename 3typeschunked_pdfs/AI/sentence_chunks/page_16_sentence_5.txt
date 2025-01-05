@@ -1,2 +1,0 @@
-The satellites sending theimages from space are decoded and extraction of useful information from the images
-is done with the help of machine and deep learning.

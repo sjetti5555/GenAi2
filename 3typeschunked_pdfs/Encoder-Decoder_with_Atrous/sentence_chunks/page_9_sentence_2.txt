@@ -1,2 +1,0 @@
-Eﬀect of decoder 1 ×1 convolution used to
-reduce the channels of low-level feature map from the encoder mod ule.

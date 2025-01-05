@@ -1,2 +1,0 @@
-Qualitative eﬀect of employing the proposed decod er module compared with
-the naive bilinear upsampling (denoted as BU).

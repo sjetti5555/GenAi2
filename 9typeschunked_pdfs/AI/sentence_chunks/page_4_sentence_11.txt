@@ -1,2 +1,0 @@
-Reactive machines : these are the machines which works on the data available in the
-form of predeﬁned dataset.

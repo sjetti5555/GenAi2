@@ -1,2 +1,0 @@
-Chen, L.C., Yang, Y., Wang, J., Xu, W., Yuille, A.L.: Atte ntion to scale: Scale-
-aware semantic image segmentation.

@@ -1,2 +1,0 @@
-In a case study, it explains how the
-nurse robot Molly which helps the physician in organizing the patients’ symptomsand follow up the treatment process.

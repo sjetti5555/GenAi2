@@ -1,4 +1,0 @@
-5 Conclusion
-Ourproposedmodel“DeepLabv3+”employstheencoder-decoderstru cturewhere
-DeepLabv3 is used to encode the rich contextual information and a simp le yet
-eﬀective decoder module is adopted to recover the object boundari es.

@@ -1,3 +1,0 @@
-Basically, AI deals with large amount of data to obtain the
-required results, and accordingly the algorithms are designed to reduce the chances
-of error and provide accurate results.

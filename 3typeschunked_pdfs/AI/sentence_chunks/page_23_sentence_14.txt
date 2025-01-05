@@ -1,1 +1,0 @@
-Tian, C., Xu, Y ., Zuo, W.: Image denoising using deep CNN with batch renormalization.

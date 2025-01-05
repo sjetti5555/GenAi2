@@ -1,2 +1,0 @@
-Wider or deeper: Revis iting the resnet model
-for visual recognition.

@@ -1,3 +1,0 @@
-–WeadapttheXceptionmodelforthesegmentationtaskandapplydepthwise
-separable convolution to both ASPP module and decoder module, result ing
-in a faster and stronger encoder-decoder network.

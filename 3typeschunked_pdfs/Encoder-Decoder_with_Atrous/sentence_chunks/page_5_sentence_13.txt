@@ -1,4 +1,0 @@
-In this work, we refer the resulting convolution as atrous
-separable convolution , and found that atrous separable convolution signiﬁcantly
-reduces the computation complexity of proposed model while maintaini ng simi-
-lar (or better) performance.

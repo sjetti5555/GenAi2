@@ -1,1 +1,0 @@
-Chollet, F.: Xception: Deep learning with depthwise separa ble convolutions.

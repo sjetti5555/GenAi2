@@ -1,1 +1,0 @@
-Some of the typical examples are pattern recognition offace and image recognition in medical diagnosis.

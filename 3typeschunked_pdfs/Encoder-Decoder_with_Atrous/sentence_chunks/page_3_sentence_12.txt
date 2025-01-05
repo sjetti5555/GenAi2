@@ -1,2 +1,0 @@
-In this work, we mainly discuss about the
-models that use spatial pyramid pooling and encoder-decoder struc ture.

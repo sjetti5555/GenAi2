@@ -1,2 +1,0 @@
-3 Schematic diagram of asimple and bdeep learning neural network
-II.

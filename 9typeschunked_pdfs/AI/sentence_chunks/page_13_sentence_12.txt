@@ -1,2 +1,0 @@
-It basically
-uses the concept of deep learning.

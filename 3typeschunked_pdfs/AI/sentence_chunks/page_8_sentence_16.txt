@@ -1,2 +1,0 @@
-It helps in enhanced feature
-extraction, pattern recognition of complex dataset and high-level data extraction.

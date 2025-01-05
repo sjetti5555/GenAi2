@@ -1,2 +1,0 @@
-In the work of [ 23], the features are bilinearly
-upsampled by a factor of 16, which could be considered a naive decoder mo dule.

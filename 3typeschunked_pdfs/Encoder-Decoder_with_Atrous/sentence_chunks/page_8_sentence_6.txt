@@ -1,5 +1,0 @@
-In the decoder module, we consider three places for diﬀerent de -
-sign choices, namely (1) the 1 ×1 convolution used to reduce the channels of the
-low-level feature map from the encoder module, (2) the 3 ×3 convolution used
-to obtain sharper segmentation results, and (3) what encoder low-leve l features
-should be used.

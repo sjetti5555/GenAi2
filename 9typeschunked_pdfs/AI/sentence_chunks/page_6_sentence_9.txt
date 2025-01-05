@@ -1,2 +1,0 @@
-The machine learning deals with the
-development of algorithms that enables the computer to learn from its data and pastexperiences on their own [ 4].

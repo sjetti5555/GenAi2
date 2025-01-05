@@ -1,8 +1,0 @@
-EncoderDecoder MS Flip mIOU Multiply-Addstrain OS eval OS
-16 16 77.21% 81.02B
-16 8 78.51% 276.18B
-16 8 /check79.45% 2435.37B
-16 8 /check /check79.77% 4870.59B
-16 16 /check 78.85% 101.28B
-16 16 /check /check 80.09% 898.69B
-16 16 /check /check /check

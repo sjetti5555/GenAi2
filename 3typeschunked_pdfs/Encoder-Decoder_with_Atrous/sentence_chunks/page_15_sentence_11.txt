@@ -1,2 +1,0 @@
-Zhou, B., Zhao, H., Puig, X., Fidler, S., Barriuso, A., Torralba , A.: Scene parsing
-through ade20k dataset.

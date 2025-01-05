@@ -1,3 +1,0 @@
-As per the data from a case study a project named as the project DeepDream which
-was developed by Google in 2015 helped to create images of given input and also
-imagine all possible features that the image should have.

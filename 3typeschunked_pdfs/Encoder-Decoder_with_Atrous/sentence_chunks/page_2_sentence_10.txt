@@ -1,2 +1,0 @@
-Thus, it is computationally i ntensive if
-denser output features are extracted for this type of models.

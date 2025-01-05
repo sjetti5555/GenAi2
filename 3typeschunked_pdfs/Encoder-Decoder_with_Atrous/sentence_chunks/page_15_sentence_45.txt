@@ -1,2 +1,0 @@
-Gould, S., Fulton, R., Koller, D.: Decomposing a scene into g eometric and seman-
-tically consistent regions.

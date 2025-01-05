@@ -1,2 +1,0 @@
-4that using output stride = 16
-for the encoder module strikes the best trade-oﬀ between speed an d accuracy.

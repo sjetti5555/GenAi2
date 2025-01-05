@@ -1,2 +1,0 @@
-Yao, J., Fidler, S., Urtasun, R.: Describing the scene as a who le: Joint object
-detection, scene classiﬁcation and semantic segmentation .

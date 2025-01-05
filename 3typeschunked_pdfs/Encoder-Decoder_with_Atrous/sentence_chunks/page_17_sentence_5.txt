@@ -1,2 +1,0 @@
-Learning sparse high d imensional ﬁlters:
-Image ﬁltering, dense crfs and bilateral neural networks.

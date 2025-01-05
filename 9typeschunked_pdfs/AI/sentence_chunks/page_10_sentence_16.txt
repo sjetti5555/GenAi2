@@ -1,2 +1,0 @@
-This role is played by the fully connective layer whose motive
-is to connect each node of a layer with other nodes.

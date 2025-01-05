@@ -1,3 +1,0 @@
-There are many exam-ples of medical imaging being improved by the implementation of deep learningalgorithms be it in detecting the correct disease at the right time or throughout the
-diagnosis process like eye diseases such as diabetic retinopathy, diabetes detection,
-risk prediction and control, and also the heart disease monitoring systems [ 21,22].

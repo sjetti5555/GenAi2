@@ -1,2 +1,0 @@
-In ML, the system is provided with given input data sets and subjected to
-self-learning from the past experiences and give predictions as output.

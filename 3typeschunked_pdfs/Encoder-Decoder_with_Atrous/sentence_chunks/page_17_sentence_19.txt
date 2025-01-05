@@ -1,2 +1,0 @@
-Newell, A., Yang, K., Deng, J.: Stacked hourglass networks fo r human pose esti-
-mation.

@@ -1,4 +1,0 @@
-Thus, in th e end, we
-adopt the very simple yet eﬀective decoder module: the concatenat ion of the
-DeepLabv3 feature map and the channel-reduced Conv2 feature map are reﬁ ned
-by two [3 ×3,256] operations.
