@@ -80,9 +80,11 @@ This project monitors a folder for new or modified files, extracts text, chunks 
 
 ### 📁 **C. Test Files**
 **Description**: Sample files for testing chunking scripts:  
-- 📄 `andhra.docx`: Example Word document.  
-- 📄 `andhra.pdf`: Example PDF document.  
-- 📄 `andhra.txt`: Example text file.  
+- 📄 `Andhra_Pradesh_IEEE_Formatted (1).docx`      : Example Word document. 
+- 📄 `Data Science for Industrial Policy.pptx`     : Example pptx file.  
+- 📄 `Data-Driven Insights for Industry Growth.pdf`: Example PDF document. 
+- 📄 `math module.xlsx`                            : Example xlsx file.   
+- 📄 `Number of approaches to Re-use Module.txt`   : Example text file.  
 
 ---
 
