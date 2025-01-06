@@ -1,6 +1,6 @@
 import chromadb
 
-def inspect_chroma(db_path="Chroma_db"):
+def inspect_chroma(db_path="Open_db"):
     client = chromadb.PersistentClient(path=db_path)
 
     print("Listing all stored collections and their data:")
@@ -30,4 +30,4 @@ def inspect_chroma(db_path="Chroma_db"):
                 print("=" * 50)
 
 if __name__ == "__main__":
-    inspect_chroma("C:/Users/srira/Desktop/GenAi2/Chroma_db")
+    inspect_chroma("C:/Users/srira/Desktop/GenAi2/Open_db")

@@ -1,0 +1,826 @@
+2025-01-05 18:41:22,425 - INFO - Monitoring folder: C:/Users/srira/Desktop/GenAi2/chunking
+2025-01-05 18:41:29,829 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.pdf
+2025-01-05 18:41:29,858 - INFO - Extracted text from andhra.pdf.
+2025-01-05 18:41:29,858 - INFO - Chunked text into 17 chunks.
+2025-01-05 18:41:29,864 - INFO - Error generating embedding for chunk: Introduction 
+Andhra Pradesh, located in the south - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,866 - INFO - Error generating embedding for chunk: ignificant state in 
+terms of agriculture, culture - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,867 - INFO - Error generating embedding for chunk: nderwent a 
+transformative period under the vision - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,870 - INFO - Error generating embedding for chunk: his time, 
+Andhra Pradesh became a pioneer in adop - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,871 - INFO - Error generating embedding for chunk: ed at 
+holistic development. This report delves in - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,871 - INFO - Error generating embedding for chunk:  this period. 
+Key highlights include economic lib - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,871 - INFO - Error generating embedding for chunk: ing rural 
+communities, and fostering sustainable  - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,871 - INFO - Error generating embedding for chunk: tudy aims to 
+shed light on the replicable strateg - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,871 - INFO - Error generating embedding for chunk: Economic Reforms 
+Nara Chandrababu Naidu focused o - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,878 - INFO - Error generating embedding for chunk: n attractive 
+destination for global investors. Ke - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,880 - INFO - Error generating embedding for chunk: e System**: 
+Simplified bureaucratic processes to  - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,881 - INFO - Error generating embedding for chunk: te Partnerships 
+(PPP)**: Enabled the development  - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,882 - INFO - Error generating embedding for chunk:  ports, and power 
+plants. - **Tax Incentives and  - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,883 - INFO - Error generating embedding for chunk: making Andhra 
+Pradesh a hub for innovation and bu - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,884 - INFO - Error generating embedding for chunk: Microsoft to 
+set up its first development center  - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,887 - INFO - Error generating embedding for chunk: nvestor 
+confidence and created a ripple effect, l - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,889 - INFO - Error generating embedding for chunk: es.  - 
+
+You tried to access openai.Embedding, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-01-05 18:41:29,889 - INFO - Generated embeddings for 0 chunks.
+2025-01-05 18:41:29,917 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-05 18:41:30,217 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.pdf successfully stored in ChromaDB as andhra.
+2025-01-05 18:41:52,436 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 18:42:07,438 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 18:42:22,440 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 18:42:37,440 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 18:44:29,720 - INFO - Monitoring folder: C:/Users/srira/Desktop/GenAi2/chunking
+2025-01-05 18:44:35,197 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.docx
+2025-01-05 18:44:35,219 - INFO - Extracted text from andhra.docx.
+2025-01-05 18:44:35,227 - INFO - Chunked text into 16 chunks.
+2025-01-05 18:44:41,435 - INFO - Generated embeddings for 16 chunks.
+2025-01-05 18:44:41,451 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-05 18:44:41,947 - INFO - Duplicate chunk 0, not added: 
+Introduction
+Andhra Pradesh, located in the south...
+2025-01-05 18:44:41,962 - INFO - Duplicate chunk 1, not added: ignificant state in terms of agriculture, culture,...
+2025-01-05 18:44:42,012 - INFO - Duplicate chunk 2, not added: derwent a transformative period under the visionar...
+2025-01-05 18:44:42,040 - INFO - Duplicate chunk 3, not added: s time, Andhra Pradesh became a pioneer in adoptin...
+2025-01-05 18:44:42,106 - INFO - Duplicate chunk 4, not added: at holistic development. This report delves into t...
+2025-01-05 18:44:42,177 - INFO - Duplicate chunk 5, not added: s period. Key highlights include economic liberali...
+2025-01-05 18:44:42,222 - INFO - Duplicate chunk 6, not added: ural communities, and fostering sustainable practi...
+2025-01-05 18:44:42,273 - INFO - Duplicate chunk 7, not added: ims to shed light on the replicable strategies tha...
+2025-01-05 18:44:42,304 - INFO - Duplicate chunk 8, not added: Economic Reforms
+Nara Chandrababu Naidu focused on...
+2025-01-05 18:44:42,332 - INFO - Duplicate chunk 9, not added:  attractive destination for global investors. Key ...
+2025-01-05 18:44:42,361 - INFO - Duplicate chunk 10, not added: System**: Simplified bureaucratic processes to enc...
+2025-01-05 18:44:42,396 - INFO - Duplicate chunk 11, not added: Partnerships (PPP)**: Enabled the development of m...
+2025-01-05 18:44:42,443 - INFO - Duplicate chunk 12, not added: ts, and power plants. - **Tax Incentives and Subsi...
+2025-01-05 18:44:42,478 - INFO - Duplicate chunk 13, not added: g Andhra Pradesh a hub for innovation and business...
+2025-01-05 18:44:42,512 - INFO - Duplicate chunk 14, not added: oft to set up its first development center outside...
+2025-01-05 18:44:42,548 - INFO - Duplicate chunk 15, not added:  confidence and created a ripple effect, leading t...
+2025-01-05 18:44:42,549 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.docx successfully stored in ChromaDB as andhra.
+2025-01-05 18:44:50,181 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt
+2025-01-05 18:44:50,183 - INFO - Extracted text from andhra.txt.
+2025-01-05 18:44:50,183 - INFO - Chunked text into 18 chunks.
+2025-01-05 18:44:55,873 - INFO - Generated embeddings for 18 chunks.
+2025-01-05 18:44:55,911 - INFO - Duplicate chunk 0, not added:  Introduction...
+2025-01-05 18:44:55,943 - INFO - Duplicate chunk 1, not added:  Andhra Pradesh, located in the southeastern regio...
+2025-01-05 18:44:55,968 - INFO - Duplicate chunk 2, not added: ate in
+ terms of agriculture, culture, and commerc...
+2025-01-05 18:44:55,997 - INFO - Duplicate chunk 3, not added: ransformative period under the visionary leadershi...
+2025-01-05 18:44:56,017 - INFO - Duplicate chunk 4, not added: dhra Pradesh became a pioneer in adopting technolo...
+2025-01-05 18:44:56,054 - INFO - Duplicate chunk 5, not added: ic development. This report delves into the initia...
+2025-01-05 18:44:56,081 - INFO - Duplicate chunk 6, not added: 
+ Key highlights include economic liberalization, ...
+2025-01-05 18:44:56,104 - INFO - Duplicate chunk 7, not added: mmunities, and fostering sustainable practices. By...
+2025-01-05 18:44:56,131 - INFO - Duplicate chunk 8, not added:  shed light on the replicable strategies that can ...
+2025-01-05 18:44:56,165 - INFO - Duplicate chunk 9, not added:  Economic Reforms...
+2025-01-05 18:44:56,193 - INFO - Duplicate chunk 10, not added:  Nara Chandrababu Naidu focused on economic reform...
+2025-01-05 18:44:56,221 - INFO - Duplicate chunk 11, not added: tination for global investors. Key initiatives inc...
+2025-01-05 18:44:56,244 - INFO - Duplicate chunk 12, not added: lified bureaucratic processes to encourage industr...
+2025-01-05 18:44:56,279 - INFO - Duplicate chunk 13, not added: (PPP)**: Enabled the development of major infrastr...
+2025-01-05 18:44:56,300 - INFO - Duplicate chunk 14, not added: 
+ plants. - **Tax Incentives and Subsidies**: Thes...
+2025-01-05 18:44:56,332 - INFO - Duplicate chunk 15, not added: adesh a hub for innovation and business. One remar...
+2025-01-05 18:44:56,366 - INFO - Duplicate chunk 16, not added:  up its first development center outside the US in...
+2025-01-05 18:44:56,399 - INFO - Duplicate chunk 17, not added: ce and created a ripple effect, leading to the est...
+2025-01-05 18:44:56,400 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt successfully stored in ChromaDB as andhra.
+2025-01-05 18:45:14,732 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 18:45:19,411 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.pdf
+2025-01-05 18:45:19,441 - INFO - Extracted text from andhra.pdf.
+2025-01-05 18:45:19,441 - INFO - Chunked text into 17 chunks.
+2025-01-05 18:45:24,304 - INFO - Generated embeddings for 17 chunks.
+2025-01-05 18:45:24,336 - INFO - Duplicate chunk 0, not added: Introduction 
+Andhra Pradesh, located in the south...
+2025-01-05 18:45:24,387 - INFO - Duplicate chunk 1, not added: ignificant state in 
+terms of agriculture, culture...
+2025-01-05 18:45:24,421 - INFO - Duplicate chunk 2, not added: nderwent a 
+transformative period under the vision...
+2025-01-05 18:45:24,447 - INFO - Duplicate chunk 3, not added: his time, 
+Andhra Pradesh became a pioneer in adop...
+2025-01-05 18:45:24,475 - INFO - Duplicate chunk 4, not added: ed at 
+holistic development. This report delves in...
+2025-01-05 18:45:24,506 - INFO - Duplicate chunk 5, not added:  this period. 
+Key highlights include economic lib...
+2025-01-05 18:45:24,531 - INFO - Duplicate chunk 6, not added: ing rural 
+communities, and fostering sustainable ...
+2025-01-05 18:45:24,565 - INFO - Duplicate chunk 7, not added: tudy aims to 
+shed light on the replicable strateg...
+2025-01-05 18:45:24,596 - INFO - Duplicate chunk 8, not added: Economic Reforms 
+Nara Chandrababu Naidu focused o...
+2025-01-05 18:45:24,625 - INFO - Duplicate chunk 9, not added: n attractive 
+destination for global investors. Ke...
+2025-01-05 18:45:24,644 - INFO - Duplicate chunk 10, not added: e System**: 
+Simplified bureaucratic processes to ...
+2025-01-05 18:45:24,676 - INFO - Duplicate chunk 11, not added: te Partnerships 
+(PPP)**: Enabled the development ...
+2025-01-05 18:45:24,712 - INFO - Duplicate chunk 12, not added:  ports, and power 
+plants. - **Tax Incentives and ...
+2025-01-05 18:45:24,741 - INFO - Duplicate chunk 13, not added: making Andhra 
+Pradesh a hub for innovation and bu...
+2025-01-05 18:45:24,760 - INFO - Duplicate chunk 14, not added: Microsoft to 
+set up its first development center ...
+2025-01-05 18:45:24,792 - INFO - Duplicate chunk 15, not added: nvestor 
+confidence and created a ripple effect, l...
+2025-01-05 18:45:24,821 - INFO - Duplicate chunk 16, not added: es. ...
+2025-01-05 18:45:24,821 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.pdf successfully stored in ChromaDB as andhra.
+2025-01-05 18:53:35,800 - INFO - Monitoring folder: C:/Users/srira/Desktop/GenAi2/chunking
+2025-01-05 18:53:45,879 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.docx
+2025-01-05 18:53:45,898 - INFO - Extracted text from andhra.docx.
+2025-01-05 18:53:45,899 - INFO - Chunked text into 16 chunks.
+2025-01-05 18:53:50,678 - INFO - Generated embeddings for 16 chunks.
+2025-01-05 18:53:50,722 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-05 18:53:50,970 - INFO - Added chunk 0 to collection andhra: 
+Introduction
+Andhra Pradesh, located in the south...
+2025-01-05 18:53:50,970 - INFO - Added chunk 1 to collection andhra: ignificant state in terms of agriculture, culture,...
+2025-01-05 18:53:50,982 - INFO - Added chunk 2 to collection andhra: derwent a transformative period under the visionar...
+2025-01-05 18:53:50,990 - INFO - Added chunk 3 to collection andhra: s time, Andhra Pradesh became a pioneer in adoptin...
+2025-01-05 18:53:50,997 - INFO - Added chunk 4 to collection andhra: at holistic development. This report delves into t...
+2025-01-05 18:53:51,003 - INFO - Added chunk 5 to collection andhra: s period. Key highlights include economic liberali...
+2025-01-05 18:53:51,011 - INFO - Added chunk 6 to collection andhra: ural communities, and fostering sustainable practi...
+2025-01-05 18:53:51,017 - INFO - Added chunk 7 to collection andhra: ims to shed light on the replicable strategies tha...
+2025-01-05 18:53:51,024 - INFO - Added chunk 8 to collection andhra: Economic Reforms
+Nara Chandrababu Naidu focused on...
+2025-01-05 18:53:51,032 - INFO - Added chunk 9 to collection andhra:  attractive destination for global investors. Key ...
+2025-01-05 18:53:51,041 - INFO - Added chunk 10 to collection andhra: System**: Simplified bureaucratic processes to enc...
+2025-01-05 18:53:51,047 - INFO - Added chunk 11 to collection andhra: Partnerships (PPP)**: Enabled the development of m...
+2025-01-05 18:53:51,055 - INFO - Added chunk 12 to collection andhra: ts, and power plants. - **Tax Incentives and Subsi...
+2025-01-05 18:53:51,061 - INFO - Added chunk 13 to collection andhra: g Andhra Pradesh a hub for innovation and business...
+2025-01-05 18:53:51,067 - INFO - Added chunk 14 to collection andhra: oft to set up its first development center outside...
+2025-01-05 18:53:51,073 - INFO - Added chunk 15 to collection andhra:  confidence and created a ripple effect, leading t...
+2025-01-05 18:53:51,073 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.docx successfully stored in ChromaDB as andhra.
+2025-01-05 18:53:58,468 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.pdf
+2025-01-05 18:53:58,493 - INFO - Extracted text from andhra.pdf.
+2025-01-05 18:53:58,493 - INFO - Chunked text into 17 chunks.
+2025-01-05 18:54:03,072 - INFO - Generated embeddings for 17 chunks.
+2025-01-05 18:54:03,081 - WARNING - Insert of existing embedding ID: andhra_chunk_0
+2025-01-05 18:54:03,081 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 18:54:03,085 - INFO - Added chunk 0 to collection andhra: Introduction 
+Andhra Pradesh, located in the south...
+2025-01-05 18:54:03,089 - WARNING - Insert of existing embedding ID: andhra_chunk_1
+2025-01-05 18:54:03,090 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 18:54:03,097 - INFO - Added chunk 1 to collection andhra: ignificant state in 
+terms of agriculture, culture...
+2025-01-05 18:54:03,099 - WARNING - Insert of existing embedding ID: andhra_chunk_2
+2025-01-05 18:54:03,099 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 18:54:03,103 - INFO - Added chunk 2 to collection andhra: nderwent a 
+transformative period under the vision...
+2025-01-05 18:54:03,106 - WARNING - Insert of existing embedding ID: andhra_chunk_3
+2025-01-05 18:54:03,106 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 18:54:03,110 - INFO - Added chunk 3 to collection andhra: his time, 
+Andhra Pradesh became a pioneer in adop...
+2025-01-05 18:54:03,115 - WARNING - Insert of existing embedding ID: andhra_chunk_4
+2025-01-05 18:54:03,115 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 18:54:03,120 - INFO - Added chunk 4 to collection andhra: ed at 
+holistic development. This report delves in...
+2025-01-05 18:54:03,122 - WARNING - Insert of existing embedding ID: andhra_chunk_5
+2025-01-05 18:54:03,123 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 18:54:03,125 - INFO - Added chunk 5 to collection andhra:  this period. 
+Key highlights include economic lib...
+2025-01-05 18:54:03,128 - WARNING - Insert of existing embedding ID: andhra_chunk_6
+2025-01-05 18:54:03,129 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 18:54:03,132 - INFO - Added chunk 6 to collection andhra: ing rural 
+communities, and fostering sustainable ...
+2025-01-05 18:54:03,135 - WARNING - Insert of existing embedding ID: andhra_chunk_7
+2025-01-05 18:54:03,136 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 18:54:03,139 - INFO - Added chunk 7 to collection andhra: tudy aims to 
+shed light on the replicable strateg...
+2025-01-05 18:54:03,141 - WARNING - Insert of existing embedding ID: andhra_chunk_8
+2025-01-05 18:54:03,141 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 18:54:03,146 - INFO - Added chunk 8 to collection andhra: Economic Reforms 
+Nara Chandrababu Naidu focused o...
+2025-01-05 18:54:03,149 - WARNING - Insert of existing embedding ID: andhra_chunk_9
+2025-01-05 18:54:03,149 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 18:54:03,152 - INFO - Added chunk 9 to collection andhra: n attractive 
+destination for global investors. Ke...
+2025-01-05 18:54:03,154 - WARNING - Insert of existing embedding ID: andhra_chunk_10
+2025-01-05 18:54:03,154 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 18:54:03,154 - INFO - Added chunk 10 to collection andhra: e System**: 
+Simplified bureaucratic processes to ...
+2025-01-05 18:54:03,161 - WARNING - Insert of existing embedding ID: andhra_chunk_11
+2025-01-05 18:54:03,161 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 18:54:03,164 - INFO - Added chunk 11 to collection andhra: te Partnerships 
+(PPP)**: Enabled the development ...
+2025-01-05 18:54:03,167 - WARNING - Insert of existing embedding ID: andhra_chunk_12
+2025-01-05 18:54:03,168 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 18:54:03,170 - INFO - Added chunk 12 to collection andhra:  ports, and power 
+plants. - **Tax Incentives and ...
+2025-01-05 18:54:03,174 - WARNING - Insert of existing embedding ID: andhra_chunk_13
+2025-01-05 18:54:03,174 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 18:54:03,177 - INFO - Added chunk 13 to collection andhra: making Andhra 
+Pradesh a hub for innovation and bu...
+2025-01-05 18:54:03,181 - WARNING - Insert of existing embedding ID: andhra_chunk_14
+2025-01-05 18:54:03,181 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 18:54:03,185 - INFO - Added chunk 14 to collection andhra: Microsoft to 
+set up its first development center ...
+2025-01-05 18:54:03,188 - WARNING - Insert of existing embedding ID: andhra_chunk_15
+2025-01-05 18:54:03,188 - WARNING - Add of existing embedding ID: andhra_chunk_15
+2025-01-05 18:54:03,191 - INFO - Added chunk 15 to collection andhra: nvestor 
+confidence and created a ripple effect, l...
+2025-01-05 18:54:03,200 - INFO - Added chunk 16 to collection andhra: es. ...
+2025-01-05 18:54:03,200 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.pdf successfully stored in ChromaDB as andhra.
+2025-01-05 18:54:12,409 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt
+2025-01-05 18:54:12,415 - INFO - Extracted text from andhra.txt.
+2025-01-05 18:54:12,415 - INFO - Chunked text into 18 chunks.
+2025-01-05 18:54:17,405 - INFO - Generated embeddings for 18 chunks.
+2025-01-05 18:54:17,412 - WARNING - Insert of existing embedding ID: andhra_chunk_0
+2025-01-05 18:54:17,412 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 18:54:17,416 - INFO - Added chunk 0 to collection andhra:  Introduction...
+2025-01-05 18:54:17,418 - WARNING - Insert of existing embedding ID: andhra_chunk_1
+2025-01-05 18:54:17,418 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 18:54:17,418 - INFO - Added chunk 1 to collection andhra:  Andhra Pradesh, located in the southeastern regio...
+2025-01-05 18:54:17,418 - WARNING - Insert of existing embedding ID: andhra_chunk_2
+2025-01-05 18:54:17,418 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 18:54:17,431 - INFO - Added chunk 2 to collection andhra: ate in
+ terms of agriculture, culture, and commerc...
+2025-01-05 18:54:17,434 - WARNING - Insert of existing embedding ID: andhra_chunk_3
+2025-01-05 18:54:17,434 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 18:54:17,437 - INFO - Added chunk 3 to collection andhra: ransformative period under the visionary leadershi...
+2025-01-05 18:54:17,440 - WARNING - Insert of existing embedding ID: andhra_chunk_4
+2025-01-05 18:54:17,441 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 18:54:17,444 - INFO - Added chunk 4 to collection andhra: dhra Pradesh became a pioneer in adopting technolo...
+2025-01-05 18:54:17,447 - WARNING - Insert of existing embedding ID: andhra_chunk_5
+2025-01-05 18:54:17,448 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 18:54:17,453 - INFO - Added chunk 5 to collection andhra: ic development. This report delves into the initia...
+2025-01-05 18:54:17,454 - WARNING - Insert of existing embedding ID: andhra_chunk_6
+2025-01-05 18:54:17,454 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 18:54:17,454 - INFO - Added chunk 6 to collection andhra: 
+ Key highlights include economic liberalization, ...
+2025-01-05 18:54:17,462 - WARNING - Insert of existing embedding ID: andhra_chunk_7
+2025-01-05 18:54:17,463 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 18:54:17,467 - INFO - Added chunk 7 to collection andhra: mmunities, and fostering sustainable practices. By...
+2025-01-05 18:54:17,467 - WARNING - Insert of existing embedding ID: andhra_chunk_8
+2025-01-05 18:54:17,470 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 18:54:17,473 - INFO - Added chunk 8 to collection andhra:  shed light on the replicable strategies that can ...
+2025-01-05 18:54:17,476 - WARNING - Insert of existing embedding ID: andhra_chunk_9
+2025-01-05 18:54:17,476 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 18:54:17,476 - INFO - Added chunk 9 to collection andhra:  Economic Reforms...
+2025-01-05 18:54:17,482 - WARNING - Insert of existing embedding ID: andhra_chunk_10
+2025-01-05 18:54:17,482 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 18:54:17,486 - INFO - Added chunk 10 to collection andhra:  Nara Chandrababu Naidu focused on economic reform...
+2025-01-05 18:54:17,486 - WARNING - Insert of existing embedding ID: andhra_chunk_11
+2025-01-05 18:54:17,486 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 18:54:17,486 - INFO - Added chunk 11 to collection andhra: tination for global investors. Key initiatives inc...
+2025-01-05 18:54:17,496 - WARNING - Insert of existing embedding ID: andhra_chunk_12
+2025-01-05 18:54:17,496 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 18:54:17,499 - INFO - Added chunk 12 to collection andhra: lified bureaucratic processes to encourage industr...
+2025-01-05 18:54:17,499 - WARNING - Insert of existing embedding ID: andhra_chunk_13
+2025-01-05 18:54:17,499 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 18:54:17,499 - INFO - Added chunk 13 to collection andhra: (PPP)**: Enabled the development of major infrastr...
+2025-01-05 18:54:17,510 - WARNING - Insert of existing embedding ID: andhra_chunk_14
+2025-01-05 18:54:17,510 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 18:54:17,513 - INFO - Added chunk 14 to collection andhra: 
+ plants. - **Tax Incentives and Subsidies**: Thes...
+2025-01-05 18:54:17,516 - WARNING - Insert of existing embedding ID: andhra_chunk_15
+2025-01-05 18:54:17,516 - WARNING - Add of existing embedding ID: andhra_chunk_15
+2025-01-05 18:54:17,516 - INFO - Added chunk 15 to collection andhra: adesh a hub for innovation and business. One remar...
+2025-01-05 18:54:17,522 - WARNING - Insert of existing embedding ID: andhra_chunk_16
+2025-01-05 18:54:17,522 - WARNING - Add of existing embedding ID: andhra_chunk_16
+2025-01-05 18:54:17,526 - INFO - Added chunk 16 to collection andhra:  up its first development center outside the US in...
+2025-01-05 18:54:17,532 - INFO - Added chunk 17 to collection andhra: ce and created a ripple effect, leading to the est...
+2025-01-05 18:54:17,532 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt successfully stored in ChromaDB as andhra.
+2025-01-05 19:03:29,262 - INFO - Monitoring folder: C:/Users/srira/Desktop/GenAi2/chunking
+2025-01-05 19:03:35,429 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt
+2025-01-05 19:03:35,429 - INFO - Extracted text from andhra.txt.
+2025-01-05 19:03:35,429 - INFO - Chunked text into 18 chunks.
+2025-01-05 19:03:41,873 - INFO - Generated embeddings for 18 chunks.
+2025-01-05 19:03:41,903 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_15
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_15
+2025-01-05 19:03:42,111 - WARNING - Add of existing embedding ID: andhra_chunk_16
+2025-01-05 19:03:42,126 - WARNING - Insert of existing embedding ID: andhra_chunk_0
+2025-01-05 19:03:42,126 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 19:03:42,126 - INFO - Added chunk 0 to collection andhra:  Introduction...
+2025-01-05 19:03:42,126 - WARNING - Insert of existing embedding ID: andhra_chunk_1
+2025-01-05 19:03:42,126 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 19:03:42,126 - INFO - Added chunk 1 to collection andhra:  Andhra Pradesh, located in the southeastern regio...
+2025-01-05 19:03:42,144 - WARNING - Insert of existing embedding ID: andhra_chunk_2
+2025-01-05 19:03:42,145 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 19:03:42,147 - INFO - Added chunk 2 to collection andhra: ate in
+ terms of agriculture, culture, and commerc...
+2025-01-05 19:03:42,152 - WARNING - Insert of existing embedding ID: andhra_chunk_3
+2025-01-05 19:03:42,153 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 19:03:42,158 - INFO - Added chunk 3 to collection andhra: ransformative period under the visionary leadershi...
+2025-01-05 19:03:42,161 - WARNING - Insert of existing embedding ID: andhra_chunk_4
+2025-01-05 19:03:42,161 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 19:03:42,164 - INFO - Added chunk 4 to collection andhra: dhra Pradesh became a pioneer in adopting technolo...
+2025-01-05 19:03:42,166 - WARNING - Insert of existing embedding ID: andhra_chunk_5
+2025-01-05 19:03:42,167 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 19:03:42,172 - INFO - Added chunk 5 to collection andhra: ic development. This report delves into the initia...
+2025-01-05 19:03:42,174 - WARNING - Insert of existing embedding ID: andhra_chunk_6
+2025-01-05 19:03:42,174 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 19:03:42,176 - INFO - Added chunk 6 to collection andhra: 
+ Key highlights include economic liberalization, ...
+2025-01-05 19:03:42,180 - WARNING - Insert of existing embedding ID: andhra_chunk_7
+2025-01-05 19:03:42,180 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 19:03:42,184 - INFO - Added chunk 7 to collection andhra: mmunities, and fostering sustainable practices. By...
+2025-01-05 19:03:42,186 - WARNING - Insert of existing embedding ID: andhra_chunk_8
+2025-01-05 19:03:42,186 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 19:03:42,186 - INFO - Added chunk 8 to collection andhra:  shed light on the replicable strategies that can ...
+2025-01-05 19:03:42,195 - WARNING - Insert of existing embedding ID: andhra_chunk_9
+2025-01-05 19:03:42,195 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 19:03:42,198 - INFO - Added chunk 9 to collection andhra:  Economic Reforms...
+2025-01-05 19:03:42,201 - WARNING - Insert of existing embedding ID: andhra_chunk_10
+2025-01-05 19:03:42,201 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 19:03:42,206 - INFO - Added chunk 10 to collection andhra:  Nara Chandrababu Naidu focused on economic reform...
+2025-01-05 19:03:42,209 - WARNING - Insert of existing embedding ID: andhra_chunk_11
+2025-01-05 19:03:42,209 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 19:03:42,210 - INFO - Added chunk 11 to collection andhra: tination for global investors. Key initiatives inc...
+2025-01-05 19:03:42,215 - WARNING - Insert of existing embedding ID: andhra_chunk_12
+2025-01-05 19:03:42,215 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 19:03:42,219 - INFO - Added chunk 12 to collection andhra: lified bureaucratic processes to encourage industr...
+2025-01-05 19:03:42,219 - WARNING - Insert of existing embedding ID: andhra_chunk_13
+2025-01-05 19:03:42,219 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 19:03:42,219 - INFO - Added chunk 13 to collection andhra: (PPP)**: Enabled the development of major infrastr...
+2025-01-05 19:03:42,230 - WARNING - Insert of existing embedding ID: andhra_chunk_14
+2025-01-05 19:03:42,230 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 19:03:42,235 - INFO - Added chunk 14 to collection andhra: 
+ plants. - **Tax Incentives and Subsidies**: Thes...
+2025-01-05 19:03:42,236 - WARNING - Insert of existing embedding ID: andhra_chunk_15
+2025-01-05 19:03:42,236 - WARNING - Add of existing embedding ID: andhra_chunk_15
+2025-01-05 19:03:42,236 - INFO - Added chunk 15 to collection andhra: adesh a hub for innovation and business. One remar...
+2025-01-05 19:03:42,245 - WARNING - Insert of existing embedding ID: andhra_chunk_16
+2025-01-05 19:03:42,245 - WARNING - Add of existing embedding ID: andhra_chunk_16
+2025-01-05 19:03:42,248 - INFO - Added chunk 16 to collection andhra:  up its first development center outside the US in...
+2025-01-05 19:03:42,251 - WARNING - Insert of existing embedding ID: andhra_chunk_17
+2025-01-05 19:03:42,252 - WARNING - Add of existing embedding ID: andhra_chunk_17
+2025-01-05 19:03:42,254 - INFO - Added chunk 17 to collection andhra: ce and created a ripple effect, leading to the est...
+2025-01-05 19:03:42,254 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt successfully stored in ChromaDB as andhra.
+2025-01-05 19:03:59,273 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 19:09:40,531 - INFO - Monitoring folder: C:/Users/srira/Desktop/GenAi2/chunking
+2025-01-05 19:09:55,547 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 19:09:59,441 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt
+2025-01-05 19:09:59,443 - INFO - Extracted text from andhra.txt.
+2025-01-05 19:09:59,445 - INFO - Chunked text into 25 chunks.
+2025-01-05 19:10:09,618 - INFO - Generated embeddings for 25 chunks.
+2025-01-05 19:10:09,655 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-01-05 19:10:09,918 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 19:10:09,918 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 19:10:09,918 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 19:10:09,918 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 19:10:09,918 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 19:10:09,918 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 19:10:09,918 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 19:10:09,918 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_15
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_15
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_16
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_15
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_16
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_17
+2025-01-05 19:10:09,922 - WARNING - Insert of existing embedding ID: andhra_chunk_0
+2025-01-05 19:10:09,922 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 19:10:09,938 - INFO - Added chunk 0 to collection andhra:  Introduction...
+2025-01-05 19:10:09,938 - WARNING - Insert of existing embedding ID: andhra_chunk_1
+2025-01-05 19:10:09,938 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 19:10:09,954 - INFO - Added chunk 1 to collection andhra:  Andhra Pradesh, located in the southeastern regio...
+2025-01-05 19:10:09,960 - WARNING - Insert of existing embedding ID: andhra_chunk_2
+2025-01-05 19:10:09,960 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 19:10:09,965 - INFO - Added chunk 2 to collection andhra: ate in
+ terms of agriculture, culture, and commerc...
+2025-01-05 19:10:09,969 - WARNING - Insert of existing embedding ID: andhra_chunk_3
+2025-01-05 19:10:09,970 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 19:10:09,975 - INFO - Added chunk 3 to collection andhra: ransformative period under the visionary leadershi...
+2025-01-05 19:10:09,979 - WARNING - Insert of existing embedding ID: andhra_chunk_4
+2025-01-05 19:10:09,979 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 19:10:09,983 - INFO - Added chunk 4 to collection andhra: dhra Pradesh became a pioneer in adopting technolo...
+2025-01-05 19:10:09,988 - WARNING - Insert of existing embedding ID: andhra_chunk_5
+2025-01-05 19:10:09,988 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 19:10:09,992 - INFO - Added chunk 5 to collection andhra: ic development. This report delves into the initia...
+2025-01-05 19:10:09,995 - WARNING - Insert of existing embedding ID: andhra_chunk_6
+2025-01-05 19:10:09,995 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 19:10:10,001 - INFO - Added chunk 6 to collection andhra: 
+ Key highlights include economic liberalization, ...
+2025-01-05 19:10:10,004 - WARNING - Insert of existing embedding ID: andhra_chunk_7
+2025-01-05 19:10:10,005 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 19:10:10,005 - INFO - Added chunk 7 to collection andhra: mmunities, and fostering sustainable practices. By...
+2025-01-05 19:10:10,012 - WARNING - Insert of existing embedding ID: andhra_chunk_8
+2025-01-05 19:10:10,012 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 19:10:10,015 - INFO - Added chunk 8 to collection andhra:  shed light on the replicable strategies that can ...
+2025-01-05 19:10:10,019 - WARNING - Insert of existing embedding ID: andhra_chunk_9
+2025-01-05 19:10:10,019 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 19:10:10,019 - INFO - Added chunk 9 to collection andhra: Rural Development
+Rural development formed the bac...
+2025-01-05 19:10:10,025 - WARNING - Insert of existing embedding ID: andhra_chunk_10
+2025-01-05 19:10:10,026 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 19:10:10,029 - INFO - Added chunk 10 to collection andhra: tions included: -
+**Irrigation Projects**: The Tel...
+2025-01-05 19:10:10,033 - WARNING - Insert of existing embedding ID: andhra_chunk_11
+2025-01-05 19:10:10,034 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 19:10:10,037 - INFO - Added chunk 11 to collection andhra: nsure water availability for agriculture and drink...
+2025-01-05 19:10:10,040 - WARNING - Insert of existing embedding ID: andhra_chunk_12
+2025-01-05 19:10:10,041 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 19:10:10,044 - INFO - Added chunk 12 to collection andhra: ered women in rural areas through microcredit sche...
+2025-01-05 19:10:10,044 - WARNING - Insert of existing embedding ID: andhra_chunk_13
+2025-01-05 19:10:10,044 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 19:10:10,051 - INFO - Added chunk 13 to collection andhra: g entrepreneurship. -
+**Agricultural Reforms**: In...
+2025-01-05 19:10:10,054 - WARNING - Insert of existing embedding ID: andhra_chunk_14
+2025-01-05 19:10:10,054 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 19:10:10,057 - INFO - Added chunk 14 to collection andhra: and improved irrigation infrastructure to boost cr...
+2025-01-05 19:10:10,060 - WARNING - Insert of existing embedding ID: andhra_chunk_15
+2025-01-05 19:10:10,061 - WARNING - Add of existing embedding ID: andhra_chunk_15
+2025-01-05 19:10:10,064 - INFO - Added chunk 15 to collection andhra: oved rural incomes and reduced poverty levels....
+2025-01-05 19:10:10,067 - WARNING - Insert of existing embedding ID: andhra_chunk_16
+2025-01-05 19:10:10,067 - WARNING - Add of existing embedding ID: andhra_chunk_16
+2025-01-05 19:10:10,067 - INFO - Added chunk 16 to collection andhra:  Economic Reforms...
+2025-01-05 19:10:10,073 - WARNING - Insert of existing embedding ID: andhra_chunk_17
+2025-01-05 19:10:10,074 - WARNING - Add of existing embedding ID: andhra_chunk_17
+2025-01-05 19:10:10,077 - INFO - Added chunk 17 to collection andhra:  Nara Chandrababu Naidu focused on economic reform...
+2025-01-05 19:10:10,086 - INFO - Added chunk 18 to collection andhra: tination for global investors. Key initiatives inc...
+2025-01-05 19:10:10,089 - INFO - Added chunk 19 to collection andhra: lified bureaucratic processes to encourage industr...
+2025-01-05 19:10:10,101 - INFO - Added chunk 20 to collection andhra: (PPP)**: Enabled the development of major infrastr...
+2025-01-05 19:10:10,110 - INFO - Added chunk 21 to collection andhra: 
+ plants. - **Tax Incentives and Subsidies**: Thes...
+2025-01-05 19:10:10,118 - INFO - Added chunk 22 to collection andhra: adesh a hub for innovation and business. One remar...
+2025-01-05 19:10:10,126 - INFO - Added chunk 23 to collection andhra:  up its first development center outside the US in...
+2025-01-05 19:10:10,134 - INFO - Added chunk 24 to collection andhra: ce and created a ripple effect, leading to the est...
+2025-01-05 19:10:10,134 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt successfully stored in ChromaDB as andhra.
+2025-01-05 19:10:25,549 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 19:10:40,551 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 19:10:55,553 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 19:11:10,555 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 19:11:12,857 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt
+2025-01-05 19:11:12,884 - INFO - Extracted text from andhra.txt.
+2025-01-05 19:11:12,884 - INFO - Chunked text into 18 chunks.
+2025-01-05 19:11:17,541 - INFO - Generated embeddings for 18 chunks.
+2025-01-05 19:11:17,548 - WARNING - Insert of existing embedding ID: andhra_chunk_0
+2025-01-05 19:11:17,552 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 19:11:17,552 - INFO - Added chunk 0 to collection andhra:  Introduction...
+2025-01-05 19:11:17,559 - WARNING - Insert of existing embedding ID: andhra_chunk_1
+2025-01-05 19:11:17,560 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 19:11:17,564 - INFO - Added chunk 1 to collection andhra:  Andhra Pradesh, located in the southeastern regio...
+2025-01-05 19:11:17,567 - WARNING - Insert of existing embedding ID: andhra_chunk_2
+2025-01-05 19:11:17,567 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 19:11:17,570 - INFO - Added chunk 2 to collection andhra: ate in
+ terms of agriculture, culture, and commerc...
+2025-01-05 19:11:17,571 - WARNING - Insert of existing embedding ID: andhra_chunk_3
+2025-01-05 19:11:17,571 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 19:11:17,571 - INFO - Added chunk 3 to collection andhra: ransformative period under the visionary leadershi...
+2025-01-05 19:11:17,580 - WARNING - Insert of existing embedding ID: andhra_chunk_4
+2025-01-05 19:11:17,580 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 19:11:17,583 - INFO - Added chunk 4 to collection andhra: dhra Pradesh became a pioneer in adopting technolo...
+2025-01-05 19:11:17,585 - WARNING - Insert of existing embedding ID: andhra_chunk_5
+2025-01-05 19:11:17,585 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 19:11:17,585 - INFO - Added chunk 5 to collection andhra: ic development. This report delves into the initia...
+2025-01-05 19:11:17,585 - WARNING - Insert of existing embedding ID: andhra_chunk_6
+2025-01-05 19:11:17,585 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 19:11:17,594 - INFO - Added chunk 6 to collection andhra: 
+ Key highlights include economic liberalization, ...
+2025-01-05 19:11:17,600 - WARNING - Insert of existing embedding ID: andhra_chunk_7
+2025-01-05 19:11:17,600 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 19:11:17,603 - INFO - Added chunk 7 to collection andhra: mmunities, and fostering sustainable practices. By...
+2025-01-05 19:11:17,606 - WARNING - Insert of existing embedding ID: andhra_chunk_8
+2025-01-05 19:11:17,607 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 19:11:17,610 - INFO - Added chunk 8 to collection andhra:  shed light on the replicable strategies that can ...
+2025-01-05 19:11:17,610 - WARNING - Insert of existing embedding ID: andhra_chunk_9
+2025-01-05 19:11:17,610 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 19:11:17,610 - INFO - Added chunk 9 to collection andhra:  Economic Reforms...
+2025-01-05 19:11:17,620 - WARNING - Insert of existing embedding ID: andhra_chunk_10
+2025-01-05 19:11:17,621 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 19:11:17,623 - INFO - Added chunk 10 to collection andhra:  Nara Chandrababu Naidu focused on economic reform...
+2025-01-05 19:11:17,626 - WARNING - Insert of existing embedding ID: andhra_chunk_11
+2025-01-05 19:11:17,626 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 19:11:17,627 - INFO - Added chunk 11 to collection andhra: tination for global investors. Key initiatives inc...
+2025-01-05 19:11:17,635 - WARNING - Insert of existing embedding ID: andhra_chunk_12
+2025-01-05 19:11:17,635 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 19:11:17,637 - INFO - Added chunk 12 to collection andhra: lified bureaucratic processes to encourage industr...
+2025-01-05 19:11:17,637 - WARNING - Insert of existing embedding ID: andhra_chunk_13
+2025-01-05 19:11:17,637 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 19:11:17,644 - INFO - Added chunk 13 to collection andhra: (PPP)**: Enabled the development of major infrastr...
+2025-01-05 19:11:17,648 - WARNING - Insert of existing embedding ID: andhra_chunk_14
+2025-01-05 19:11:17,649 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 19:11:17,651 - INFO - Added chunk 14 to collection andhra: 
+ plants. - **Tax Incentives and Subsidies**: Thes...
+2025-01-05 19:11:17,652 - WARNING - Insert of existing embedding ID: andhra_chunk_15
+2025-01-05 19:11:17,652 - WARNING - Add of existing embedding ID: andhra_chunk_15
+2025-01-05 19:11:17,652 - INFO - Added chunk 15 to collection andhra: adesh a hub for innovation and business. One remar...
+2025-01-05 19:11:17,660 - WARNING - Insert of existing embedding ID: andhra_chunk_16
+2025-01-05 19:11:17,661 - WARNING - Add of existing embedding ID: andhra_chunk_16
+2025-01-05 19:11:17,664 - INFO - Added chunk 16 to collection andhra:  up its first development center outside the US in...
+2025-01-05 19:11:17,668 - WARNING - Insert of existing embedding ID: andhra_chunk_17
+2025-01-05 19:11:17,668 - WARNING - Add of existing embedding ID: andhra_chunk_17
+2025-01-05 19:11:17,671 - INFO - Added chunk 17 to collection andhra: ce and created a ripple effect, leading to the est...
+2025-01-05 19:11:17,672 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt successfully stored in ChromaDB as andhra.
+2025-01-05 19:11:40,558 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 19:11:47,622 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt
+2025-01-05 19:11:47,645 - INFO - Extracted text from andhra.txt.
+2025-01-05 19:11:47,645 - INFO - Chunked text into 9 chunks.
+2025-01-05 19:11:49,573 - INFO - Generated embeddings for 9 chunks.
+2025-01-05 19:11:49,589 - WARNING - Insert of existing embedding ID: andhra_chunk_0
+2025-01-05 19:11:49,589 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 19:11:49,589 - INFO - Added chunk 0 to collection andhra:  Introduction...
+2025-01-05 19:11:49,604 - WARNING - Insert of existing embedding ID: andhra_chunk_1
+2025-01-05 19:11:49,604 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 19:11:49,608 - INFO - Added chunk 1 to collection andhra:  Andhra Pradesh, located in the southeastern regio...
+2025-01-05 19:11:49,611 - WARNING - Insert of existing embedding ID: andhra_chunk_2
+2025-01-05 19:11:49,611 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 19:11:49,616 - INFO - Added chunk 2 to collection andhra: ate in
+ terms of agriculture, culture, and commerc...
+2025-01-05 19:11:49,618 - WARNING - Insert of existing embedding ID: andhra_chunk_3
+2025-01-05 19:11:49,618 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 19:11:49,618 - INFO - Added chunk 3 to collection andhra: ransformative period under the visionary leadershi...
+2025-01-05 19:11:49,625 - WARNING - Insert of existing embedding ID: andhra_chunk_4
+2025-01-05 19:11:49,625 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 19:11:49,629 - INFO - Added chunk 4 to collection andhra: dhra Pradesh became a pioneer in adopting technolo...
+2025-01-05 19:11:49,632 - WARNING - Insert of existing embedding ID: andhra_chunk_5
+2025-01-05 19:11:49,632 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 19:11:49,635 - INFO - Added chunk 5 to collection andhra: ic development. This report delves into the initia...
+2025-01-05 19:11:49,637 - WARNING - Insert of existing embedding ID: andhra_chunk_6
+2025-01-05 19:11:49,637 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 19:11:49,641 - INFO - Added chunk 6 to collection andhra: 
+ Key highlights include economic liberalization, ...
+2025-01-05 19:11:49,643 - WARNING - Insert of existing embedding ID: andhra_chunk_7
+2025-01-05 19:11:49,643 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 19:11:49,647 - INFO - Added chunk 7 to collection andhra: mmunities, and fostering sustainable practices. By...
+2025-01-05 19:11:49,649 - WARNING - Insert of existing embedding ID: andhra_chunk_8
+2025-01-05 19:11:49,649 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 19:11:49,653 - INFO - Added chunk 8 to collection andhra:  shed light on the replicable strategies that can ...
+2025-01-05 19:11:49,653 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt successfully stored in ChromaDB as andhra.
+2025-01-05 19:12:10,559 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 19:12:20,647 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt
+2025-01-05 19:12:20,665 - INFO - Extracted text from andhra.txt.
+2025-01-05 19:12:20,665 - INFO - Chunked text into 15 chunks.
+2025-01-05 19:12:24,187 - INFO - Generated embeddings for 15 chunks.
+2025-01-05 19:12:24,196 - WARNING - Insert of existing embedding ID: andhra_chunk_0
+2025-01-05 19:12:24,199 - WARNING - Add of existing embedding ID: andhra_chunk_0
+2025-01-05 19:12:24,203 - INFO - Added chunk 0 to collection andhra:  Introduction...
+2025-01-05 19:12:24,208 - WARNING - Insert of existing embedding ID: andhra_chunk_1
+2025-01-05 19:12:24,209 - WARNING - Add of existing embedding ID: andhra_chunk_1
+2025-01-05 19:12:24,214 - INFO - Added chunk 1 to collection andhra:  Andhra Pradesh, located in the southeastern regio...
+2025-01-05 19:12:24,219 - WARNING - Insert of existing embedding ID: andhra_chunk_2
+2025-01-05 19:12:24,219 - WARNING - Add of existing embedding ID: andhra_chunk_2
+2025-01-05 19:12:24,227 - INFO - Added chunk 2 to collection andhra: ate in
+ terms of agriculture, culture, and commerc...
+2025-01-05 19:12:24,232 - WARNING - Insert of existing embedding ID: andhra_chunk_3
+2025-01-05 19:12:24,233 - WARNING - Add of existing embedding ID: andhra_chunk_3
+2025-01-05 19:12:24,237 - INFO - Added chunk 3 to collection andhra: ransformative period under the visionary leadershi...
+2025-01-05 19:12:24,243 - WARNING - Insert of existing embedding ID: andhra_chunk_4
+2025-01-05 19:12:24,243 - WARNING - Add of existing embedding ID: andhra_chunk_4
+2025-01-05 19:12:24,246 - INFO - Added chunk 4 to collection andhra: dhra Pradesh became a pioneer in adopting technolo...
+2025-01-05 19:12:24,246 - WARNING - Insert of existing embedding ID: andhra_chunk_5
+2025-01-05 19:12:24,246 - WARNING - Add of existing embedding ID: andhra_chunk_5
+2025-01-05 19:12:24,246 - INFO - Added chunk 5 to collection andhra: ic development. This report delves into the initia...
+2025-01-05 19:12:24,260 - WARNING - Insert of existing embedding ID: andhra_chunk_6
+2025-01-05 19:12:24,260 - WARNING - Add of existing embedding ID: andhra_chunk_6
+2025-01-05 19:12:24,260 - INFO - Added chunk 6 to collection andhra: 
+ Key highlights include economic liberalization, ...
+2025-01-05 19:12:24,268 - WARNING - Insert of existing embedding ID: andhra_chunk_7
+2025-01-05 19:12:24,268 - WARNING - Add of existing embedding ID: andhra_chunk_7
+2025-01-05 19:12:24,274 - INFO - Added chunk 7 to collection andhra: mmunities, and fostering sustainable practices. By...
+2025-01-05 19:12:24,280 - WARNING - Insert of existing embedding ID: andhra_chunk_8
+2025-01-05 19:12:24,280 - WARNING - Add of existing embedding ID: andhra_chunk_8
+2025-01-05 19:12:24,281 - INFO - Added chunk 8 to collection andhra:  shed light on the replicable strategies that can ...
+2025-01-05 19:12:24,287 - WARNING - Insert of existing embedding ID: andhra_chunk_9
+2025-01-05 19:12:24,287 - WARNING - Add of existing embedding ID: andhra_chunk_9
+2025-01-05 19:12:24,292 - INFO - Added chunk 9 to collection andhra: Technological Transformation
+Under Naidu's leaders...
+2025-01-05 19:12:24,297 - WARNING - Insert of existing embedding ID: andhra_chunk_10
+2025-01-05 19:12:24,298 - WARNING - Add of existing embedding ID: andhra_chunk_10
+2025-01-05 19:12:24,301 - INFO - Added chunk 10 to collection andhra: IT destination. Key projects included: - **HITEC C...
+2025-01-05 19:12:24,304 - WARNING - Insert of existing embedding ID: andhra_chunk_11
+2025-01-05 19:12:24,304 - WARNING - Add of existing embedding ID: andhra_chunk_11
+2025-01-05 19:12:24,308 - INFO - Added chunk 11 to collection andhra: ing Consultancy City)**: A state-of-the-art IT par...
+2025-01-05 19:12:24,314 - WARNING - Insert of existing embedding ID: andhra_chunk_12
+2025-01-05 19:12:24,314 - WARNING - Add of existing embedding ID: andhra_chunk_12
+2025-01-05 19:12:24,317 - INFO - Added chunk 12 to collection andhra: tion. - **E-Seva Centers**: Revolutionized public ...
+2025-01-05 19:12:24,317 - WARNING - Insert of existing embedding ID: andhra_chunk_13
+2025-01-05 19:12:24,317 - WARNING - Add of existing embedding ID: andhra_chunk_13
+2025-01-05 19:12:24,326 - INFO - Added chunk 13 to collection andhra: ch as bill payments and document registrations. Th...
+2025-01-05 19:12:24,329 - WARNING - Insert of existing embedding ID: andhra_chunk_14
+2025-01-05 19:12:24,330 - WARNING - Add of existing embedding ID: andhra_chunk_14
+2025-01-05 19:12:24,331 - INFO - Added chunk 14 to collection andhra:  investment (FDI) but also created thousands of jo...
+2025-01-05 19:12:24,331 - INFO - Data from C:/Users/srira/Desktop/GenAi2/chunking\andhra.txt successfully stored in ChromaDB as andhra.
+2025-01-05 19:12:40,562 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 19:12:55,563 - INFO - No new files have been added recently. Waiting for new files to process...
+2025-01-05 19:13:10,565 - INFO - No new files have been added recently. Waiting for new files to process...
