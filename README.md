@@ -112,12 +112,6 @@ This project monitors a folder for new or modified files, extracts text, chunks 
 - `query_Opendb.py`:  
    - Queries the OpenAI-powered database for relevant documents.  
 
----
-
-## **Logs**
-
-📝 `processing.log`: Tracks activities related to SentenceTransformer-based processing.  
-📝 `processing1.log`: Tracks activities related to OpenAI-based processing.  
 
 ---
 
