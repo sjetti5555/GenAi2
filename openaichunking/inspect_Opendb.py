@@ -24,10 +24,10 @@ def inspect_chroma(db_path="Open_db"):
         else:
             print(f"{len(documents)} documents found in collection: {collection_name}.")
             for i, doc in enumerate(documents):
-                print(f"Document {i + 1}: {doc[:50]}...")
+                print(f"Document {i + 1}: {doc[:10]}...")
                 print(f"Metadata: {metadatas[i]}")
                 print(f"Embedding (first 5 values): {embeddings[i][:5]}")
-                print("=" * 50)
+                print("=" * 10)
 
 if __name__ == "__main__":
-    inspect_chroma("C:/Users/srira/Desktop/GenAi2/Open_db")
+    inspect_chroma("C:/Users/srira/Desktop/GenAi2/2newopen_db")

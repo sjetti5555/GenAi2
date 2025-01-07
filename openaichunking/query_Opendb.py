@@ -41,5 +41,5 @@ def query_chroma(collection_name, query_text, db_path="Open_db"):
         print("=" * 50)
 
 if __name__ == "__main__":
-    query_text = "Nara Chandrababu Naidu"
-    query_chroma("andhra", query_text, "Open_db")
+    query_text = " industry growth and market trends"
+    query_chroma("growth", query_text, "newopen_db")
