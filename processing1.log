@@ -1,8 +1,0 @@
-2025-01-05 19:31:48,701 - INFO - Monitoring folder: C:/Users/srira/Desktop/GenAi2/chunking
-2025-01-05 19:31:58,359 - INFO - Processing: C:/Users/srira/Desktop/GenAi2/chunking\andhra.docx
-2025-01-05 19:31:58,381 - INFO - Extracted text from andhra.docx.
-2025-01-05 19:31:58,381 - INFO - Chunked text into 16 chunks.
-2025-01-05 19:31:58,384 - INFO - Use pytorch device_name: cpu
-2025-01-05 19:31:58,384 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
-2025-01-05 19:32:00,705 - INFO - Generated embeddings for 16 chunks.
-2025-01-05 19:32:00,756 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
