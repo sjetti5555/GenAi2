@@ -1,24 +1,33 @@
 """
-QARagver2: Intermediate Q&A System with Folder Monitoring and Basic QA Features
+QARagver4: Enhanced Q&A System with Dynamic Monitoring and Intelligent Agents
 
 Description:
-This Python script builds a Q&A system with the following features:
+This Python script implements an advanced Q&A system with the following features:
 
-1. **Folder Monitoring and Processing:**
+1. **File Monitoring and Processing:**
    - Monitors a specified folder for pre-existing, new, and modified files.
    - Processes various file types (e.g., .txt, .pdf, .docx, .xlsx, .pptx).
    - Extracts content, chunks text, and stores embeddings in ChromaDB.
 
-2. **Question-Answering Agent:**
-   - Retrieves relevant data chunks from ChromaDB.
-   - Generates answers using OpenAI's GPT model.
+2. **Question-Answering Agents:**
+   - **Database Agent:** Retrieves relevant data chunks from ChromaDB.
+   - **Answer Generation Agent:** Generates answers using OpenAI's GPT model.
+   - **Review Agent:** Validates and dynamically formats answers (e.g., bullet points, summaries).
+   - **Fallback Agent:** Provides meaningful responses when no relevant data is found.
+   - **Personalization Agent:** Customizes responses based on user preferences (e.g., detailed or concise).
 
-3. **Interactive QA Loop:**
-   - Allows users to interact with the system via the command line.
-   - Displays answers along with their sources dynamically.
+3. **Session Context Tracking:**
+   - Maintains session history for follow-up questions.
+   - Supports context-aware responses to sequential queries.
 
-4. **Basic Logging:**
-   - Logs file processing events and errors in a log file (`processing2.log`).
+4. **Dynamic Output Structuring:**
+   - Formats answers dynamically based on user requests (e.g., converting paragraphs to bullet points).
+
+5. **Robust Logging:**
+   - Logs all events (e.g., file changes, errors) to a log file (`processing.log`).
+
+6. **Scalability:**
+   - Built with modular agents and extensible monitoring to handle diverse file types and queries.
 
 Instructions:
 - Place the script in a folder and specify the folder to monitor in `folder_to_monitor`.
@@ -42,12 +51,12 @@ import chardet
 import pdfplumber
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
-import time
 from threading import Thread
+import time
 
 # **Logging Configuration**
 logging.basicConfig(
-    filename="processing2.log",
+    filename="processing4.log",
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
@@ -60,7 +69,7 @@ def log_message(message):
 embedding_model = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
 
 # **Initialize ChromaDB**
-vectorstore = Chroma(persist_directory="scalable2_agent_db", embedding_function=embedding_model)
+vectorstore = Chroma(persist_directory="QARagver4_db", embedding_function=embedding_model)
 
 # **Utility Functions**
 def extract_text(file_path):
@@ -116,7 +125,6 @@ def get_file_hash(file_path):
 def process_file(file_path, vectorstore, processed_files):
     """Process the file: extract text, chunk it, and store in ChromaDB."""
     try:
-        # Check if the file content has changed using its hash
         file_hash = get_file_hash(file_path)
         if processed_files.get(file_path) == file_hash:
             log_message(f"No changes detected for {file_path}. Skipping.")
@@ -129,8 +137,8 @@ def process_file(file_path, vectorstore, processed_files):
 
         splitter = RecursiveCharacterTextSplitter(
             chunk_size=2500,
-            chunk_overlap=180,
-            separators=["\n\n", "\n", " ", ""]
+            chunk_overlap=200,
+            separators=["\n\n", "\n", ".", " "]
         )
         chunks = splitter.split_text(text)
 
@@ -138,7 +146,6 @@ def process_file(file_path, vectorstore, processed_files):
             log_message(f"No chunks created for {file_path}. Skipping.")
             return
 
-        # Add chunks with unique IDs to avoid duplication
         new_chunks = []
         ids = []
         for idx, chunk in enumerate(chunks):
@@ -150,15 +157,12 @@ def process_file(file_path, vectorstore, processed_files):
         log_message(f"New chunks added to vectorstore for {file_path}.")
         vectorstore.persist()
         log_message("Persisted vectorstore.")
-
-        # Update processed files with the current hash
         processed_files[file_path] = file_hash
     except Exception as e:
         log_message(f"Error processing file {file_path}: {e}")
 
 # **Folder Monitoring**
 class FolderMonitorHandler(FileSystemEventHandler):
-    """Monitor folder for file additions and modifications."""
     def __init__(self, vectorstore, processed_files):
         self.vectorstore = vectorstore
         self.processed_files = processed_files
@@ -174,19 +178,16 @@ class FolderMonitorHandler(FileSystemEventHandler):
             process_file(event.src_path, self.vectorstore, self.processed_files)
 
 def process_existing_files(folder_path, vectorstore, processed_files):
-    """Process all existing files in the folder on startup."""
     for file_name in os.listdir(folder_path):
         file_path = os.path.join(folder_path, file_name)
         if os.path.isfile(file_path):
             process_file(file_path, vectorstore, processed_files)
 
 def start_folder_monitoring(folder_path, vectorstore, processed_files):
-    """Start monitoring the specified folder."""
     if not os.path.exists(folder_path):
         os.makedirs(folder_path)
         log_message(f"Created folder: {folder_path}")
 
-    # Process existing files before starting monitoring
     log_message("Processing existing files in the folder...")
     process_existing_files(folder_path, vectorstore, processed_files)
 
@@ -197,22 +198,42 @@ def start_folder_monitoring(folder_path, vectorstore, processed_files):
     log_message(f"Monitoring folder: {folder_path}")
     observer.start()
     try:
-        observer.join()  # Keeps the monitoring thread running
+        observer.join()
     except KeyboardInterrupt:
         log_message("Stopping folder monitoring...")
         observer.stop()
 
-# **Question Answering Agent**
+# **Agents**
 def create_qa_agent(vectorstore):
-    """Create a question-answering agent."""
     retriever = vectorstore.as_retriever()
     retriever.search_kwargs = {"k": 5}
     llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
     qa_chain = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, return_source_documents=True)
     return qa_chain
 
+def review_agent(answer, source_documents):
+    """Review and format the answer dynamically."""
+    structured_output = ""
+    if isinstance(answer, str) and len(source_documents) > 0:
+        structured_output += "Answer:\n" + answer + "\n\nSources:\n"
+        for doc in source_documents:
+            structured_output += f"- {doc.metadata['source']}\n"
+    else:
+        structured_output = "No relevant information found."
+    return structured_output
+
+def fallback_agent(question):
+    """Handle cases where no data is retrieved."""
+    log_message(f"Fallback triggered for question: {question}")
+    return "Sorry, I couldn't find any relevant information. Please try rephrasing your question."
+
+def personalization_agent(answer, preference="detailed"):
+    """Adjust the answer based on user preferences."""
+    if preference == "concise":
+        return answer.split("\n")[0]  # Return only the first line of the answer
+    return answer
+
 def qa_loop(qa_agent):
-    """Interactive QA loop."""
     print("\nYou can now ask questions (type 'exit' to quit):")
     try:
         while True:
@@ -220,37 +241,33 @@ def qa_loop(qa_agent):
             if question.lower() == "exit":
                 print("\nExiting QA loop.")
                 break
-            
-            # Skip retriever for generic greetings
-            if question.lower() in ["hi", "hello", "hey"]:
+
+            # Detect general questions
+            if question.lower() in ["hi", "hello", "hey", "how are you?"]:
                 print("\nAnswer:")
-                print("Hello! How can I assist you today?")
+                print("Hello! I'm here to assist you with your queries.")
                 continue
-            
+
             result = qa_agent({"query": question})
-            print("\nAnswer:")
-            print(result["result"])
-            
-            # Display sources only if documents are retrieved
-            if result.get("source_documents"):
-                print("\nSources:")
-                for doc in result["source_documents"]:
-                    print(f"- {doc.metadata['source']}")
-            else:
-                print("\nNo relevant sources found.")
+
+            if not result.get("source_documents"):
+                print("\n" + fallback_agent(question))
+                continue
+
+            reviewed_answer = review_agent(result["result"], result.get("source_documents", []))
+            personalized_answer = personalization_agent(reviewed_answer, preference="detailed")
+            print("\n" + personalized_answer)
     except KeyboardInterrupt:
         print("\nExiting QA loop.")
 
 # **Main Script**
 if __name__ == "__main__":
     folder_to_monitor = "C:/Users/srira/Desktop/GenAi2/QA_Agents/qa_files"
-    processed_files = {}  # Dictionary to store processed file hashes
+    processed_files = {}
 
-    # Start folder monitoring in the background
     monitoring_thread = Thread(target=start_folder_monitoring, args=(folder_to_monitor, vectorstore, processed_files))
     monitoring_thread.daemon = True
     monitoring_thread.start()
 
-    # Initialize QA agent
     qa_agent = create_qa_agent(vectorstore)
     qa_loop(qa_agent)

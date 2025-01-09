@@ -1,3 +1,30 @@
+"""
+QARagver1: Basic Q&A System with Folder Monitoring
+
+Description:
+This Python script implements a foundational Q&A system with the following features:
+
+1. **Folder Monitoring:**
+   - Monitors a specified folder for new files in real-time.
+   - Processes various file types (e.g., .txt, .pdf, .docx, .csv, .xlsx, .pptx).
+   - Extracts content and stores embeddings in ChromaDB.
+
+2. **Question-Answering Agent:**
+   - Retrieves relevant chunks from ChromaDB.
+   - Generates answers using OpenAI's GPT model.
+
+3. **Interactive QA Loop:**
+   - Users can ask questions and receive answers via the command line.
+
+4. **Basic File Processing:**
+   - Extracts text from supported file formats.
+   - Splits text into chunks and stores them in ChromaDB.
+
+Instructions:
+- Place the script in a folder and specify the folder to monitor in `folder_to_monitor`.
+- Run the script, and interact with the Q&A system via the command line.
+"""
+
 import os
 import time
 from watchdog.observers import Observer
@@ -19,7 +46,7 @@ import pdfplumber
 embedding_model = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
 
 # **Initialize ChromaDB**
-vectorstore = Chroma(persist_directory="simple_agent_db", embedding_function=embedding_model)
+vectorstore = Chroma(persist_directory="scalable1_agent_db", embedding_function=embedding_model)
 
 # **Utility Functions**
 def extract_text(file_path):

@@ -1,0 +1,50 @@
+"""
+QARagver3: Basic Q&A System with Contextual Interaction
+
+Description:
+This Python script adds contextual interaction and fallback responses to the Q&A system:
+
+1. **Interactive QA Improvements:**
+   - Retrieves the top 5 most relevant chunks for answering queries.
+   - Provides fallback responses when no relevant data is found.
+
+2. **Session Context Tracking:**
+   - Prepares for tracking and handling follow-up questions intelligently.
+
+3. **Enhanced Logging:**
+   - Improved details for better tracking of file activities in `processing3.log`.
+
+4. **Question-Answering Agent:**
+   - Retrieves data from ChromaDB and generates responses using OpenAI's GPT model.
+
+Why?
+- To enhance user experience with clear answers and fallback mechanisms.
+- To prepare for advanced features like follow-up questions.
+"""
+
+"""
+QARagver3: Basic Q&A System with File Monitoring and Processing
+
+Description:
+This Python script implements a basic Q&A system with the following features:
+
+1. **File Monitoring and Processing:**
+   - Monitors a specified folder for pre-existing, new, and modified files.
+   - Processes various file types (e.g., .txt, .pdf, .docx, .xlsx, .pptx).
+   - Extracts content, chunks text, and stores embeddings in ChromaDB.
+
+2. **Question-Answering Agent:**
+   - Retrieves relevant data chunks from ChromaDB.
+   - Generates answers using OpenAI's GPT model.
+
+3. **Interactive QA Loop:**
+   - Allows users to interact with the system via the command line.
+   - Provides answers based on the processed data.
+
+4. **Robust Logging:**
+   - Logs all file processing events and errors in a log file (`processing3.log`).
+
+Instructions:
+- Place the script in a folder and specify the folder to monitor in `folder_to_monitor`.
+- Run the script, and interact with the Q&A system via the command line.
+"""

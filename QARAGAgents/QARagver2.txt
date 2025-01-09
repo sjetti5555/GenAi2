@@ -1,0 +1,53 @@
+"""
+QARagver2: Intermediate Q&A System with Enhanced Monitoring
+
+Description:
+This Python script enhances the Q&A system with the following features:
+
+1. **Enhanced Folder Monitoring:**
+   - Processes pre-existing, new, and modified files.
+   - Logs all file processing events and errors to a log file (`processing2.log`).
+
+2. **File Hashing:**
+   - Detects changes in file content using hashes to avoid redundant processing.
+
+3. **Improved Text Chunking:**
+   - Uses `RecursiveCharacterTextSplitter` with optimized chunk size and overlap.
+
+4. **Question-Answering Agent:**
+   - Retrieves relevant chunks from ChromaDB.
+   - Generates answers using OpenAI's GPT model.
+
+Why?
+- To improve efficiency and robustness by handling all file changes dynamically.
+- To introduce logging for better tracking and debugging.
+"""
+"""
+QARagver2: Intermediate Q&A System with Folder Monitoring and Basic QA Features
+
+Description:
+This Python script builds a Q&A system with the following features:
+
+1. **Folder Monitoring and Processing:**
+   - Monitors a specified folder for pre-existing, new, and modified files.
+   - Processes various file types (e.g., .txt, .pdf, .docx, .xlsx, .pptx).
+   - Extracts content, chunks text, and stores embeddings in ChromaDB.
+
+2. **Question-Answering Agent:**
+   - Retrieves relevant data chunks from ChromaDB.
+   - Generates answers using OpenAI's GPT model.
+
+3. **Interactive QA Loop:**
+   - Allows users to interact with the system via the command line.
+   - Displays answers along with their sources dynamically.
+
+4. **Basic Logging:**
+   - Logs file processing events and errors in a log file (`processing2.log`).
+
+Instructions:
+- Place the script in a folder and specify the folder to monitor in `folder_to_monitor`.
+- Run the script, and interact with the Q&A system via the command line.
+"""
+
+
+

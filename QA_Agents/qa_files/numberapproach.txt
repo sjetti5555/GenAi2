@@ -89,16 +89,57 @@ Example:       from calendar   import  *
 
 =>Hence with "import statement"  we can give alias name for module names only but not for Variables Names, Function Names and Class Names.  Where as with "from ... import statement " we can give alias names for Variables Names, Function Names and Class Names but not for Module Name".
 ===================================X========================================
-how are  you 
-hello how are your
-is it going good
+
+"""
+QARagver1: Basic Q&A System with Folder Monitoring
+
+Description:
+This Python script implements a foundational Q&A system with the following features:
+
+1. **Folder Monitoring:**
+   - Monitors a specified folder for new files in real-time.
+   - Processes various file types (e.g., .txt, .pdf, .docx, .csv, .xlsx, .pptx).
+   - Extracts content and stores embeddings in ChromaDB.
+
+2. **Question-Answering Agent:**
+   - Retrieves relevant chunks from ChromaDB.
+   - Generates answers using OpenAI's GPT model.
+
+3. **Interactive QA Loop:**
+   - Users can ask questions and receive answers via the command line.
+
+4. **Basic File Processing:**
+   - Extracts text from supported file formats.
+   - Splits text into chunks and stores them in ChromaDB.
+
+Why?
+- To provide a basic framework for monitoring files and answering questions.
+"""
+"""
+QARagver1: Basic Q&A System with Folder Monitoring
+
+Description:
+This Python script implements a foundational Q&A system with the following features:
+
+1. **Folder Monitoring:**
+   - Monitors a specified folder for new files in real-time.
+   - Processes various file types (e.g., .txt, .pdf, .docx, .csv, .xlsx, .pptx).
+   - Extracts content and stores embeddings in ChromaDB.
+
+2. **Question-Answering Agent:**
+   - Retrieves relevant chunks from ChromaDB.
+   - Generates answers using OpenAI's GPT model.
+
+3. **Interactive QA Loop:**
+   - Users can ask questions and receive answers via the command line.
+
+4. **Basic File Processing:**
+   - Extracts text from supported file formats.
+   - Splits text into chunks and stores them in ChromaDB.
+
+Instructions:
+- Place the script in a folder and specify the folder to monitor in `folder_to_monitor`.
+- Run the script, and interact with the Q&A system via the command line.
+"""
 
 
-Full Script with Updates
-Replace the get_file_hash function in your script with the updated version above. The rest of the script remains unchanged.
-
-Test the Script
-Save the updated script.
-Run the script and modify a file in the monitored folder.
-The script should now detect changes reliably and reprocess the file.
- i am good 
