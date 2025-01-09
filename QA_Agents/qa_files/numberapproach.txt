@@ -89,3 +89,16 @@ Example:       from calendar   import  *
 
 =>Hence with "import statement"  we can give alias name for module names only but not for Variables Names, Function Names and Class Names.  Where as with "from ... import statement " we can give alias names for Variables Names, Function Names and Class Names but not for Module Name".
 ===================================X========================================
+how are  you 
+hello how are your
+is it going good
+
+
+Full Script with Updates
+Replace the get_file_hash function in your script with the updated version above. The rest of the script remains unchanged.
+
+Test the Script
+Save the updated script.
+Run the script and modify a file in the monitored folder.
+The script should now detect changes reliably and reprocess the file.
+ i am good 
