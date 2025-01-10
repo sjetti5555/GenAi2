@@ -90,7 +90,7 @@ Example:       from calendar   import  *
 =>Hence with "import statement"  we can give alias name for module names only but not for Variables Names, Function Names and Class Names.  Where as with "from ... import statement " we can give alias names for Variables Names, Function Names and Class Names but not for Module Name".
 ===================================X========================================
 
-"""
+
 QARagver1: Basic Q&A System with Folder Monitoring
 
 Description:
@@ -145,6 +145,3 @@ Instructions:
 hie bro how are you 
 "
 ""em chesthunnavu
-
-
-

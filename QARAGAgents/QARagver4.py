@@ -1,5 +1,5 @@
 """
-QARagver4: Enhanced Q&A System with Dynamic Monitoring and Intelligent Agents
+QARagver4: Enhanced Q&A System with Continuous Monitoring and Intelligent Agents
 
 Description:
 This Python script implements an advanced Q&A system with the following features:
@@ -24,9 +24,12 @@ This Python script implements an advanced Q&A system with the following features
    - Formats answers dynamically based on user requests (e.g., converting paragraphs to bullet points).
 
 5. **Robust Logging:**
-   - Logs all events (e.g., file changes, errors) to a log file (`processing.log`).
+   - Logs all events (e.g., file changes, errors, idle states) to a log file (`processing4.log`).
 
-6. **Scalability:**
+6. **Continuous Operation:**
+   - The script runs indefinitely, monitoring for folder changes and handling user queries seamlessly.
+
+7. **Scalability:**
    - Built with modular agents and extensible monitoring to handle diverse file types and queries.
 
 Instructions:
@@ -234,31 +237,34 @@ def personalization_agent(answer, preference="detailed"):
     return answer
 
 def qa_loop(qa_agent):
-    print("\nYou can now ask questions (type 'exit' to quit):")
-    try:
-        while True:
-            question = input("\nAsk a question: ")
-            if question.lower() == "exit":
-                print("\nExiting QA loop.")
-                break
+    while True:
+        print("\nYou can now ask questions (type 'exit' to quit):")
+        try:
+            while True:
+                question = input("\nAsk a question (USER): ")
+                if question.lower() == "exit":
+                    print("\nExiting QA loop.")
+                    return  # Exit the loop gracefully
 
-            # Detect general questions
-            if question.lower() in ["hi", "hello", "hey", "how are you?"]:
-                print("\nAnswer:")
-                print("Hello! I'm here to assist you with your queries.")
-                continue
+                # Detect general questions
+                if question.lower() in ["hi", "hello", "hey", "how are you?"]:
+                    print("\nAnswer(AGENT):")
+                    print("Hello! I'm here to assist you with your queries.")
+                    continue
 
-            result = qa_agent({"query": question})
+                result = qa_agent({"query": question})
 
-            if not result.get("source_documents"):
-                print("\n" + fallback_agent(question))
-                continue
+                if not result.get("source_documents"):
+                    print("\n" + fallback_agent(question))
+                    continue
 
-            reviewed_answer = review_agent(result["result"], result.get("source_documents", []))
-            personalized_answer = personalization_agent(reviewed_answer, preference="detailed")
-            print("\n" + personalized_answer)
-    except KeyboardInterrupt:
-        print("\nExiting QA loop.")
+                reviewed_answer = review_agent(result["result"], result.get("source_documents", []))
+                personalized_answer = personalization_agent(reviewed_answer, preference="detailed")
+                print("\n" + personalized_answer)
+        except KeyboardInterrupt:
+            print("\nExiting QA loop. Press Ctrl+C again to terminate.")
+            break
+        time.sleep(5)  # Pause before restarting QA loop
 
 # **Main Script**
 if __name__ == "__main__":
@@ -269,5 +275,10 @@ if __name__ == "__main__":
     monitoring_thread.daemon = True
     monitoring_thread.start()
 
-    qa_agent = create_qa_agent(vectorstore)
-    qa_loop(qa_agent)
+    try:
+        qa_agent = create_qa_agent(vectorstore)
+        while True:
+            qa_loop(qa_agent)  # Restart QA loop after it exits
+    except KeyboardInterrupt:
+        log_message("Exiting the script...")
+        pass
