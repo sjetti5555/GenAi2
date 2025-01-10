@@ -69,7 +69,7 @@ def log_message(message):
 embedding_model = SentenceTransformerEmbeddings(model_name="all-MiniLM-L6-v2")
 
 # **Initialize ChromaDB**
-vectorstore = Chroma(persist_directory="QARagver4_db", embedding_function=embedding_model)
+vectorstore = Chroma(persist_directory="enhanced_vectorstore_db", embedding_function=embedding_model)
 
 # **Utility Functions**
 def extract_text(file_path):
