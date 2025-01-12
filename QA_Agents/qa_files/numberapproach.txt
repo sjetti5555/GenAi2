@@ -141,7 +141,4 @@ Instructions:
 - Place the script in a folder and specify the folder to monitor in `folder_to_monitor`.
 - Run the script, and interact with the Q&A system via the command line.
 
-
-hie bro how are you 
-"
-""em chesthunnavu
+dsnabghhuksdangihgreahgshuaiwp

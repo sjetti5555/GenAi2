@@ -71,6 +71,16 @@ def extract_data(file_path):
 def process_file(file_path, vectorstore, processed_files):
     """Processes a file by extracting text, chunking it, and storing embeddings."""
     try:
+        # Debounce file events
+        current_time = time.time()
+        if file_path in file_event_tracker and current_time - file_event_tracker[file_path] < 2:
+            return
+        file_event_tracker[file_path] = current_time
+
+        if not os.path.exists(file_path):
+            log_message(f"File {file_path} does not exist. Skipping processing.")
+            return
+
         file_hash = get_file_hash(file_path)
         if processed_files.get(file_path) == file_hash:
             log_message(f"No changes detected for {file_path}. Skipping.")
@@ -102,9 +112,28 @@ def get_file_hash(file_path):
     with open(file_path, "rb") as f:
         return hashlib.md5(f.read()).hexdigest()
 
+def remove_file_from_vectorstore(file_path, vectorstore):
+    """Removes all entries related to a file from the vectorstore."""
+    try:
+        # Fetch all IDs associated with the file
+        ids_to_delete = vectorstore.collection.get(
+            where={"source": {"$eq": file_path}},
+            include=["ids"]
+        )["ids"]
+        # Flatten the list of IDs
+        ids_to_delete = [item for sublist in ids_to_delete for item in sublist]
+        if ids_to_delete:
+            vectorstore.delete(ids=ids_to_delete)
+            vectorstore.persist()
+            log_message(f"Removed data associated with {file_path} from the vectorstore.")
+    except Exception as e:
+        log_message(f"Error removing {file_path} from vectorstore: {e}")
+
 # Folder Monitoring
+file_event_tracker = {}
+
 class FolderMonitorHandler(FileSystemEventHandler):
-    """Handles folder events (create, modify)."""
+    """Handles folder events (create, modify, delete)."""
     def __init__(self, vectorstore, processed_files, activity_event):
         self.vectorstore = vectorstore
         self.processed_files = processed_files
@@ -120,6 +149,15 @@ class FolderMonitorHandler(FileSystemEventHandler):
         if not event.is_directory:
             log_message(f"File modified: {event.src_path}")
             process_file(event.src_path, self.vectorstore, self.processed_files)
+            self.activity_event.set()
+
+    def on_deleted(self, event):
+        if not event.is_directory:
+            file_path = event.src_path
+            log_message(f"File deleted: {file_path}")
+            if file_path in self.processed_files:
+                del self.processed_files[file_path]
+            remove_file_from_vectorstore(file_path, self.vectorstore)
             self.activity_event.set()
 
 def start_folder_monitoring(folder_path, vectorstore, activity_event):
@@ -222,14 +260,16 @@ if __name__ == "__main__":
         llm = ChatOpenAI(model="gpt-3.5-turbo", temperature=0)
         qa_agent = RetrievalQA.from_chain_type(llm=llm, retriever=retriever, return_source_documents=True)
 
-        print("Start asking questions! Type 'exit' to quit.")
+        print("System is ready. Start asking questions! Type 'exit' to quit.")
         while True:
-            # Wait for 1 seconds after file activity
-            activity_event.wait(timeout=1)
+            # Wait for activity or timeout
+            activity_event.wait(timeout=2)  # Increased timeout
             activity_event.clear()
 
-            # Ask the user for input
-            query = input("\nEnter your question: ").strip()
+            # Prompt user after monitoring
+            print("\nEnter your question: ", end="")
+            query = input().strip()
+
             if query.lower() == "exit":
                 print("\nExiting the system. Goodbye!")
                 break
