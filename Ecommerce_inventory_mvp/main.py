@@ -1,4 +1,4 @@
-from db.inventory_db import insert_inventory, read_inventory
+from database.inventory_db import insert_inventory, read_inventory
 
 if __name__ == "__main__":
     insert_inventory("P001", "Smartphone", "Hyderabad", 100)
