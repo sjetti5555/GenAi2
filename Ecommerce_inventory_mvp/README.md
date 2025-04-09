@@ -72,15 +72,14 @@ inventory_mvp/
 │   ├── replenish.py       # Replenishment logic
 │   └── allocate.py        # Allocation logic
 │
-├── db/                    # Database utility
+├── database/                    # Database utility
 │   └── inventory_db.py
 │
 ├── dashboard/             # Gradio UI
 │   └── gradio_app.py
 │
 ├── main.py                # Optional script runner
-├── README.md              # Project documentation
-└── requirements.txt       # Dependencies
+└── README.md              # Project documentation
 
 
 
