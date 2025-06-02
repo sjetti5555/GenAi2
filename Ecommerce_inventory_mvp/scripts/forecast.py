@@ -1,29 +1,41 @@
 import pandas as pd
+import numpy as np
+from statsmodels.tsa.arima.model import ARIMA
+from scipy.stats import poisson
+import warnings
+warnings.filterwarnings("ignore")
 
-def forecast_demand(file_path, window=3):
-    # Load the sales data
+def forecast_poisson(sales):
+    # Mean of sales = lambda
+    lam = sales['units_sold'].mean()
+    return round(poisson.mean(mu=lam))
+
+def forecast_arima(sales, steps=1):
+    ts = sales.sort_values('date').set_index('date')['units_sold']
+    model = ARIMA(ts, order=(1, 1, 1))
+    model_fit = model.fit()
+    forecast = model_fit.forecast(steps=steps)
+    return round(forecast.iloc[-1])
+
+def forecast_demand(file_path, model_type='both'):
     df = pd.read_csv(file_path, parse_dates=['date'])
 
-    # Group by product and calculate moving average for units_sold
-    forecast = (
-        df.groupby(['product_id', 'product_name'])
-          .apply(lambda x: x.sort_values('date')
-                             .set_index('date')['units_sold']
-                             .rolling(window=window)
-                             .mean()
-                             .iloc[-1])
-          .reset_index(name='forecast_units')
-    )
+    results = []
+    for (pid, pname), group in df.groupby(['product_id', 'product_id']):
+        row = {'product_id': pid, 'product_id': pname}
+        
+        if model_type in ['poisson', 'both']:
+            row['poisson_forecast'] = forecast_poisson(group)
+        
+        if model_type in ['arima', 'both']:
+            row['arima_forecast'] = forecast_arima(group)
+        
+        results.append(row)
 
-    return forecast
+    return pd.DataFrame(results)
 
 if __name__ == "__main__":
-    file_path = "C:/Users/srira/Desktop/GenAi2/Ecommerce_inventory_mvp/data/sales_data.csv"  # Update the path as needed
-    # Forecast demand using the moving average method
-    forecast = forecast_demand(file_path)
-    print("📈 Forecasted Demand (Moving Average):")
-    print(forecast)
-    print("✅ Forecasting Completed Successfully!")
-
-
-# This script forecasts demand for products using a moving average method. It loads sales data from a CSV file, groups the data by product, and calculates the moving average of units sold over a specified window. The forecasted demand is then printed to the console.
+    file_path = "C:/Users/srira/Desktop/GenAi2/Ecommerce_inventory_mvp/data/sales_data.csv"
+    forecast_df = forecast_demand(file_path, model_type='both')
+    print(forecast_df)
+    print("\n📈 Forecasted Demand:")

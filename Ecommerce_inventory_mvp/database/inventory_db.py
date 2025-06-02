@@ -3,22 +3,22 @@ import mysql.connector
 def connect_db():
     return mysql.connector.connect(
         host="localhost",
-        user="root",              # Default user for XAMPP
-        password="",              # Leave blank for default XAMPP
+        user="root",
+        password="",
         database="ecommerce_inventory"
     )
 
-def insert_inventory(product_id, product_name, warehouse, stock):
+def insert_inventory(product_id, warehouse, stock):
     conn = connect_db()
     cursor = conn.cursor()
 
     query = """
-    INSERT INTO inventory_tracking (product_id, product_name, warehouse, current_stock)
-    VALUES (%s, %s, %s, %s)
-    ON DUPLICATE KEY UPDATE current_stock = VALUES(current_stock);
+    INSERT INTO inventory_tracking (product_id, warehouse, stock)
+    VALUES (%s, %s, %s)
+    ON DUPLICATE KEY UPDATE stock = VALUES(stock);
     """
     try:
-        cursor.execute(query, (product_id, product_name, warehouse, stock))
+        cursor.execute(query, (product_id, warehouse, stock))
         conn.commit()
     except Exception as e:
         print("Error:", e)
@@ -26,12 +26,18 @@ def insert_inventory(product_id, product_name, warehouse, stock):
         cursor.close()
         conn.close()
 
-def read_inventory():
+def read_inventory(warehouse=None):
     conn = connect_db()
     cursor = conn.cursor()
-    cursor.execute("SELECT * FROM inventory_tracking")
+
+    if warehouse:
+        cursor.execute("SELECT * FROM inventory_tracking WHERE warehouse = %s", (warehouse,))
+    else:
+        cursor.execute("SELECT * FROM inventory_tracking")
+
     rows = cursor.fetchall()
     for row in rows:
         print(row)
+
     cursor.close()
     conn.close()
