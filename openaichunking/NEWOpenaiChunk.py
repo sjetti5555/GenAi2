@@ -166,45 +166,45 @@ class FolderHandler(FileSystemEventHandler):
     def on_created(self, event):
         self.on_modified(event)
 
-def process_file(self, file_path):
-    try:
-        last_modified_time = os.path.getmtime(file_path)
-        if file_path not in self.processed_files or self.processed_files[file_path] < last_modified_time:
-            self.processed_files[file_path] = last_modified_time
-            self.last_file_processed_time = time.time()
-            log_message(f"Processing: {file_path}")
+    def process_file(self, file_path):
+        try:
+            last_modified_time = os.path.getmtime(file_path)
+            if file_path not in self.processed_files or self.processed_files[file_path] < last_modified_time:
+                self.processed_files[file_path] = last_modified_time
+                self.last_file_processed_time = time.time()
+                log_message(f"Processing: {file_path}")
 
-            # Attempt to extract text
-            try:
-                text = extract_text(file_path)
-                log_message(f"Extracted text from {os.path.basename(file_path)}.")
-            except Exception as e:
-                log_message(f"Error extracting text from {file_path}: {e}")
-                return  # Skip further processing for this file
+                # Attempt to extract text
+                try:
+                    text = extract_text(file_path)
+                    log_message(f"Extracted text from {os.path.basename(file_path)}.")
+                except Exception as e:
+                    log_message(f"Error extracting text from {file_path}: {e}")
+                    return  # Skip further processing for this file
 
-            # Attempt to chunk text
-            try:
-                chunks = chunk_text(text)
-                log_message(f"Chunked text from {os.path.basename(file_path)} into {len(chunks)} chunks.")
-            except Exception as e:
-                log_message(f"Error chunking text from {file_path}: {e}")
-                return  # Skip further processing for this file
+                # Attempt to chunk text
+                try:
+                    chunks = chunk_text(text)
+                    log_message(f"Chunked text from {os.path.basename(file_path)} into {len(chunks)} chunks.")
+                except Exception as e:
+                    log_message(f"Error chunking text from {file_path}: {e}")
+                    return  # Skip further processing for this file
 
-            # Attempt to generate embeddings
-            try:
-                embeddings = embed_chunks(chunks)
-                log_message(f"Generated embeddings for {len(embeddings)} chunks from {os.path.basename(file_path)}.")
-            except Exception as e:
-                log_message(f"Error generating embeddings for {file_path}: {e}")
-                return  # Skip further processing for this file
+                # Attempt to generate embeddings
+                try:
+                    embeddings = embed_chunks(chunks)
+                    log_message(f"Generated embeddings for {len(embeddings)} chunks from {os.path.basename(file_path)}.")
+                except Exception as e:
+                    log_message(f"Error generating embeddings for {file_path}: {e}")
+                    return  # Skip further processing for this file
 
-            # Attempt to store in ChromaDB
-            try:
-                store_in_chroma(file_path, chunks, embeddings, self.db_path)
-            except Exception as e:
-                log_message(f"Error storing data in ChromaDB for {file_path}: {e}")
-    except Exception as e:
-        log_message(f"Error processing file {file_path}: {e}")
+                # Attempt to store in ChromaDB
+                try:
+                    store_in_chroma(file_path, chunks, embeddings, self.db_path)
+                except Exception as e:
+                    log_message(f"Error storing data in ChromaDB for {file_path}: {e}")
+        except Exception as e:
+            log_message(f"Error processing file {file_path}: {e}")
 
 
 # **Main Script**
